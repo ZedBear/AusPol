@@ -1,0 +1,344 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title>Australian Political Simulator - Candidate List</title>
+<meta name="description" content="Seat-by-seat guide to the 2022 federal election">
+
+<link rel="stylesheet" type="text/css" href="../Elections.css">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:700" rel="stylesheet">
+
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDWuL8jOy9GmyEwXQaao5NS9SxwlRzRl6Y"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+<script>
+	var divisionId = window.location.search.replace("?s=", "")
+	var divisionName = divisionId
+
+	if (divisionName == "KingsfordSmith") {divisionName = "Kingsford Smith"}
+	if (divisionName == "NewEngland") {divisionName = "New England"}
+	if (divisionName == "NorthSydney") {divisionName = "North Sydney"}
+	if (divisionName == "WideBay") {divisionName = "Wide Bay"}
+	if (divisionName == "OConnor") {divisionName = "O'Connor"}
+	if (divisionName == "LaTrobe") {divisionName = "La Trobe"}
+</script>
+
+</head>
+	
+
+<body class="standard">
+
+<p class="pageheader fed">
+	<a href="https://www.pollbludger.net"><img src="https://www.pollbludger.net/images/pbhead.png" class="pblogo"></a>
+	<a href="https://www.pollbludger.net/fed2022" style="TEXT-DECORATION: NONE">&#160;FEDERAL ELECTION JUNE 2022</a>
+</p>
+
+<div class="tab"></div>
+
+
+<main>
+
+<div id="pp-donate-button" class="donate"></div>
+
+<div class="electoratepage">
+
+	<div>
+		<h1 id="title"></h1>
+		<div id="details"></div>
+	</div>
+	
+	<div style="float: left; margin: auto">
+
+		<div style="font-family: Calibri, sans-serif; font-size: 18px; font-weight: bold; text-align: center">Electorates by alphabetical list</div>
+
+		<div style="padding-top: 5px; text-align: center">
+		
+			<select id="myList" onchange="location = this.value">
+			
+				<option>Select</option>
+				<option value="candidates.html?s=Adelaide">Adelaide</option>
+				<option value="candidates.html?s=Aston">Aston</option>
+				<option value="candidates.html?s=Ballarat">Ballarat</option>
+				<option value="candidates.html?s=Banks">Banks</option>
+				<option value="candidates.html?s=Barker">Barker</option>
+				<option value="candidates.html?s=Barton">Barton</option>
+				<option value="candidates.html?s=Bass">Bass</option>
+				<option value="candidates.html?s=Bean">Bean</option>
+				<option value="candidates.html?s=Bendigo">Bendigo</option>
+				<option value="candidates.html?s=Bennelong">Bennelong</option>
+				<option value="candidates.html?s=Berowra">Berowra</option>
+				<option value="candidates.html?s=Blair">Blair</option>
+				<option value="candidates.html?s=Blaxland">Blaxland</option>
+				<option value="candidates.html?s=Bonner">Bonner</option>
+				<option value="candidates.html?s=Boothby">Boothby</option>
+				<option value="candidates.html?s=Bowman">Bowman</option>
+				<option value="candidates.html?s=Braddon">Braddon</option>
+				<option value="candidates.html?s=Bradfield">Bradfield</option>
+				<option value="candidates.html?s=Brand">Brand</option>
+				<option value="candidates.html?s=Brisbane">Brisbane</option>
+				<option value="candidates.html?s=Bruce">Bruce</option>
+				<option value="candidates.html?s=Burt">Burt</option>
+				<option value="candidates.html?s=Calare">Calare</option>
+				<option value="candidates.html?s=Calwell">Calwell</option>
+				<option value="candidates.html?s=Canberra">Canberra</option>
+				<option value="candidates.html?s=Canning">Canning</option>
+				<option value="candidates.html?s=Capricornia">Capricornia</option>
+				<option value="candidates.html?s=Casey">Casey</option>
+				<option value="candidates.html?s=Chifley">Chifley</option>
+				<option value="candidates.html?s=Chisholm">Chisholm</option>
+				<option value="candidates.html?s=Clark">Clark</option>
+				<option value="candidates.html?s=Cook">Cook</option>
+				<option value="candidates.html?s=Cooper">Cooper</option>
+				<option value="candidates.html?s=Corangamite">Corangamite</option>
+				<option value="candidates.html?s=Corio">Corio</option>
+				<option value="candidates.html?s=Cowan">Cowan</option>
+				<option value="candidates.html?s=Cowper">Cowper</option>
+				<option value="candidates.html?s=Cunningham">Cunningham</option>
+				<option value="candidates.html?s=Curtin">Curtin</option>
+				<option value="candidates.html?s=Dawson">Dawson</option>
+				<option value="candidates.html?s=Deakin">Deakin</option>
+				<option value="candidates.html?s=Dickson">Dickson</option>
+				<option value="candidates.html?s=Dobell">Dobell</option>
+				<option value="candidates.html?s=Dunkley">Dunkley</option>
+				<option value="candidates.html?s=Durack">Durack</option>
+				<option value="candidates.html?s=Eden-Monaro">Eden-Monaro</option>
+				<option value="candidates.html?s=Fadden">Fadden</option>
+				<option value="candidates.html?s=Fairfax">Fairfax</option>
+				<option value="candidates.html?s=Farrer">Farrer</option>
+				<option value="candidates.html?s=Fenner">Fenner</option>
+				<option value="candidates.html?s=Fisher">Fisher</option>
+				<option value="candidates.html?s=Flinders">Flinders</option>
+				<option value="candidates.html?s=Flynn">Flynn</option>
+				<option value="candidates.html?s=Forde">Forde</option>
+				<option value="candidates.html?s=Forrest">Forrest</option>
+				<option value="candidates.html?s=Fowler">Fowler</option>
+				<option value="candidates.html?s=Franklin">Franklin</option>
+				<option value="candidates.html?s=Fraser">Fraser</option>
+				<option value="candidates.html?s=Fremantle">Fremantle</option>
+				<option value="candidates.html?s=Gellibrand">Gellibrand</option>
+				<option value="candidates.html?s=Gilmore">Gilmore</option>
+				<option value="candidates.html?s=Gippsland">Gippsland</option>
+				<option value="candidates.html?s=Goldstein">Goldstein</option>
+				<option value="candidates.html?s=Gorton">Gorton</option>
+				<option value="candidates.html?s=Grayndler">Grayndler</option>
+				<option value="candidates.html?s=Greenway">Greenway</option>
+				<option value="candidates.html?s=Grey">Grey</option>
+				<option value="candidates.html?s=Griffith">Griffith</option>
+				<option value="candidates.html?s=Groom">Groom</option>
+				<option value="candidates.html?s=Hasluck">Hasluck</option>
+				<option value="candidates.html?s=Hawke">Hawke</option>
+				<option value="candidates.html?s=Herbert">Herbert</option>
+				<option value="candidates.html?s=Higgins">Higgins</option>
+				<option value="candidates.html?s=Hindmarsh">Hindmarsh</option>
+				<option value="candidates.html?s=Hinkler">Hinkler</option>
+				<option value="candidates.html?s=Holt">Holt</option>
+				<option value="candidates.html?s=Hotham">Hotham</option>
+				<option value="candidates.html?s=Hughes">Hughes</option>
+				<option value="candidates.html?s=Hume">Hume</option>
+				<option value="candidates.html?s=Hunter">Hunter</option>
+				<option value="candidates.html?s=Indi">Indi</option>
+				<option value="candidates.html?s=Isaacs">Isaacs</option>
+				<option value="candidates.html?s=Jagajaga">Jagajaga</option>
+				<option value="candidates.html?s=Kennedy">Kennedy</option>
+				<option value="candidates.html?s=KingsfordSmith">Kingsford Smith</option>
+				<option value="candidates.html?s=Kingston">Kingston</option>
+				<option value="candidates.html?s=Kooyong">Kooyong</option>
+				<option value="candidates.html?s=Lalor">Lalor</option>
+				<option value="candidates.html?s=LaTrobe">La Trobe</option>
+				<option value="candidates.html?s=Leichhardt">Leichhardt</option>
+				<option value="candidates.html?s=Lilley">Lilley</option>
+				<option value="candidates.html?s=Lindsay">Lindsay</option>
+				<option value="candidates.html?s=Lingiari">Lingiari</option>
+				<option value="candidates.html?s=Longman">Longman</option>
+				<option value="candidates.html?s=Lyne">Lyne</option>
+				<option value="candidates.html?s=Lyons">Lyons</option>
+				<option value="candidates.html?s=Macarthur">Macarthur</option>
+				<option value="candidates.html?s=Mackellar">Mackellar</option>
+				<option value="candidates.html?s=Macnamara">Macnamara</option>
+				<option value="candidates.html?s=Macquarie">Macquarie</option>
+				<option value="candidates.html?s=Makin">Makin</option>
+				<option value="candidates.html?s=Mallee">Mallee</option>
+				<option value="candidates.html?s=Maranoa">Maranoa</option>
+				<option value="candidates.html?s=Maribyrnong">Maribyrnong</option>
+				<option value="candidates.html?s=Mayo">Mayo</option>
+				<option value="candidates.html?s=McEwen">McEwen</option>
+				<option value="candidates.html?s=McMahon">McMahon</option>
+				<option value="candidates.html?s=McPherson">McPherson</option>
+				<option value="candidates.html?s=Melbourne">Melbourne</option>
+				<option value="candidates.html?s=Menzies">Menzies</option>
+				<option value="candidates.html?s=Mitchell">Mitchell</option>
+				<option value="candidates.html?s=Monash">Monash</option>
+				<option value="candidates.html?s=Moncrieff">Moncrieff</option>
+				<option value="candidates.html?s=Moore">Moore</option>
+				<option value="candidates.html?s=Moreton">Moreton</option>
+				<option value="candidates.html?s=Newcastle">Newcastle</option>
+				<option value="candidates.html?s=NewEngland">New England</option>
+				<option value="candidates.html?s=Nicholls">Nicholls</option>
+				<option value="candidates.html?s=NorthSydney">North Sydney</option>
+				<option value="candidates.html?s=OConnor">O'Connor</option>
+				<option value="candidates.html?s=Oxley">Oxley</option>
+				<option value="candidates.html?s=Page">Page</option>
+				<option value="candidates.html?s=Parkes">Parkes</option>
+				<option value="candidates.html?s=Parramatta">Parramatta</option>
+				<option value="candidates.html?s=Paterson">Paterson</option>
+				<option value="candidates.html?s=Pearce">Pearce</option>
+				<option value="candidates.html?s=Perth">Perth</option>
+				<option value="candidates.html?s=Petrie">Petrie</option>
+				<option value="candidates.html?s=Rankin">Rankin</option>
+				<option value="candidates.html?s=Reid">Reid</option>
+				<option value="candidates.html?s=Richmond">Richmond</option>
+				<option value="candidates.html?s=Riverina">Riverina</option>
+				<option value="candidates.html?s=Robertson">Robertson</option>
+				<option value="candidates.html?s=Ryan">Ryan</option>
+				<option value="candidates.html?s=Scullin">Scullin</option>
+				<option value="candidates.html?s=Shortland">Shortland</option>
+				<option value="candidates.html?s=Solomon">Solomon</option>
+				<option value="candidates.html?s=Spence">Spence</option>
+				<option value="candidates.html?s=Sturt">Sturt</option>
+				<option value="candidates.html?s=Swan">Swan</option>
+				<option value="candidates.html?s=Sydney">Sydney</option>
+				<option value="candidates.html?s=Tangney">Tangney</option>
+				<option value="candidates.html?s=Wannon">Wannon</option>
+				<option value="candidates.html?s=Warringah">Warringah</option>
+				<option value="candidates.html?s=Watson">Watson</option>
+				<option value="candidates.html?s=Wentworth">Wentworth</option>
+				<option value="candidates.html?s=Werriwa">Werriwa</option>
+				<option value="candidates.html?s=Whitlam">Whitlam</option>
+				<option value="candidates.html?s=WideBay">Wide Bay</option>
+				<option value="candidates.html?s=Wills">Wills</option>
+				<option value="candidates.html?s=Wright">Wright</option>
+				
+			</select>
+			
+		</div>
+		
+	</div>
+
+</div>
+
+
+<div class="electoratepage">
+
+	<div class="content">
+
+		<h3 id="candidatehead"></h3>
+
+		<table>
+			<tbody>
+
+			<tr>
+				<td class="candidatesBox" id="candidatesBox"></td>
+
+				<td style="padding-right: 90px">
+					<img id="pic1" style="margin-right: 15px" width="100" height="140" /><br /><br />
+					<img id="pic2" style="margin-right: 15px" width="100" height="140" /><br /><br />
+					<img id="pic3" style="margin-right: 15px" width="100" height="140" />
+				</td>
+
+			</tr>
+			</tbody>
+		</table>
+
+		<h3>Background</h3>
+		<div id="background"></div>
+
+		<h3>Profile</h3>
+		<div id="profile"></div>
+
+		<h3>Candidates</h3>
+		<div id="candidates"></div>
+
+		<div id="update"></div>
+		
+		<h3>Booth results map</h3>
+		<button id="insertMap" style="float: left; margin-left: 4px" autofocus>Activate</button>
+
+	</div>
+
+
+	<div class="sidebar">
+
+		<h1 style="margin-top: 24px">RESULTS AT 2019 ELECTION</h1>
+		
+		<div id="BarPrimary" style="margin-top: 10px"></div>
+		<div id="BarTCP" style="width: 370px; height: 99px; margin-top: 10px"></div>
+		<div id="BarTPP"></div>
+		
+		<div id="tablesInsert"></div>
+		
+		<div id="byInsert"></div>
+		
+		<div id="chartsInsert"></div>
+		
+		<h1 style="margin-top: 24px">DEMOGRAPHICS</h1>
+
+		<div id="BarEducation" class="demography1"></div>
+		<div id="BarMortgages" class="demography1"></div>
+		<div id="BarIncome" class="demography2"></div>
+		
+		<h1 style="margin-top: 12px">ANCESTRY</h1>
+
+		<table class="ancestrytable">
+			<tr>
+				<td id="PieAncestry1" class="ancestry"></td>
+				<td id="PieAncestry2" class="ancestry"></td>
+			</tr>
+			<tr>
+				<td id="titleAncestry" class="ancestryTitle"></td>
+				<td class="ancestryTitle">AUSTRALIA</td>
+			</tr>
+			<tr>
+				<td colspan="2"><img id="ancestryLegend" class="ancestryLegend" src="https://www.pollbludger.net/images/ancestry-legend.png" alt="ancestry legend"></td>
+			</tr>
+		</table>
+
+		<h1 style="margin-top: 24px">AGE DISTRIBUTION</h1>
+
+		<div id="BarAge" style="width: 370px; height: 220px;"></div>	
+		
+	</div>
+
+</div>
+
+
+</main>
+
+<p class="pagefooter fed"></p>
+
+<script type="text/javascript" src="js/sidebar.js"></script>
+<script type="text/javascript" src="js/tab.js"></script>
+<script type="text/javascript" src="js/content.js"></script>
+<script type="text/javascript" src="js/candidates.js"></script>
+<script type="text/javascript" src="js/maps.js"></script>
+
+<script type="text/javascript">
+
+	var head = document.getElementsByTagName('head')[0]
+	var js = document.createElement("script")
+	js.type = "text/javascript"
+	
+	if (divisionId == "Eden-Monaro")
+	{
+		js.src = "js/byEden-Monaro.js"
+	}
+
+	if (divisionId == "Groom")
+	{
+		js.src = "js/byGroom.js"
+	}
+
+	head.appendChild(js)
+	
+</script>
+
+</body>
+
+</html>
