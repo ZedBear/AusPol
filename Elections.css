@@ -1,0 +1,573 @@
+/*** Page architecture ***/
+
+html {
+	background-color: #D8D8D8;
+}
+
+body {
+	margin: 8px auto;
+	font-family: Merriweather, Georgia, serif;
+	}
+
+.standard {
+	max-width: 1020px;
+}
+
+.larger {
+	max-width: 1100px;
+}
+
+.extra {
+	max-width: 1300px;
+}
+	
+main {
+	padding: 1px 10px;
+	background-color: #FFF;
+	margin: 0 auto;
+}
+
+
+
+/*** Global ***/
+
+.donate {
+	margin-top: 10px;
+	float: right;
+}
+
+h1 {
+	font-family: Montserrat, Helvetica Neue, sans-serif;
+	font-size: 30pt;
+}
+
+h2 {
+	font-family: Montserrat, Helvetica Neue, sans-serif;
+	font-size: 20pt;
+}
+
+h3 {
+	font-family: Montserrat, Helvetica Neue, sans-serif;
+	font-size: 18pt;
+	margin-top: 10;
+}
+
+h4 {
+	font-family: Montserrat, Helvetica Neue, sans-serif;
+	font-size: 16pt;
+	margin-top: 10;
+}
+
+p {
+	font-weight: normal;
+	font-size: 12pt;
+	line-height: 140%;
+	font-family: Merriweather, Georgia, serif;
+}
+
+th {
+	background-color: #D8D8D8;
+}
+
+.bluelink {
+	text-decoration: none;
+	color: #0000FF;
+}
+
+
+
+/*** Tabs at top of page ***/
+
+div.tab {
+	overflow: hidden;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	background-color: #f1f1f1;
+	margin: 0 auto;
+}
+
+div.tab button {
+	background-color: inherit;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	padding: 5px 10px;
+	transition: 0.3s;
+	color: #606060;
+	font-family: Helvetica, Arial;
+	font-weight: bold;
+	font-size: 11pt;
+}
+
+div.tab button:hover {
+	background-color: #ddd;
+}
+
+
+
+/*** Tables with tabs ***/
+
+.tabletabs button {
+	font-size: 10pt;
+	border-radius: 10px 10px 0px 0px;
+	color: #606060;
+	font-family: Helvetica, Arial;
+	font-weight: bold;
+	background: #ffffff;
+	padding: 5px 10px 5px 10px;
+	border: solid #D3D3D3 1px;
+	border-bottom: 0px;
+	text-decoration: none;
+	font-size: 11pt;
+	outline: none;
+}
+
+.tabletabs button:hover {background-color:#D3D3D3}
+.tabletabs button:focus {background-color:#909090; color: #FFFFFF}
+
+
+
+/*** Headers and footers ***/
+
+.pageheader {
+	font-family: Montserrat, Helvetica Neue, sans-serif;
+	font-weight: bold;
+	text-align: left; 	  
+	font-size: 25pt;
+	margin: 0 auto;
+	padding: 1px 0;
+	line-height: 130%;
+	}
+
+.pageheader a {
+	color: inherit;
+	text-decoration: none;
+}
+
+.pblogo {
+	margin: 4px 4px; 
+	float: right;
+}
+
+.tabheader {
+	overflow: hidden;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	background-color: #f1f1f1;
+	margin: 0 auto;
+}
+
+.tabheader button {
+	border: none;
+	padding: 5px 10px;
+	color: #606060;
+	font-family: Helvetica, Arial;
+	font-weight: bold;
+	font-size: 11pt;
+}
+
+.tabheader button:hover {
+	background-color: #ddd;
+}
+
+.fed {
+	background-color: #000000;
+	color: #FFFFFF;
+}	
+
+.nsw {
+	background-color: #87CEEB;
+	color: #FFFF00;
+}	
+
+.vic {
+	background-color: #000080;
+	color: #FFFF00;
+}
+
+.qld {
+	background-color: #79001F;
+	color: #FFFF00;
+}
+
+.wa {
+	background-color: #000000;
+	color: #FFD700;
+}
+
+.sa {
+	background-color: #FFD700;
+	color: #FF0000;
+}
+
+.tas {
+	background-color: #006A4E;
+	color: #FFFF00;
+}
+
+.act {
+	background-color: #00005B;
+	color: #FFD700;
+}
+
+.nt {
+	background-color: #000000;
+	color: #E65A00;
+}
+
+.pagefooter {
+	margin: auto;
+}
+
+.pagefooter.fed {
+	border-bottom: 12px solid #000000;
+}
+
+.pagefooter.nsw {
+	border-bottom: 12px solid #87CEEB;
+}
+
+.pagefooter.vic {
+	border-bottom: 12px solid #000080;
+}
+
+.pagefooter.qld {
+	border-bottom: 12px solid #79001F;
+}
+
+.pagefooter.wa {
+	border-bottom: 12px solid #000000;
+}
+
+.pagefooter.sa {
+	border-bottom: 12px solid #FFD700;
+}
+
+.pagefooter.tas {
+	border-bottom: 12px solid #006A4E;
+}
+
+.pagefooter.act {
+	border-bottom: 12px solid #00005B;
+}
+
+.pagefooter.nt {
+	border-bottom: 12px solid #000000;
+}
+
+
+
+/*** Content section ***/
+
+.candidatesBox {
+	font-family: Calibri, Arial, Helvetica, sans-serif; 
+	width: 400px;
+	padding-left: 80px;
+}
+
+.candidatesBoxSmall {
+	font-size: 11pt;
+}
+
+.candidatesBoxMid {
+	font-size: 12pt;
+}
+
+.candidatesBoxLarge {
+	font-size: 13pt;
+}
+
+.candidatesBoxFamily {
+	font-size: 15pt;
+}
+
+.content {
+	float: left;
+	overflow: hidden;
+	padding-right: 35px;
+}
+
+
+
+/*** Sidebar section ***/
+
+.electoratehead {
+	display: grid;
+	grid-template-columns: 630px 370px;
+}
+
+.electoratepage {
+	display: grid;
+	grid-template-columns: 630px 370px;
+}
+
+.sidebar {
+	background-color: #FFF;
+	float: right;
+	margin-bottom: 10px;
+}
+
+/* Headings */
+
+.sidebar h1 {
+	font-family: Calibri, Arial, Helvetica, sans-serif;
+	background-color: #D8D8D8;
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: center;
+	margin: 3px 0;
+}
+
+/* Sidebar candidates list */
+
+.sidebar .candidatelist {
+	font-family: Calibri, Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    width: 100%;
+	padding-bottom: 10px;
+}
+
+/* Sidebar candidates list */
+
+.sidebar .seatslist {
+	font-family: Calibri, Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    width: 100%;
+	padding-bottom: 10px;
+}
+
+.sidebar .seatslist a {
+	text-decoration: none;
+}
+
+/* Previous election result bar charts */
+
+.Bar2 {
+	width: 370px;
+	height: 115px	
+}
+
+.Bar3 {
+	width: 370px;
+	height: 140px	
+}
+
+.Bar4 {
+	width: 370px;
+	height: 160px	
+}
+
+.Bar5 {
+	width: 370px;
+	height: 186px	
+}
+
+.Bar6 {
+	width: 370px;
+	height: 210px	
+}
+
+.Bar7 {
+	width: 370px;
+	height: 236px	
+}
+
+/* Previous election result tables */
+
+.tableHead {
+	font-family: Calibri, Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	font-weight: bold;
+	padding: 10px 0;
+}
+
+.tableVotes {
+	width: 370px; 
+	padding-bottom: 20px;
+}
+
+/* Previous election result tables: called on by API through cssClassNames */
+
+.resultsHead {
+	background-color: #FFF;
+	text-align: right;
+	font-weight: bold;
+	font-size: 12px
+}
+
+.resultsRow {
+	font-size: 12px
+}
+
+.resultsHeadSenate {
+	background-color: #FFF;
+	text-align: right;
+	font-weight: bold;
+	font-size: 11px
+}
+
+.resultsHeadSenateCands {
+	background-color: #FFF;
+	text-align: left;
+	font-weight: bold;
+	font-size: 11px
+}
+
+.resultsRowSenate {
+	font-size: 11px
+}
+
+.resultsRowBold {
+	font-size: 12px;
+	font-weight: bold
+}
+
+/* Demography charts */
+
+.demography1 {
+	width: 370px;
+	height: 100px;
+}
+
+.demography2 {
+	width: 370px;
+	height: 120px;
+}
+
+.ancestry {
+	width: 180px;
+	height: 180px;
+}
+
+.ancestryTitle {
+	font-family: Calibri, Arial, Helvetica, sans-serif; 
+	font-size: 12pt; 
+	font-weight: bold;	
+	text-align: center;
+}
+
+.ancestryLegend {
+	display: block;
+	margin-left: auto; 
+	margin-right: auto;	
+}
+
+svg > g > g:last-child { pointer-events: none } /* Stops tooltip flickering
+
+
+
+/*** Map ***/
+	
+/* Booth results window */
+
+table.infowindow {
+	width: 100%;
+	text-align: center
+}
+
+td.boothhead {
+	text-align: left;
+	font-size: 12pt;
+	font-weight: bold
+}
+
+td.voteshead {
+	text-align: left;
+	background-color: #D8D8D8;
+	font-weight: bold;
+	font-family: Calibri, Arial, Helvetica, sans-serif
+}
+
+table.infowindow td {
+	font-family: Calibri, Arial, Helvetica, sans-serif
+}
+
+
+
+/*** Results pages ***/
+
+.booths2pp {
+	background-color: #D8D8D8;
+}
+
+.TasResults {
+	display: grid;
+	grid-template-columns: 580px 420px;
+}
+
+.standard .SeatResults {
+	display: grid;
+	grid-template-columns: 540px 460px;
+}
+
+.larger .SeatResults {
+	display: grid;
+	grid-template-columns: 580px 500px;
+}
+
+.detail p {
+	font-size: 9pt;
+	font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.detailgeneral p {
+	font-size: 11pt;
+	font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.mainresults {
+	width: 100%;
+	height: 10;
+	font-size: 12pt;
+	font-family: Calibri, Arial, Helvetica, sans-serif;
+	text-align: center; 	  
+}
+
+#tableBooths {
+	width: 100%;
+	border-collapse: collapse;
+	font-family: Calibri, Arial, Helvetica, sans-serif;
+	height: 10;
+	text-align: center;
+}
+
+.tableBoothsFull {
+	font-size: 10pt;
+	margin-bottom: 10px;
+}
+
+.topcharts {
+    margin: auto; 
+	font-size: 11pt;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	width: 90%
+}
+
+/* Stops party name label appearing on gauge chart */
+svg:first-child > g > text[text-anchor~=middle]{
+    font-size: 0px;
+}
+
+
+
+/*** Entry pages ***/
+
+.entrypage {
+	display: grid;
+	grid-template-columns: 80% 20%;
+}
+
+
+
+/*** BludgerTrack ***/
+
+/* Set font size for tabs on poll data table */
+.bttab.tabletabs button{
+	font-size: 10pt;
+}
+
