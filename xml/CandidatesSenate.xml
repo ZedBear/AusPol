@@ -1,0 +1,757 @@
+﻿<Senate>
+  <State Name="ACT">
+    <Group Name="Labor" Ticket="A">
+      <Candidate Name="KATY GALLAGHER" BallotPos="1" />
+      <Candidate Name="MADDY NORTHAM" BallotPos="2" />
+    </Group>
+    <Group Name="Sustainable Australia" Ticket="B">
+      <Candidate Name="JOY ANGEL" BallotPos="1" />
+      <Candidate Name="JOHN HAYDON" BallotPos="2" />
+    </Group>
+    <Group Name="United Australia Party" Ticket="C">
+      <Candidate Name="JAMES SAVOULIDIS" BallotPos="1" />
+      <Candidate Name="TRACEY PAGE" BallotPos="2" />
+    </Group>
+    <Group Name="Liberal" Ticket="D">
+      <Candidate Name="ZED SESELJA" BallotPos="1" />
+      <Candidate Name="KACEY LAM" BallotPos="2" />
+    </Group>
+    <Group Name="David Pocock" Ticket="E">
+      <Candidate Name="DAVID POCOCK" BallotPos="1" />
+      <Candidate Name="CLARE DOUBE" BallotPos="2" />
+    </Group>
+    <Group Name="Kim for Canberra" Ticket="F">
+      <Candidate Name="KIM RUBENSTEIN" BallotPos="1" />
+      <Candidate Name="KIM HUYNH" BallotPos="2" />
+    </Group>
+    <Group Name="Australian Progressives" Ticket="G">
+      <Candidate Name="THERESE FAULKNER" BallotPos="1" />
+      <Candidate Name="STEPHEN LIN" BallotPos="2" />
+    </Group>
+    <Group Name="Greens" Ticket="H">
+      <Candidate Name="TJANARA GORENG GORENG" BallotPos="1" />
+      <Candidate Name="JAMES CRUZ" BallotPos="2" />
+    </Group>
+    <Group Name="Legalise Cannabis" Ticket="I">
+      <Candidate Name="ANDREW KATELARIS" BallotPos="1" />
+      <Candidate Name="MICHELLE STANVIC" BallotPos="2" />
+    </Group>
+    <Group Name="Animal Justice" Ticket="J">
+      <Candidate Name="YANA del VALLE" BallotPos="1" />
+      <Candidate Name="JANNAH FAHIZ" BallotPos="2" />
+    </Group>
+    <Group Name="Informed Medical Options Party" Ticket="K">
+      <Candidate Name="MICHAEL SIMMS" BallotPos="1" />
+      <Candidate Name="MARY-JANE LIDDICOAT" BallotPos="2" />
+    </Group>
+    <Group Name="Ungrouped" Ticket="ZZ">
+      <Candidate Name="FUXIN LI" BallotPos="1" />
+    </Group>
+  </State>
+  <State Name="NSW">
+    <Group Name="Animal Justice" Ticket="A">
+      <Candidate Name="DARREN BROLLO" BallotPos="1" />
+      <Candidate Name="JULIE POWER" BallotPos="2" />
+    </Group>
+    <Group Name="TNL" Ticket="B">
+      <Candidate Name="STEVE KEEN" BallotPos="1" />
+      <Candidate Name="MELISSA GREEN" BallotPos="2" />
+    </Group>
+    <Group Name="Citizens Party" Ticket="C">
+      <Candidate Name="KINGSLEY LIU" BallotPos="1" />
+      <Candidate Name="ANN LAWLER" BallotPos="2" />
+    </Group>
+    <Group Name="Sustainable Australia" Ticket="D">
+      <Candidate Name="GEORGIA LAMB" BallotPos="1" />
+      <Candidate Name="SUZANNE DE VIVE" BallotPos="2" />
+    </Group>
+    <Group Name="Greens" Ticket="E">
+      <Candidate Name="DAVID SHOEBRIDGE" BallotPos="1" />
+      <Candidate Name="AMANDA COHN" BallotPos="2" />
+      <Candidate Name="ROCHELLE FLOOD" BallotPos="3" />
+      <Candidate Name="JANE SCOTT" BallotPos="4" />
+      <Candidate Name="HAWA ARYA" BallotPos="5" />
+      <Candidate Name="DANIELLE WHEELER" BallotPos="6" />
+    </Group>
+    <Group Name="Group F" Ticket="F">
+      <Candidate Name="MAX BODDY" BallotPos="1" />
+      <Candidate Name="OSCAR GRENFELL" BallotPos="2" />
+    </Group>
+    <Group Name="Liberal/Nationals" Ticket="G">
+      <Candidate Name="MARISE PAYNE" BallotPos="1" />
+      <Candidate Name="ROSS CADELL" BallotPos="2" />
+      <Candidate Name="JIM MOLAN" BallotPos="3" />
+      <Candidate Name="ALISON LOUISE PENFOLD" BallotPos="4" />
+      <Candidate Name="MARY-LOU JARVIS" BallotPos="5" />
+      <Candidate Name="VICKY McGAHEY" BallotPos="6" />
+    </Group>
+    <Group Name="Reason Australia" Ticket="H">
+      <Candidate Name="JANE CARO" BallotPos="1" />
+      <Candidate Name="HANNAH KATE MAHER" BallotPos="2" />
+      <Candidate Name="DIANA RYALL" BallotPos="3" />
+    </Group>
+    <Group Name="Socialist Alliance" Ticket="I">
+      <Candidate Name="PAULA SANCHEZ" BallotPos="1" />
+      <Candidate Name="NIKO LEKA" BallotPos="2" />
+      <Candidate Name="RACHEL EVANS" BallotPos="3" />
+    </Group>
+    <Group Name="Federal ICAC Now" Ticket="J">
+      <Candidate Name="ROSS JONES" BallotPos="1" />
+      <Candidate Name="GABRIELLE ANDERSON" BallotPos="2" />
+    </Group>
+    <Group Name="Australian Democrats" Ticket="K">
+      <Candidate Name="STEVEN JAMES BATY" BallotPos="1" />
+      <Candidate Name="SUZANNE ROGERS" BallotPos="2" />
+      <Candidate Name="CRAIG EDWARD RICHARDS" BallotPos="3" />
+    </Group>
+    <Group Name="Indigenous - Aboriginal Party" Ticket="L">
+      <Candidate Name="OWEN DOUGLAS WHYMAN" BallotPos="1" />
+      <Candidate Name="LAWRENCE JOHN BROOKE" BallotPos="2" />
+    </Group>
+    <Group Name="Shooters Fishers and Farmers" Ticket="M">
+      <Candidate Name="SHANE DJURIC" BallotPos="1" />
+      <Candidate Name="DESIREE J GREGORY" BallotPos="2" />
+      <Candidate Name="BRIAN MILGATE" BallotPos="3" />
+      <Candidate Name="JEREMY CROOKS" BallotPos="4" />
+    </Group>
+    <Group Name="Seniors United Party" Ticket="N">
+      <Candidate Name="DESSIE KOCHER" BallotPos="1" />
+      <Candidate Name="RAY BENNIE" BallotPos="2" />
+    </Group>
+    <Group Name="Informed Medical Options Party" Ticket="O">
+      <Candidate Name="MICHAEL O'NEILL" BallotPos="1" />
+      <Candidate Name="MARELLE BURNUM BURNUM" BallotPos="2" />
+    </Group>
+    <Group Name="Great Australian Party" Ticket="P">
+      <Candidate Name="MATTHEW HOPKINS" BallotPos="1" />
+      <Candidate Name="GEORGE NOHRA" BallotPos="2" />
+    </Group>
+    <Group Name="Legalise Cannabis" Ticket="Q">
+      <Candidate Name="MICHAEL BALDERSTONE" BallotPos="1" />
+      <Candidate Name="GAIL HESTER" BallotPos="2" />
+    </Group>
+    <Group Name="FUSION: Science, Pirate, Secular, Climate Emergency" Ticket="R">
+      <Candidate Name="ANDREA LEONG" BallotPos="1" />
+      <Candidate Name="IAN R BRYCE" BallotPos="2" />
+    </Group>
+    <Group Name="One Nation" Ticket="S">
+      <Candidate Name="KATE McCULLOCH" BallotPos="1" />
+      <Candidate Name="COLIN GRIGG" BallotPos="2" />
+      <Candidate Name="ROGER SMITH" BallotPos="3" />
+    </Group>
+    <Group Name="Liberal Democrats" Ticket="T">
+      <Candidate Name="JOHN RUDDICK" BallotPos="1" />
+      <Candidate Name="JOHN LARTER" BallotPos="2" />
+      <Candidate Name="JAMES ARTHUR CALDWELL" BallotPos="3" />
+      <Candidate Name="MARK ANTONY GUEST" BallotPos="4" />
+    </Group>
+    <Group Name="Australian Values Party" Ticket="U">
+      <Candidate Name="SELENA CLANCY" BallotPos="1" />
+      <Candidate Name="DAVE GILBERT" BallotPos="2" />
+    </Group>
+    <Group Name="Labor" Ticket="V">
+      <Candidate Name="DEBORAH O'NEILL" BallotPos="1" />
+      <Candidate Name="JENNY McALLISTER" BallotPos="2" />
+      <Candidate Name="SHIREEN MORRIS" BallotPos="3" />
+      <Candidate Name="MICH-ELLE ELIZABETH MYERS" BallotPos="4" />
+      <Candidate Name="KYLIE ANNE ROSE" BallotPos="5" />
+      <Candidate Name="JAMES WARREN-SMITH" BallotPos="6" />
+    </Group>
+    <Group Name="United Australia Party" Ticket="W">
+      <Candidate Name="DOMENIC VINCENT MARTINO" BallotPos="1" />
+      <Candidate Name="SUELLEN WRIGHTSON" BallotPos="2" />
+      <Candidate Name="WAYNE LESLIE MOORE" BallotPos="3" />
+      <Candidate Name="MICHELLE MARTIN" BallotPos="4" />
+      <Candidate Name="JOHNNY YAP" BallotPos="5" />
+      <Candidate Name="KEVIN ANDREW LOUGHREY" BallotPos="6" />
+    </Group>
+    <Group Name="Ungrouped" Ticket="ZZ">
+      <Candidate Name="DANNY LIM" BallotPos="1" />
+      <Candidate Name="JULIE COLLINS" BallotPos="2" />
+      <Candidate Name="WARREN GRZIC" BallotPos="3" />
+      <Candidate Name="GUITANG LU" BallotPos="4" />
+      <Candidate Name="WILLIAM LAING" BallotPos="5" />
+    </Group>
+  </State>
+  <State Name="NT">
+    <Group Name="Country Liberals" Ticket="A">
+      <Candidate Name="JACINTA NAMPIJINPA PRICE" BallotPos="1" />
+      <Candidate Name="KRIS CIVITARESE" BallotPos="2" />
+    </Group>
+    <Group Name="Liberal Democrats" Ticket="B">
+      <Candidate Name="SAM McMAHON" BallotPos="1" />
+      <Candidate Name="JED HANSEN" BallotPos="2" />
+    </Group>
+    <Group Name="Labor" Ticket="C">
+      <Candidate Name="MALARNDIRRI McCARTHY" BallotPos="1" />
+      <Candidate Name="KATE GANLEY" BallotPos="2" />
+    </Group>
+    <Group Name="Legalise Cannabis" Ticket="D">
+      <Candidate Name="LANCE LAWRENCE" BallotPos="1" />
+      <Candidate Name="KELLY-ANNE HIBBERT" BallotPos="2" />
+    </Group>
+    <Group Name="Sustainable Australia" Ticket="E">
+      <Candidate Name="LAMAAN WHYTE" BallotPos="1" />
+      <Candidate Name="RICHARD BELCHER" BallotPos="2" />
+    </Group>
+    <Group Name="Great Australian Party" Ticket="F">
+      <Candidate Name="STEVE ARRIGO" BallotPos="1" />
+      <Candidate Name="ANGELA MARCUS" BallotPos="2" />
+    </Group>
+    <Group Name="Citizens Party" Ticket="G">
+      <Candidate Name="TRUDY CAMPBELL" BallotPos="1" />
+      <Candidate Name="PETER FLYNN" BallotPos="2" />
+    </Group>
+    <Group Name="Greens" Ticket="H">
+      <Candidate Name="JANE ANLEZARK" BallotPos="1" />
+      <Candidate Name="DIANNE STOKES" BallotPos="2" />
+    </Group>
+    <Group Name="Ungrouped" Ticket="ZZ">
+      <Candidate Name="RAJ RAJWIN" BallotPos="1" />
+    </Group>
+  </State>
+  <State Name="QLD">
+    <Group Name="Group A" Ticket="A">
+      <Candidate Name="LEN HARRIS" BallotPos="1" />
+      <Candidate Name="DEBRA YUILLE" BallotPos="2" />
+    </Group>
+    <Group Name="Socialist Alliance" Ticket="B">
+      <Candidate Name="RENEE LEES" BallotPos="1" />
+      <Candidate Name="KAMALA EMANUEL" BallotPos="2" />
+    </Group>
+    <Group Name="Legalise Cannabis" Ticket="C">
+      <Candidate Name="BERNARD ANTHONY BRADLEY" BallotPos="1" />
+      <Candidate Name="SUZETTE LUYKEN" BallotPos="2" />
+    </Group>
+    <Group Name="Sustainable Australia" Ticket="D">
+      <Candidate Name="RHETT MARTIN" BallotPos="1" />
+      <Candidate Name="TIMOTHEOS FIRESTONE" BallotPos="2" />
+    </Group>
+    <Group Name="Reason Australia" Ticket="E">
+      <Candidate Name="RON WILLIAMS" BallotPos="1" />
+      <Candidate Name="FRANK JORDAN" BallotPos="2" />
+    </Group>
+    <Group Name="TNL" Ticket="F">
+      <Candidate Name="BESS BRENNAN" BallotPos="1" />
+      <Candidate Name="HANNAH KENNISH" BallotPos="2" />
+      <Candidate Name="STEVEN HOPLEY" BallotPos="3" />
+      <Candidate Name="JONATHON MOMSEN" BallotPos="4" />
+      <Candidate Name="LLOYD INGRAM" BallotPos="5" />
+      <Candidate Name="JACK CREIGHTON" BallotPos="6" />
+    </Group>
+    <Group Name="Federal ICAC Now" Ticket="G">
+      <Candidate Name="KERIN PAYNE" BallotPos="1" />
+      <Candidate Name="KEN CARROLL" BallotPos="2" />
+    </Group>
+    <Group Name="Group H" Ticket="H">
+      <Candidate Name="STEVE DICKSON" BallotPos="1" />
+      <Candidate Name="REBECCA LLOYD" BallotPos="2" />
+    </Group>
+    <Group Name="Group I" Ticket="I">
+      <Candidate Name="MIKE HEAD" BallotPos="1" />
+      <Candidate Name="JOHN DAVIS" BallotPos="2" />
+    </Group>
+    <Group Name="Greens" Ticket="J">
+      <Candidate Name="PENNY ALLMAN-PAYNE" BallotPos="1" />
+      <Candidate Name="ANNA SRI" BallotPos="2" />
+      <Candidate Name="BEN PENNINGS" BallotPos="3" />
+      <Candidate Name="NAVDEEP SINGH SIDHU" BallotPos="4" />
+      <Candidate Name="ALYCE NELLIGAN" BallotPos="5" />
+      <Candidate Name="REBECCA HALEY" BallotPos="6" />
+    </Group>
+    <Group Name="Indigenous - Aboriginal Party" Ticket="K">
+      <Candidate Name="LIONEL HENAWAY" BallotPos="1" />
+      <Candidate Name="JENNY-LEE CARR" BallotPos="2" />
+    </Group>
+    <Group Name="Citizens Party" Ticket="L">
+      <Candidate Name="JAN PUKALLUS" BallotPos="1" />
+      <Candidate Name="ROD DOEL" BallotPos="2" />
+    </Group>
+    <Group Name="Great Australian Party" Ticket="M">
+      <Candidate Name="JASON MILES" BallotPos="1" />
+      <Candidate Name="ELISE COTTAM" BallotPos="2" />
+    </Group>
+    <Group Name="Australian Values Party" Ticket="N">
+      <Candidate Name="HESTON RUSSELL" BallotPos="1" />
+      <Candidate Name="JAY HANSEN" BallotPos="2" />
+    </Group>
+    <Group Name="Australian Federation Party" Ticket="O">
+      <Candidate Name="ISABEL TILYARD" BallotPos="1" />
+      <Candidate Name="JACKIE BENNETT" BallotPos="2" />
+      <Candidate Name="MICHAEL FRANCIS SMYTH" BallotPos="3" />
+    </Group>
+    <Group Name="Animal Justice" Ticket="P">
+      <Candidate Name="MACKENZIE SEVERNS" BallotPos="1" />
+      <Candidate Name="SUE WEBER" BallotPos="2" />
+    </Group>
+    <Group Name="Australian Democrats" Ticket="Q">
+      <Candidate Name="LUKE ARBUCKLE" BallotPos="1" />
+      <Candidate Name="CHRIS SIMPSON" BallotPos="2" />
+    </Group>
+    <Group Name="United Australia Party" Ticket="R">
+      <Candidate Name="CLIVE FREDERICK PALMER" BallotPos="1" />
+      <Candidate Name="MARTIN BREWSTER" BallotPos="2" />
+      <Candidate Name="DESMOND ADIDI" BallotPos="3" />
+      <Candidate Name="JACK McCABE" BallotPos="4" />
+    </Group>
+    <Group Name="Liberal National Party" Ticket="S">
+      <Candidate Name="JAMES McGRATH" BallotPos="1" />
+      <Candidate Name="MATT CANAVAN" BallotPos="2" />
+      <Candidate Name="AMANDA STOKER" BallotPos="3" />
+      <Candidate Name="NICOLE TOBIN" BallotPos="4" />
+      <Candidate Name="ANDREW CRIPPS" BallotPos="5" />
+      <Candidate Name="FIONA WARD" BallotPos="6" />
+    </Group>
+    <Group Name="Informed Medical Options Party" Ticket="T">
+      <Candidate Name="ALLONA LAHN" BallotPos="1" />
+      <Candidate Name="JASMINE MELHOP" BallotPos="2" />
+      <Candidate Name="PETER LAMBETH" BallotPos="3" />
+    </Group>
+    <Group Name="FUSION: Science, Pirate, Secular, Climate Emergency" Ticket="U">
+      <Candidate Name="BRANDON SELIC" BallotPos="1" />
+      <Candidate Name="ROGER WHATLING" BallotPos="2" />
+    </Group>
+    <Group Name="Drew Pavlou Democratic Alliance" Ticket="V">
+      <Candidate Name="DREW PAVLOU" BallotPos="1" />
+      <Candidate Name="SIMON LEITCH" BallotPos="2" />
+    </Group>
+    <Group Name="Liberal Democrats" Ticket="W">
+      <Candidate Name="CAMPBELL NEWMAN" BallotPos="1" />
+      <Candidate Name="TEGAN GRAINGER" BallotPos="2" />
+    </Group>
+    <Group Name="One Nation" Ticket="X">
+      <Candidate Name="PAULINE HANSON" BallotPos="1" />
+      <Candidate Name="RAJ GURUSWAMY" BallotPos="2" />
+      <Candidate Name="GEORGE CHRISTENSEN" BallotPos="3" />
+    </Group>
+    <Group Name="Labor" Ticket="Y">
+      <Candidate Name="MURRAY WATT" BallotPos="1" />
+      <Candidate Name="ANTHONY CHISHOLM" BallotPos="2" />
+      <Candidate Name="EDWINA ANDREW" BallotPos="3" />
+      <Candidate Name="CHRISTINA WARRY" BallotPos="4" />
+      <Candidate Name="JEN HENDERSON" BallotPos="5" />
+      <Candidate Name="RICHARD PASCOE" BallotPos="6" />
+    </Group>
+    <Group Name="Ungrouped" Ticket="ZZ">
+      <Candidate Name="ROBERT LYON" BallotPos="1" />
+      <Candidate Name="DAVID JOHN SCHEFE" BallotPos="2" />
+      <Candidate Name="LINDSAY TEMPLE" BallotPos="3" />
+      <Candidate Name="CHEY GEOFFREY HAMILTON" BallotPos="4" />
+      <Candidate Name="LORRAINE SMITH" BallotPos="5" />
+      <Candidate Name="LAURENCE QUINLIVAN" BallotPos="6" />
+      <Candidate Name="KARAKAN KAROLY KOCHARDY" BallotPos="7" />
+      <Candidate Name="PETER ROGERS" BallotPos="8" />
+    </Group>
+  </State>
+  <State Name="SA">
+    <Group Name="Liberal Democrats" Ticket="A">
+      <Candidate Name="IAN MARKOS" BallotPos="1" />
+      <Candidate Name="JOSH SMITH" BallotPos="2" />
+    </Group>
+    <Group Name="Animal Justice" Ticket="B">
+      <Candidate Name="LOUISE PFEIFFER" BallotPos="1" />
+      <Candidate Name="JULIE PASTRO" BallotPos="2" />
+    </Group>
+    <Group Name="Liberal" Ticket="C">
+      <Candidate Name="SIMON BIRMINGHAM" BallotPos="1" />
+      <Candidate Name="ANDREW McLACHLAN" BallotPos="2" />
+      <Candidate Name="KERRYNNE LIDDLE" BallotPos="3" />
+      <Candidate Name="TANIA STOCK" BallotPos="4" />
+    </Group>
+    <Group Name="Labor" Ticket="D">
+      <Candidate Name="PENNY WONG" BallotPos="1" />
+      <Candidate Name="DON FARRELL" BallotPos="2" />
+      <Candidate Name="TRIMANN GILL" BallotPos="3" />
+      <Candidate Name="JOANNE SUTTON" BallotPos="4" />
+      <Candidate Name="BELINDA OWENS" BallotPos="5" />
+    </Group>
+    <Group Name="Group E" Ticket="E">
+      <Candidate Name="BOB DAY" BallotPos="1" />
+      <Candidate Name="PAT AMADIO" BallotPos="2" />
+    </Group>
+    <Group Name="Great Australian Party" Ticket="F">
+      <Candidate Name="JO-ANNE EASON" BallotPos="1" />
+      <Candidate Name="TREVOR BENNETT" BallotPos="2" />
+    </Group>
+    <Group Name="National Party" Ticket="G">
+      <Candidate Name="LISA BLANDFORD" BallotPos="1" />
+      <Candidate Name="DAMIEN BUIJS" BallotPos="2" />
+    </Group>
+    <Group Name="Sustainable Australia" Ticket="H">
+      <Candidate Name="ELISE MICHIE" BallotPos="1" />
+      <Candidate Name="JACK DUXBURY" BallotPos="2" />
+    </Group>
+    <Group Name="Local Party of Australia" Ticket="I">
+      <Candidate Name="JULIE-ANN FINNEY" BallotPos="1" />
+      <Candidate Name="RODNEY KENNETH PARNELL" BallotPos="2" />
+    </Group>
+    <Group Name="Australian Federation Party" Ticket="J">
+      <Candidate Name="CATHY BYRNE" BallotPos="1" />
+      <Candidate Name="NICK DUFFIELD" BallotPos="2" />
+    </Group>
+    <Group Name="Australian Democrats" Ticket="K">
+      <Candidate Name="ROGER YAZBEK" BallotPos="1" />
+      <Candidate Name="SANDRA KANCK" BallotPos="2" />
+    </Group>
+    <Group Name="Drew Pavlou Democratic Alliance" Ticket="L">
+      <Candidate Name="ADILA YARMUHAMMAD" BallotPos="1" />
+      <Candidate Name="AMINA YARMUHAMMAD" BallotPos="2" />
+    </Group>
+    <Group Name="Group M" Ticket="M">
+      <Candidate Name="HARMEET KAUR" BallotPos="1" />
+      <Candidate Name="RAJESH KUMAR" BallotPos="2" />
+    </Group>
+    <Group Name="FUSION: Science, Pirate, Secular, Climate Emergency" Ticket="N">
+      <Candidate Name="DREW WOLFENDALE" BallotPos="1" />
+      <Candidate Name="DAVID KENNEDY" BallotPos="2" />
+    </Group>
+    <Group Name="Group O" Ticket="O">
+      <Candidate Name="NICK XENOPHON" BallotPos="1" />
+      <Candidate Name="STIRLING GRIFF" BallotPos="2" />
+    </Group>
+    <Group Name="Greens" Ticket="P">
+      <Candidate Name="BARBARA POCOCK" BallotPos="1" />
+      <Candidate Name="MAJOR MOOGY SUMNER" BallotPos="2" />
+      <Candidate Name="MELANIE SELWOOD" BallotPos="3" />
+    </Group>
+    <Group Name="Informed Medical Options Party" Ticket="Q">
+      <Candidate Name="RAINA CRUISE" BallotPos="1" />
+      <Candidate Name="HEATHER HARLEY" BallotPos="2" />
+    </Group>
+    <Group Name="Rex Patrick Team" Ticket="R">
+      <Candidate Name="REX PATRICK" BallotPos="1" />
+      <Candidate Name="LEONIE McMAHON" BallotPos="2" />
+    </Group>
+    <Group Name="One Nation" Ticket="S">
+      <Candidate Name="JENNIFER GAME" BallotPos="1" />
+      <Candidate Name="ALAN WATCHMAN" BallotPos="2" />
+    </Group>
+    <Group Name="Legalise Cannabis" Ticket="T">
+      <Candidate Name="TYLER BRADLEY GREEN" BallotPos="1" />
+      <Candidate Name="ANGELA ADAMS" BallotPos="2" />
+    </Group>
+    <Group Name="United Australia Party" Ticket="U">
+      <Candidate Name="MICHAEL ARBON" BallotPos="1" />
+      <Candidate Name="CAELUM SCHILD" BallotPos="2" />
+    </Group>
+    <Group Name="Citizens Party" Ticket="V">
+      <Candidate Name="RUSSELL FRANCIS" BallotPos="1" />
+      <Candidate Name="RODNEY CURREY" BallotPos="2" />
+    </Group>
+    <Group Name="Ungrouped" Ticket="ZZ">
+      <Candidate Name="MICHAEL HOPPER" BallotPos="1" />
+    </Group>
+  </State>
+  <State Name="TAS">
+    <Group Name="Sustainable Australia" Ticket="A">
+      <Candidate Name="TODD DUDLEY" BallotPos="1" />
+      <Candidate Name="DARIA LOCKWOOD" BallotPos="2" />
+    </Group>
+    <Group Name="One Nation" Ticket="B">
+      <Candidate Name="STEVE MAV" BallotPos="1" />
+      <Candidate Name="NORELLE BUTTON" BallotPos="2" />
+    </Group>
+    <Group Name="Animal Justice" Ticket="C">
+      <Candidate Name="IVAN DAVIS" BallotPos="1" />
+      <Candidate Name="VIRGINIA THOMAS-WURTH" BallotPos="2" />
+    </Group>
+    <Group Name="Labor" Ticket="D">
+      <Candidate Name="ANNE URQUHART" BallotPos="1" />
+      <Candidate Name="HELEN POLLEY" BallotPos="2" />
+      <Candidate Name="KATE RAINBIRD" BallotPos="3" />
+      <Candidate Name="DANIEL HULME" BallotPos="4" />
+      <Candidate Name="WAYNE ROBERTS" BallotPos="5" />
+      <Candidate Name="CHRIS GOURLAY" BallotPos="6" />
+    </Group>
+    <Group Name="Legalise Cannabis" Ticket="E">
+      <Candidate Name="MATT OWEN" BallotPos="1" />
+      <Candidate Name="OLIVER FITZGIBBON" BallotPos="2" />
+    </Group>
+    <Group Name="Shooters Fishers and Farmers" Ticket="F">
+      <Candidate Name="RAY WILLIAMS" BallotPos="1" />
+      <Candidate Name="CARLO DI FALCO" BallotPos="2" />
+      <Candidate Name="BRENTON RONALD JONES" BallotPos="3" />
+    </Group>
+    <Group Name="Australian Federation Party" Ticket="G">
+      <Candidate Name="RAY BROOMHALL" BallotPos="1" />
+      <Candidate Name="JUSTIN STRINGER" BallotPos="2" />
+    </Group>
+    <Group Name="Local Party" Ticket="H">
+      <Candidate Name="LEANNE MINSHULL" BallotPos="1" />
+      <Candidate Name="LINDA POULTON" BallotPos="2" />
+      <Candidate Name="LARA VAN RAAY" BallotPos="3" />
+    </Group>
+    <Group Name="Greens" Ticket="I">
+      <Candidate Name="PETER WHISH-WILSON" BallotPos="1" />
+      <Candidate Name="VANESSA BLEYER" BallotPos="2" />
+      <Candidate Name="TABATHA BADGER" BallotPos="3" />
+    </Group>
+    <Group Name="Liberal Democrats" Ticket="J">
+      <Candidate Name="TOPHER FIELD" BallotPos="1" />
+      <Candidate Name="CHRIS CROFT" BallotPos="2" />
+    </Group>
+    <Group Name="United Australia Party" Ticket="K">
+      <Candidate Name="DIANA ADAMS" BallotPos="1" />
+      <Candidate Name="ALAN HENNESSY" BallotPos="2" />
+    </Group>
+    <Group Name="Liberal" Ticket="L">
+      <Candidate Name="JONNO DUNIAM" BallotPos="1" />
+      <Candidate Name="WENDY ASKEW" BallotPos="2" />
+      <Candidate Name="ERIC ABETZ" BallotPos="3" />
+    </Group>
+    <Group Name="Jacqui Lambie Network" Ticket="M">
+      <Candidate Name="TAMMY TYRRELL" BallotPos="1" />
+      <Candidate Name="SARAH GROAT" BallotPos="2" />
+      <Candidate Name="TOM LAMBIE" BallotPos="3" />
+    </Group>
+    <Group Name="Informed Medical Options Party" Ticket="N">
+      <Candidate Name="LYNNE KERSHAW" BallotPos="1" />
+      <Candidate Name="MATTHEW PICKERING" BallotPos="2" />
+    </Group>
+    <Group Name="Ungrouped" Ticket="ZZ">
+      <Candidate Name="STEVE CROTHERS" BallotPos="1" />
+      <Candidate Name="FENELLA EDWARDS" BallotPos="2" />
+    </Group>
+  </State>
+  <State Name="VIC">
+    <Group Name="Reason Australia" Ticket="A">
+      <Candidate Name="YOLANDA VEGA" BallotPos="1" />
+      <Candidate Name="HARRY MILLWARD" BallotPos="2" />
+    </Group>
+    <Group Name="Group B" Ticket="B">
+      <Candidate Name="DAMIEN RICHARDSON" BallotPos="1" />
+      <Candidate Name="JOHN McBRIDE" BallotPos="2" />
+    </Group>
+    <Group Name="Australian Democrats" Ticket="C">
+      <Candidate Name="LEONIE GREEN" BallotPos="1" />
+      <Candidate Name="STEPHEN PETER JAGOE" BallotPos="2" />
+    </Group>
+    <Group Name="Liberal/The Nationals" Ticket="D">
+      <Candidate Name="SARAH HENDERSON" BallotPos="1" />
+      <Candidate Name="BRIDGET McKENZIE" BallotPos="2" />
+      <Candidate Name="GREG MIRABELLA" BallotPos="3" />
+      <Candidate Name="CHRESTYNA KMETJ" BallotPos="4" />
+      <Candidate Name="MICK HARRINGTON" BallotPos="5" />
+      <Candidate Name="DAVID BURGESS" BallotPos="6" />
+    </Group>
+    <Group Name="Legalise Cannabis" Ticket="E">
+      <Candidate Name="ELISSA SMITH" BallotPos="1" />
+      <Candidate Name="WAYNE TAYLOR" BallotPos="2" />
+    </Group>
+    <Group Name="Sustainable Australia" Ticket="F">
+      <Candidate Name="MADELEINE WEARNE" BallotPos="1" />
+      <Candidate Name="ROBERT LONG" BallotPos="2" />
+    </Group>
+    <Group Name="Australian Values Party" Ticket="G">
+      <Candidate Name="CHRIS BURSON" BallotPos="1" />
+      <Candidate Name="SAMANTHA ASSER" BallotPos="2" />
+    </Group>
+    <Group Name="Derryn Hinch's Justice Party" Ticket="H">
+      <Candidate Name="DERRYN HINCH" BallotPos="1" />
+      <Candidate Name="RUTH STANFIELD" BallotPos="2" />
+    </Group>
+    <Group Name="Animal Justice" Ticket="I">
+      <Candidate Name="BRONWYN CURRIE" BallotPos="1" />
+      <Candidate Name="CHRIS DELFORCE" BallotPos="2" />
+    </Group>
+    <Group Name="Australian Progressives" Ticket="J">
+      <Candidate Name="ANTOINETTE PITT" BallotPos="1" />
+      <Candidate Name="DAVID KNIGHT" BallotPos="2" />
+    </Group>
+    <Group Name="Labor" Ticket="K">
+      <Candidate Name="LINDA WHITE" BallotPos="1" />
+      <Candidate Name="JANA STEWART" BallotPos="2" />
+      <Candidate Name="CASEY NUNN" BallotPos="3" />
+      <Candidate Name="MEGAN BRIDGER-DARLING" BallotPos="4" />
+      <Candidate Name="JOSH McFARLANE" BallotPos="5" />
+    </Group>
+    <Group Name="United Australia Party" Ticket="L">
+      <Candidate Name="RALPH BABET" BallotPos="1" />
+      <Candidate Name="KELLY MORAN" BallotPos="2" />
+      <Candidate Name="KENNETH GRIMMOND" BallotPos="3" />
+    </Group>
+    <Group Name="Socialist Alliance" Ticket="M">
+      <Candidate Name="FELIX DANCE" BallotPos="1" />
+      <Candidate Name="ANGELA CARR" BallotPos="2" />
+    </Group>
+    <Group Name="Australian Federation Party" Ticket="N">
+      <Candidate Name="VERN HUGHES" BallotPos="1" />
+      <Candidate Name="KAREN KIM" BallotPos="2" />
+      <Candidate Name="CHERYL LACEY" BallotPos="3" />
+      <Candidate Name="CHRIS MARA" BallotPos="4" />
+      <Candidate Name="NEERJA SEWAK" BallotPos="5" />
+      <Candidate Name="MARK O'CONNELL" BallotPos="6" />
+    </Group>
+    <Group Name="Shooters Fishers and Farmers" Ticket="O">
+      <Candidate Name="ETHAN CONSTANTINOU" BallotPos="1" />
+      <Candidate Name="NICOLE BOURMAN" BallotPos="2" />
+    </Group>
+    <Group Name="One Nation" Ticket="P">
+      <Candidate Name="WARREN PICKERING" BallotPos="1" />
+      <Candidate Name="STUART HUXHAM" BallotPos="2" />
+    </Group>
+    <Group Name="Citizens Party" Ticket="Q">
+      <Candidate Name="ROBBIE BARWICK" BallotPos="1" />
+      <Candidate Name="CRAIG ISHERWOOD" BallotPos="2" />
+    </Group>
+    <Group Name="Group R" Ticket="R">
+      <Candidate Name="MORGAN C JONAS" BallotPos="1" />
+      <Candidate Name="MONICA SMIT" BallotPos="2" />
+    </Group>
+    <Group Name="FUSION: Science, Pirate, Secular, Climate Emergency" Ticket="S">
+      <Candidate Name="KAMMY CORDNER HUNT" BallotPos="1" />
+      <Candidate Name="TAHLIA FARRANT" BallotPos="2" />
+    </Group>
+    <Group Name="Group T" Ticket="T">
+      <Candidate Name="SUSAN BENEDYKA" BallotPos="1" />
+      <Candidate Name="CHRISTINE RICHARDS" BallotPos="2" />
+    </Group>
+    <Group Name="Greens" Ticket="U">
+      <Candidate Name="LIDIA THORPE" BallotPos="1" />
+      <Candidate Name="ADAM FROGLEY" BallotPos="2" />
+      <Candidate Name="SISSY AUSTIN" BallotPos="3" />
+      <Candidate Name="ZEB PAYNE" BallotPos="4" />
+    </Group>
+    <Group Name="Great Australian Party" Ticket="V">
+      <Candidate Name="DARRYL O'BRYAN" BallotPos="1" />
+      <Candidate Name="GEOFF WHITEHEAD" BallotPos="2" />
+    </Group>
+    <Group Name="Liberal Democrats" Ticket="W">
+      <Candidate Name="DAVID LIMBRICK" BallotPos="1" />
+      <Candidate Name="KRYSTLE MITCHELL" BallotPos="2" />
+      <Candidate Name="CAROLINE WHITE" BallotPos="3" />
+    </Group>
+    <Group Name="Informed Medical Options Party" Ticket="X">
+      <Candidate Name="NICK CLONARIDIS" BallotPos="1" />
+      <Candidate Name="ROBYN CURNOW" BallotPos="2" />
+    </Group>
+    <Group Name="Group Y" Ticket="Y">
+      <Candidate Name="PETER BYRNE" BallotPos="1" />
+      <Candidate Name="JASON WARDLE" BallotPos="2" />
+    </Group>
+    <Group Name="Victorian Socialists" Ticket="Z">
+      <Candidate Name="ARAN MYLVAGANAM" BallotPos="1" />
+      <Candidate Name="LAURA RICCARDI" BallotPos="2" />
+    </Group>
+    <Group Name="Ungrouped" Ticket="ZZ">
+      <Candidate Name="GLENN FLOYD" BallotPos="1" />
+      <Candidate Name="ALLEN RIDGEWAY" BallotPos="2" />
+      <Candidate Name="JAMES BOND" BallotPos="3" />
+      <Candidate Name="NEAL SMITH" BallotPos="4" />
+      <Candidate Name="MAX DICKS" BallotPos="5" />
+      <Candidate Name="BERNARDINE ATKINSON" BallotPos="6" />
+      <Candidate Name="PAUL ROSS" BallotPos="7" />
+      <Candidate Name="NAT DE FRANCESCO" BallotPos="8" />
+      <Candidate Name="JOSEPH TOSCANO" BallotPos="9" />
+      <Candidate Name="TARA TRAN" BallotPos="10" />
+      <Candidate Name="DAVID JOHN DILLON" BallotPos="11" />
+      <Candidate Name="GERALDINE MARIE ANTOINETTE GONSALVEZ" BallotPos="12" />
+    </Group>
+  </State>
+  <State Name="WA">
+    <Group Name="Greens" Ticket="A">
+      <Candidate Name="DORINDA COX" BallotPos="1" />
+      <Candidate Name="RIVER CLARKE" BallotPos="2" />
+      <Candidate Name="SIMONE COLLINS" BallotPos="3" />
+      <Candidate Name="DONALD CLARKE" BallotPos="4" />
+      <Candidate Name="JORDAN CAHILL" BallotPos="5" />
+      <Candidate Name="ALEX WALLACE" BallotPos="6" />
+    </Group>
+    <Group Name="Australian Christians" Ticket="B">
+      <Candidate Name="MIKE CRICHTON" BallotPos="1" />
+      <Candidate Name="MARYKA GROENEWALD" BallotPos="2" />
+    </Group>
+    <Group Name="United Australia Party" Ticket="C">
+      <Candidate Name="JAMES McDONALD" BallotPos="1" />
+      <Candidate Name="ROB FORSTER" BallotPos="2" />
+    </Group>
+    <Group Name="Labor" Ticket="D">
+      <Candidate Name="SUE LINES" BallotPos="1" />
+      <Candidate Name="GLENN STERLE" BallotPos="2" />
+      <Candidate Name="FATIMA PAYMAN" BallotPos="3" />
+      <Candidate Name="VICKI HELPS" BallotPos="4" />
+    </Group>
+    <Group Name="Sustainable Australia" Ticket="E">
+      <Candidate Name="KAREN OBORN" BallotPos="1" />
+      <Candidate Name="RYAN OOSTRYCK" BallotPos="2" />
+    </Group>
+    <Group Name="Australian Democrats" Ticket="F">
+      <Candidate Name="ELANA MITCHELL" BallotPos="1" />
+      <Candidate Name="SIMON SIMSON" BallotPos="2" />
+    </Group>
+    <Group Name="One Nation" Ticket="G">
+      <Candidate Name="PAUL ANTHONY FILING" BallotPos="1" />
+      <Candidate Name="SHEILA MUNDY" BallotPos="2" />
+    </Group>
+    <Group Name="Socialist Alliance" Ticket="H">
+      <Candidate Name="PETRINA HARLEY" BallotPos="1" />
+      <Candidate Name="ALEX SALMON" BallotPos="2" />
+    </Group>
+    <Group Name="Legalise Cannabis" Ticket="I">
+      <Candidate Name="NICOLA JULIA JOHNSON" BallotPos="1" />
+      <Candidate Name="AARON PEET" BallotPos="2" />
+    </Group>
+    <Group Name="Great Australian Party" Ticket="J">
+      <Candidate Name="RODNEY NORMAN CULLETON" BallotPos="1" />
+      <Candidate Name="SAMANTHA LEE VINCI" BallotPos="2" />
+    </Group>
+    <Group Name="Group K" Ticket="K">
+      <Candidate Name="GERRY GEORGATOS" BallotPos="1" />
+      <Candidate Name="MEGAN KRAKOUER" BallotPos="2" />
+    </Group>
+    <Group Name="Liberal Democrats" Ticket="L">
+      <Candidate Name="KATE FANTINEL" BallotPos="1" />
+      <Candidate Name="PETER McLOUGHLIN" BallotPos="2" />
+    </Group>
+    <Group Name="Informed Medical Options Party" Ticket="M">
+      <Candidate Name="MICHELLE KINSELLA" BallotPos="1" />
+      <Candidate Name="LEANNE LOCKYER" BallotPos="2" />
+    </Group>
+    <Group Name="Australian Values Party" Ticket="N">
+      <Candidate Name="REBECCA PIZZEY" BallotPos="1" />
+      <Candidate Name="KATHY FITZPATRICK" BallotPos="2" />
+    </Group>
+    <Group Name="Animal Justice" Ticket="O">
+      <Candidate Name="AMANDA DORN" BallotPos="1" />
+      <Candidate Name="ELIZABETH GAY McCASKER" BallotPos="2" />
+    </Group>
+    <Group Name="Group P" Ticket="P">
+      <Candidate Name="CAM TINLEY" BallotPos="1" />
+      <Candidate Name="TRICIA AYRE" BallotPos="2" />
+    </Group>
+    <Group Name="Australian Federation Party" Ticket="Q">
+      <Candidate Name="JUDY WILYMAN" BallotPos="1" />
+      <Candidate Name="LEANNE BARRETT" BallotPos="2" />
+    </Group>
+    <Group Name="Liberal" Ticket="R">
+      <Candidate Name="MICHAELIA CASH" BallotPos="1" />
+      <Candidate Name="DEAN SMITH" BallotPos="2" />
+      <Candidate Name="BEN SMALL" BallotPos="3" />
+      <Candidate Name="SHERRY SUFI" BallotPos="4" />
+    </Group>
+    <Group Name="FUSION: Science, Pirate, Secular, Climate Emergency" Ticket="S">
+      <Candidate Name="TIM VILJOEN" BallotPos="1" />
+      <Candidate Name="ADAM WOODINGS" BallotPos="2" />
+    </Group>
+    <Group Name="Western Australia Party" Ticket="T">
+      <Candidate Name="MATTHEW McDOWALL" BallotPos="1" />
+      <Candidate Name="JULIE MATHESON" BallotPos="2" />
+    </Group>
+    <Group Name="Citizens Party" Ticket="U">
+      <Candidate Name="DENISE BRAILEY" BallotPos="1" />
+      <Candidate Name="JEAN ROBINSON" BallotPos="2" />
+    </Group>
+    <Group Name="Federal ICAC Now" Ticket="V">
+      <Candidate Name="MATTHEW COUNT" BallotPos="1" />
+      <Candidate Name="DIANNE WATKINS" BallotPos="2" />
+    </Group>
+    <Group Name="Ungrouped" Ticket="ZZ">
+      <Candidate Name="ZIGGI MURPHY" BallotPos="1" />
+      <Candidate Name="ASHLEY BUCKLE" BallotPos="2" />
+      <Candidate Name="PETER ROBERT McDONALD" BallotPos="3" />
+      <Candidate Name="YUNOUS VAGH" BallotPos="4" />
+      <Candidate Name="BOB BURDETT" BallotPos="5" />
+      <Candidate Name="VALENTINE PEGRUM" BallotPos="6" />
+    </Group>
+  </State>
+</Senate>

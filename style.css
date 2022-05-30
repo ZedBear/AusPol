@@ -1,0 +1,923 @@
+/* Global */
+
+html {
+	background-color: #D8D8D8;
+}
+
+h1 {
+	font-family: Montserrat, Helvetica Neue, sans-serif;
+	font-size: 28pt;
+	margin-bottom: 0;
+}
+
+h2 {
+	font-family: Montserrat, Helvetica Neue, sans-serif;
+	font-size: 18pt;
+	margin-top: 10;
+}
+
+h3 {
+	font-family: Montserrat, Helvetica Neue, sans-serif;
+	font-size: 16pt;
+	margin-top: 10;
+}
+
+h4 {
+	font-family: Montserrat, Helvetica Neue, sans-serif;
+	font-size: 13pt;
+	margin-bottom: 10;
+}
+	
+p {
+	font-weight: normal;
+	font-size: 12pt;
+	line-height: 140%;
+}
+
+.seatinfo {
+	line-height: 130%;
+}
+
+th {
+	font-size: 14pt;
+	background-color: #D8D8D8;
+	font-family: Calibri, Arial, Helvetica, sans-serif;
+}
+
+.candidate > th {
+	font-size: 10pt;
+	background-color: #D8D8D8;
+	font-family: Calibri, Arial, Helvetica, sans-serif;
+}
+
+body {
+	max-width: 1020px;
+	margin: 8px auto;
+	font-family: Merriweather, Georgia, serif;
+}
+
+div.electorate {
+	float: left;
+	margin-right: 18px;
+}
+
+div.electorate p {
+	text-align: center;
+}
+
+.electorate {
+	font: 100% DroidSans, Arial, Helvetica, sans-serif;
+	line-height: 1.5;
+	font-weight:normal;
+	font-style:normal;
+	margin-bottom: 20px;	
+}
+
+.bluelink {
+	color: #0000FF;
+}
+
+.candleft {
+	margin: 4px 10px 0 0; 
+	float: left;
+}
+
+.candright {
+	margin: 4px 10px 10px 0; 
+	float: right;
+}
+
+
+
+/* Results pages */
+
+.progress {
+	font-size: 9pt;
+	font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+table.mainresults {
+	font-size: 12pt;
+	font-family: Calibri, Arial, Helvetica, sans-serif;
+	height: 10;
+    text-align: center; 
+}
+
+table.boothresults {
+	font-size: 10pt;
+	font-family: Calibri, Arial, Helvetica, sans-serif;
+	height: 10;
+	text-align: center;
+}
+
+table.mainresults th {
+	font-size: 12pt;
+	background-color: #D8D8D8;
+	font-family: Calibri, Arial, Helvetica, sans-serif;
+}
+
+table.boothresults th {
+	font-size: 10pt;
+	background-color: #D8D8D8;
+	font-family: Calibri, Arial, Helvetica, sans-serif;
+}
+
+.booths2pp {
+	background-color: #D8D8D8;
+}
+
+.topcharts {
+    margin-left: 20px; 
+	font-size: 11pt;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	width: 90%
+}
+
+
+
+/* Stops party name label appearing on gauge chart */
+.bt svg:first-child > g > text[text-anchor~=middle]{
+    font-size: 15px
+}
+
+svg:first-child > g > text[text-anchor~=middle]{
+    font-size: 0px;
+}
+
+
+
+/* Ad */
+
+div.ad {
+	padding: 0 25px 0 0;
+}
+
+.ad {
+	padding: 0 25px 0 0;
+}
+
+
+
+
+
+/* BludgerTrack tabs */
+
+.bttab.tabsmaller button{
+	font-size: 10pt;
+}
+  
+.bttab button {
+	border-radius: 10px 10px 0px 0px;
+	color: #606060;
+	font-family: Helvetica, Arial;
+	font-weight: bold;
+	background: #ffffff;
+	padding: 5px 10px 5px 10px;
+	border: solid #D3D3D3 1px;
+	border-bottom: 0px;
+	text-decoration: none;
+	font-size: 11pt;
+	outline: none;
+}
+
+.bttab button:hover {background-color:#D3D3D3}
+
+.bttab button:focus {background-color:#909090; color: #FFFFFF}
+
+
+
+
+
+/* Election guide tabs */
+
+#wide {
+	max-width: 1300px;
+}
+
+div.tab {
+	overflow: hidden;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	background-color: #f1f1f1;
+	max-width: 1020px;
+	margin: 0 auto;
+}
+
+.wide div.tab {
+	overflow: hidden;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	background-color: #f1f1f1;
+	max-width: 1300px;
+	margin: 0 auto;
+}
+
+.full div.tab {
+	overflow: hidden;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	background-color: #f1f1f1;
+	max-width: 1400px;
+	margin: 0 auto;
+}
+
+div.tab button {
+	background-color: inherit;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	padding: 5px 10px;
+	transition: 0.3s;
+	color: #606060;
+	font-family: Helvetica, Arial;
+	font-weight: bold;
+	font-size: 11pt;
+}
+
+div.tab button:hover {
+	background-color: #ddd;
+}
+
+div.tab .active {
+	background-color: #ccc;
+}
+
+
+
+
+
+/* Entry pages */
+
+body.wide {
+	max-width: 1300px;
+	margin: 8px auto;
+	float: none;
+}
+
+body.full {
+	max-width: 1400px;
+	margin: 8px auto;
+	float: none;
+	background-color: #FFF;
+	display: block;
+}
+
+.entrytable {
+	overflow-x: auto;
+	display: block;
+}
+
+.wide p {
+	max-width: 1300px;
+	margin: auto;
+	float: none;
+}
+
+.TableHeader {
+	font-family: Calibri, sans-serif;
+	font-size: 16px;
+}
+
+.TableSubHeader {
+	font-family: Calibri, sans-serif;
+	font-size: 14px;
+}
+
+.Margin {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color: #000000;
+}
+
+.TableBody {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.LaborSeat {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #FF0000;
+}
+
+.LaborSeat a {
+	color: #FF0000
+}
+
+.LiberalSeat {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #0000FF;
+}
+
+.LiberalSeat a {
+	color: #0000FF
+}
+
+.DemocratsSeat {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #24AA96
+}
+
+.NationalsSeat {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #006C00;
+}
+
+.NationalsSeat a {
+	color: #006C00
+}
+
+.LNPSeat {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #008080;
+}
+
+.LNPSeat a {
+	color: #008080
+}
+
+.ONPSeat {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #7B2A0D
+}
+
+.ONPSeat a {
+	color: #7B2A0D
+}
+
+.MinorSeat {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #CCBD00
+}
+
+.MinorSeat a {
+	color: #CCBD00
+}
+
+.OtherSeat {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #808080;
+}
+
+.OtherSeat a {
+	color: #808080
+}
+
+.GreensSeat {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #32CD32;
+}
+
+.GreensSeat a {
+	color: #32CD32
+}
+
+.LeftCol {
+	text-align: right;
+}
+
+table.fedtable {
+	font-size: 11px;
+    margin-right: auto;}
+
+table.victable {
+	font-size: 11px;
+}
+
+table.qldtable {
+	font-size: 11px;
+}
+
+table.watable {
+	font-size: 12px;
+}
+
+table.satable table.nttable {
+	font-size: 14px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.al, a:hover {
+	color: inherit;
+	text-decoration: underline;
+}
+	
+
+/* Election guide and results page architecture */
+	
+main {
+	background-color: #FFF;
+	margin: 0 auto;
+	padding: 1px 10px;
+	display: block;
+}
+
+main.wide {
+	background-color: #FFF;
+	margin: 0 auto;
+	padding: 1px 10px;
+	display: block;
+}
+
+.sidebar {
+	float: right;
+}
+
+.fedsidebar {
+	vertical-align: top;
+}
+
+table.resultstable {
+    border-collapse: collapse;
+ }	
+
+
+
+/* Election guide sidebar*/
+
+th.sidebar {
+	width: 100%;
+	background-color: #D8D8D8;
+	text-align: center
+}
+	
+.resultshead {
+	background-color: #FFF;
+	font-weight: bold;
+	font-size: 11px;
+}
+
+.resultsrow {
+	font-size: 11px;
+}
+
+.resultsparty {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.votetable {
+	width: 380px; 
+	padding-bottom: 20px;
+}
+
+.Bar2 {
+	width: 370px;
+	height: 115px	
+}
+
+.Bar3 {
+	width: 370px;
+	height: 140px	
+}
+
+.Bar4 {
+	width: 370px;
+	height: 160px	
+}
+
+.Bar5 {
+	width: 370px;
+	height: 186px	
+}
+
+.Bar6 {
+	width: 370px;
+	height: 210px	
+}
+
+.Bar7 {
+	width: 370px;
+	height: 236px	
+}
+
+.ancestrytable {
+    margin-left: auto; 
+    margin-right: auto;	
+}
+
+.ancestry {
+	width: 180px;
+	height: 180px;
+}
+
+.ancestrytitles {
+	font-family: Calibri, Arial, Helvetica, sans-serif; 
+	font-size: 12pt; 
+	font-weight: bold;	
+	text-align: center;
+}
+
+.ancestrylegend {
+	display: block;
+	margin-left: auto; 
+	margin-right: auto;	
+}
+
+.demography1 {
+	width: 370px;
+	height: 100px;
+}
+
+.demography2 {
+	width: 370px;
+	height: 120px;
+}
+
+.fedmap {
+	height: 600px;
+}
+
+.statemap {
+	width: 370px;
+	height: 400px;
+}
+
+.ladbrokes {
+	font-size: 12px;
+	text-align: center;
+	font-family: 'Arial', Sans-Serif;
+	margin: auto;
+	width: 230px;
+}
+
+#ladappend {
+	font-weight: bold;
+}
+
+
+	
+/* Candidate boxes and lists */
+
+.candidatebox {
+	font-family: 'Arial', Sans-Serif;
+	font-size: 11pt;
+	border: 0px;
+}
+
+.candidateboxinter {
+	font-size: 13pt;
+	border: 0px;
+}
+
+
+.candidateboxsmall {
+	font-size: 12pt;
+	border: 0px;
+}
+
+.candsix {
+	font-family: Calibri, Arial, Helvetica, sans-serif; 
+	font-size: 12pt;
+	border: 0px;
+}
+
+.candidates {
+	font-family: Calibri, Arial, Helvetica, sans-serif; 
+	width: 400px;
+	padding-left: 80px;
+}
+
+.candidatesBoxSmall {
+	font-size: 11pt;
+}
+
+.candidatesBoxMid {
+	font-size: 12pt;
+}
+
+.candidatesBoxLarge {
+	font-size: 13pt;
+}
+
+.candidatesBoxFamily {
+	font-size: 15pt;
+}
+
+.candidatepics {
+	padding-right: 90px;
+}
+
+.candidatelist {
+	font-family: Calibri, Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	width: 100%;
+}
+
+.grouphead {
+	font-size: 11pt;
+	width: 8%;
+}
+
+.partyhead {
+	font-size: 11pt;
+	text-align: left; 	  
+}
+
+.candidate {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	width: 100%;
+	width: 50%; 	  
+}
+
+.candidatelist {
+	font-family: Calibri, Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	width: 100%;
+}
+
+.partybet {
+	font-weight: bold;
+	text-align: left; 	  
+}
+
+.partyodds {
+	text-align: right; 	  
+}
+
+/* Stops tooltip flickering */
+svg > g > g:last-child { pointer-events: none }
+
+
+
+/* Headers and footers */
+	
+.header {
+	max-width: 1020px;
+	font-family: Montserrat, Helvetica Neue, sans-serif;
+	font-weight: bold;
+	text-align: left; 	  
+	font-size: 25pt;
+	margin: 0 auto;
+	padding: 1px 0;
+	line-height: 130%;
+	}
+
+.headerwide {
+	max-width: 1200px;
+	font-family: Montserrat, Helvetica Neue, sans-serif;
+	font-weight: bold;
+	text-align: left; 	  
+	font-size: 25pt;
+	margin: 0 auto;
+	padding: 1px 0;
+	line-height: 130%;
+	}
+
+.headerfull {
+	max-width: 1400px;
+	font-family: Montserrat, Helvetica Neue, sans-serif;
+	font-weight: bold;
+	text-align: left; 	  
+	font-size: 25pt;
+	margin: 0 auto;
+	padding: 1px 0;
+	line-height: 130%;
+	}
+
+.subhead {
+	max-width: 1020px;
+	color: #FFFF00;
+	font-weight: bold;
+	text-align: left; 	  
+	font-size: 14pt;
+	margin: 0 auto;
+	padding: 1px 0;
+	line-height: 130%;
+}
+
+.headerby {
+	max-width: 1020px;
+	color: #FFFF00;
+	font-family: Garamond, Serif;
+	font-weight: bold;
+	text-align: left; 	  
+	font-size: 26pt;
+	margin: 0 auto;
+	padding: 1px 0;
+	line-height: 100%;
+}
+
+
+.fed {
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+.fed a {	
+	color: #FFFFFF 
+}
+
+.footer.fed {
+	margin: auto;
+	border-bottom: 12px solid #000000;
+}
+
+
+.nsw {
+	background-color: #87CEEB;
+	color: #FFFF00;
+}	
+
+.nsw a {	
+	color: #FFFF00 
+}
+
+.footer.nsw {
+	margin: auto;
+	border-bottom: 12px solid #87CEEB;
+}
+
+
+.vic {
+	background-color: #000080;
+	color: #FFFF00;
+}
+
+.vic a {	
+	color: #FFFF00 
+}
+
+.footer.vic {
+	margin: auto;
+	border-bottom: 12px solid #000080;
+}
+
+
+.qld {
+	background-color: #79001F;
+	color: #FFFF00;
+}
+
+.qld a {	
+	color: #FFFF00 
+}
+
+.footer.qld {
+	margin: auto;
+	border-bottom: 12px solid #79001F;
+}
+
+
+.wa {
+	background-color: #000;
+	color: #FFD700;
+}
+
+.wa a {	
+	color: #FFD700 
+}
+
+.footer.wa {
+	margin: auto;
+	border-bottom: 12px solid #000;
+}
+
+
+.sa {
+	background-color: #FFD700;
+	color: #FF0000;
+}
+
+.sa a {	
+	color: #FF0000 
+}
+
+.footer.sa {
+	margin: auto;
+	border-bottom: 12px solid #FFD700;
+}
+
+
+.tas {
+	background-color: #006A4E;
+	color: #FFFF00;
+}
+
+.tas a {	
+	color: #FFFF00 
+}
+
+.footer.tas {
+	margin: auto;
+	border-bottom: 12px solid #006A4E;
+}
+
+
+.act {
+	background-color: #00005B;
+	color: #FFD700;
+}
+
+.act a {	
+	color: #FFD700 
+}
+
+.footer.act {
+	margin: auto;
+	border-bottom: 12px solid #00005B;
+}
+
+
+.nt {
+	background-color: #000000;
+	color: #E65A00;
+}
+
+.nt a {	
+	color: #E65A00 
+}
+
+.footer.nt {
+	margin: auto;
+	border-bottom: 12px solid #000000;
+}
+
+
+.pbhead {
+	margin: 4px 4px; 
+	float: right;
+}
+
+
+	
+/* Fudges */
+
+.small {
+	font-size: 12px;
+	text-align: center;
+	font-family: 'Arial', Sans-Serif;
+}
+
+.smallhead {
+	font-family: Calibri, Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	font-weight: bold;
+	text-indent: 1%;
+}
+
+.left {
+	text-align: left;
+}
+
+.right {
+	text-align: right;
+}
+
+.center {
+	text-align: center;
+}
+
+.wider {
+	max-width: 1200px !important;
+}
+
+td.tablebuffer {
+	width: 40px;
+}
+
+
+
+
+
+/* Booth map info windows */
+
+table.infowindow {
+	width: 100%
+}
+
+td.boothhead {
+	font-size: 12pt;
+	font-weight: bold
+}
+
+td.boothformal {
+	font-weight: bold;
+	font-family: Calibri, Arial, Helvetica, sans-serif
+}
+
+td.voteshead {
+	background-color: #D8D8D8;
+	font-weight: bold;
+	font-family: Calibri, Arial, Helvetica, sans-serif
+}
+
+table.infowindow td {
+	font-family: Calibri, Arial, Helvetica, sans-serif
+}

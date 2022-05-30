@@ -1,0 +1,3465 @@
+﻿<Divisions>
+  <Divisions>
+    <Division Name="Banks" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>51.4</votesA96>
+        <votesA98>57.1</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>57.3</votesB98r>
+        <votesB01>52.9</votesB01>
+        <votesB04>51.1</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>53.3</votesC04r>
+        <votesC07>61.1</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>60.4</votesD07r>
+        <votesD10>51.4</votesD10>
+        <votesD13>48.2</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>47.2</votesE13r>
+        <votesE16>48.6</votesE16>
+        <votesE19>43.7</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Barton" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>54.3</votesA96>
+        <votesA98>59.8</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>59.8</votesB98r>
+        <votesB01>56.0</votesB01>
+        <votesB04>57.5</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>57.7</votesC04r>
+        <votesC07>62.1</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>64.9</votesD07r>
+        <votesD10>56.9</votesD10>
+        <votesD13>49.7</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>54.4</votesE13r>
+        <votesE16>58.3</votesE16>
+        <votesE19>59.4</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Bennelong" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>39.9</votesA96>
+        <votesA98>44.0</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>44.8</votesB98r>
+        <votesB01>42.3</votesB01>
+        <votesB04>45.7</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>46.0</votesC04r>
+        <votesC07>51.4</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>51.4</votesD07r>
+        <votesD10>46.9</votesD10>
+        <votesD13>42.2</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>42.2</votesE13r>
+        <votesE16>40.3</votesE16>
+        <votesE19>43.1</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Berowra" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>31.6</votesA96>
+        <votesA98>36.5</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>36.7</votesB98r>
+        <votesB01>34.4</votesB01>
+        <votesB04>37.8</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>36.1</votesC04r>
+        <votesC07>41.1</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>40.0</votesD07r>
+        <votesD10>33.8</votesD10>
+        <votesD13>30.9</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>31.0</votesE13r>
+        <votesE16>33.6</votesE16>
+        <votesE19>34.4</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Blaxland" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>63.0</votesA96>
+        <votesA98>72.1</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>71.7</votesB98r>
+        <votesB01>65.2</votesB01>
+        <votesB04>62.9</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>65.3</votesC04r>
+        <votesC07>68.4</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>66.7</votesD07r>
+        <votesD10>62.2</votesD10>
+        <votesD13>61.4</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>61.2</votesE13r>
+        <votesE16>69.5</votesE16>
+        <votesE19>64.7</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Bradfield" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>24.2</votesA96>
+        <votesA98>26.8</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>28.7</votesB98r>
+        <votesB01>28.8</votesB01>
+        <votesB04>31.5</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>32.5</votesC04r>
+        <votesC07>36.5</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>36.0</votesD07r>
+        <votesD10>31.8</votesD10>
+        <votesD13>29.2</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>29.1</votesE13r>
+        <votesE16>29.0</votesE16>
+        <votesE19>33.4</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Calare" State="NSW">
+      <Series Id="1" />
+      <Series Id="2" />
+      <Series Id="3" Party1="Labor" Party2="Nationals">
+        <votesC04r>38.6</votesC04r>
+        <votesC07>37.9</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Nationals">
+        <votesD07r>46.4</votesD07r>
+        <votesD10>39.3</votesD10>
+        <votesD13>34.0</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Nationals">
+        <votesE13r>35.0</votesE13r>
+        <votesE16>38.2</votesE16>
+        <votesE19>36.7</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Chifley" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>64.5</votesA96>
+        <votesA98>70.9</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>71.3</votesB98r>
+        <votesB01>65.3</votesB01>
+        <votesB04>63.0</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>62.1</votesC04r>
+        <votesC07>70.7</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>69.7</votesD07r>
+        <votesD10>62.3</votesD10>
+        <votesD13>60.5</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>60.9</votesE13r>
+        <votesE16>69.2</votesE16>
+        <votesE19>62.4</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Cook" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>37.7</votesA96>
+        <votesA98>41.1</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>40.6</votesB98r>
+        <votesB01>36.0</votesB01>
+        <votesB04>36.2</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>36.7</votesC04r>
+        <votesC07>43.4</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>43.7</votesD07r>
+        <votesD10>37.3</votesD10>
+        <votesD13>33.6</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>34.3</votesE13r>
+        <votesE16>34.6</votesE16>
+        <votesE19>31.0</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Cowper" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Nationals">
+        <votesA96>38.4</votesA96>
+        <votesA98>43.6</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Nationals">
+        <votesB98r>44.3</votesB98r>
+        <votesB01>45.3</votesB01>
+        <votesB04>43.5</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Nationals">
+        <votesC04r>43.3</votesC04r>
+        <votesC07>48.8</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Nationals">
+        <votesD07r>48.7</votesD07r>
+        <votesD10>40.7</votesD10>
+        <votesD13>38.3</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Nationals">
+        <votesE13r>36.8</votesE13r>
+        <votesE16>37.4</votesE16>
+        <votesE19>38.1</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Cunningham" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>62.9</votesA96>
+        <votesA98>68.2</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>67.8</votesB98r>
+        <votesB01>60.6</votesB01>
+        <votesB04>61.5</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>61.7</votesC04r>
+        <votesC07>68.1</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>66.9</votesD07r>
+        <votesD10>63.2</votesD10>
+        <votesD13>59.9</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>61.3</votesE13r>
+        <votesE16>63.3</votesE16>
+        <votesE19>63.4</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Dobell" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>50.1</votesA96>
+        <votesA98>53.3</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>51.5</votesB98r>
+        <votesB01>49.6</votesB01>
+        <votesB04>44.1</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>45.2</votesC04r>
+        <votesC07>53.9</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>53.9</votesD07r>
+        <votesD10>55.1</votesD10>
+        <votesD13>49.3</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>50.2</votesE13r>
+        <votesE16>54.8</votesE16>
+        <votesE19>51.5</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Eden-Monaro" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>45.2</votesA96>
+        <votesA98>49.8</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>49.4</votesB98r>
+        <votesB01>48.3</votesB01>
+        <votesB04>47.9</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>46.7</votesC04r>
+        <votesC07>53.4</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>52.3</votesD07r>
+        <votesD10>54.2</votesD10>
+        <votesD13>49.4</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>47.1</votesE13r>
+        <votesE16>52.9</votesE16>
+        <votesE19>50.8</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Farrer" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Nationals">
+        <votesA96>28.8</votesA96>
+        <votesA98>35.4</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>35.8</votesB98r>
+        <votesB01>33.6</votesB01>
+        <votesB04>30.2</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>33.4</votesC04r>
+        <votesC07>38.8</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>38.8</votesD07r>
+        <votesD10>35.5</votesD10>
+        <votesD13>32.6</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>28.3</votesE13r>
+        <votesE16>29.5</votesE16>
+        <votesE19>30.2</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Fowler" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>68.3</votesA96>
+        <votesA98>76.3</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>76.0</votesB98r>
+        <votesB01>71.5</votesB01>
+        <votesB04>71.4</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>63.5</votesC04r>
+        <votesC07>68.2</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>72.5</votesD07r>
+        <votesD10>58.8</votesD10>
+        <votesD13>66.8</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>62.9</votesE13r>
+        <votesE16>67.5</votesE16>
+        <votesE19>64.0</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Gilmore" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>43.8</votesA96>
+        <votesA98>46.0</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>45.4</votesB98r>
+        <votesB01>35.4</votesB01>
+        <votesB04>39.9</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>40.5</votesC04r>
+        <votesC07>45.9</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>50.4</votesD07r>
+        <votesD10>44.7</votesD10>
+        <votesD13>47.4</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>46.2</votesE13r>
+        <votesE16>49.3</votesE16>
+        <votesE19>52.6</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Grayndler" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>66.4</votesA96>
+        <votesA98>72.3</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>72.3</votesB98r>
+        <votesB01>71.3</votesB01>
+        <votesB04>72.6</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>71.3</votesC04r>
+        <votesC07>74.9</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>74.9</votesD07r>
+        <votesD10>70.6</votesD10>
+        <votesD13>70.3</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Greens">
+        <votesE16>65.8</votesE16>
+        <votesE19>66.3</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Greenway" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>53.4</votesA96>
+        <votesA98>59.9</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>59.6</votesB98r>
+        <votesB01>53.1</votesB01>
+        <votesB04>49.4</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>39.0</votesC04r>
+        <votesC07>45.5</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>55.7</votesD07r>
+        <votesD10>50.9</votesD10>
+        <votesD13>53.0</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>53.0</votesE13r>
+        <votesE16>56.3</votesE16>
+        <votesE19>52.8</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Hughes" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>45.1</votesA96>
+        <votesA98>44.5</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>43.6</votesB98r>
+        <votesB01>39.6</votesB01>
+        <votesB04>39.0</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>41.2</votesC04r>
+        <votesC07>47.8</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>49.5</votesD07r>
+        <votesD10>44.8</votesD10>
+        <votesD13>39.3</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>38.2</votesE13r>
+        <votesE16>40.7</votesE16>
+        <votesE19>40.2</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Hume" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>38.2</votesA96>
+        <votesA98>41.9</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>42.7</votesB98r>
+        <votesB01>40.2</votesB01>
+        <votesB04>35.9</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>37.1</votesC04r>
+        <votesC07>45.8</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>44.6</votesD07r>
+        <votesD10>41.3</votesD10>
+        <votesD13>38.5</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>36.4</votesE13r>
+        <votesE16>39.8</votesE16>
+        <votesE19>37.0</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Hunter" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>57.0</votesA96>
+        <votesA98>64.7</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Nationals">
+        <votesB98r>64.0</votesB98r>
+        <votesB01>60.9</votesB01>
+        <votesB04>63.7</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Nationals">
+        <votesC04r>61.1</votesC04r>
+        <votesC07>65.9</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Nationals">
+        <votesD07r>65.7</votesD07r>
+        <votesD10>62.5</votesD10>
+        <votesD13>53.7</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Nationals">
+        <votesE13r>55.7</votesE13r>
+        <votesE16>62.5</votesE16>
+        <votesE19>53.0</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Kingsford Smith" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>60.1</votesA96>
+        <votesA98>63.4</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>63.0</votesB98r>
+        <votesB01>58.9</votesB01>
+        <votesB04>59.0</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>58.6</votesC04r>
+        <votesC07>63.3</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>63.3</votesD07r>
+        <votesD10>55.2</votesD10>
+        <votesD13>52.7</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>52.7</votesE13r>
+        <votesE16>58.6</votesE16>
+        <votesE19>58.8</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Lindsay" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>48.4</votesA96>
+        <votesA98>48.7</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>47.0</votesB98r>
+        <votesB01>44.5</votesB01>
+        <votesB04>44.7</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>47.1</votesC04r>
+        <votesC07>56.8</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>56.3</votesD07r>
+        <votesD10>51.1</votesD10>
+        <votesD13>47.0</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>47.0</votesE13r>
+        <votesE16>51.1</votesE16>
+        <votesE19>45.0</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Lyne" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Nationals">
+        <votesA96>34.6</votesA96>
+        <votesA98>40.3</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Nationals">
+        <votesB98r>39.9</votesB98r>
+        <votesB01>38.8</votesB01>
+        <votesB04>37.0</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Nationals">
+        <votesC04r>35.9</votesC04r>
+        <votesC07>41.4</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Nationals">
+        <votesD07r>41.2</votesD07r>
+        <votesD10>37.5</votesD10>
+        <votesD13>35.2</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Nationals">
+        <votesE13r>36.5</votesE13r>
+        <votesE16>38.4</votesE16>
+        <votesE19>34.8</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Macarthur" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>39.3</votesA96>
+        <votesA98>44.4</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>51.7</votesB98r>
+        <votesB01>43.0</votesB01>
+        <votesB04>40.5</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>38.9</votesC04r>
+        <votesC07>49.3</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>50.5</votesD07r>
+        <votesD10>47.0</votesD10>
+        <votesD13>38.6</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>46.6</votesE13r>
+        <votesE16>58.3</votesE16>
+        <votesE19>58.4</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Mackellar" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>33.5</votesA96>
+        <votesA98>34.4</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>32.9</votesB98r>
+        <votesB01>33.1</votesB01>
+        <votesB04>34.2</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>34.5</votesC04r>
+        <votesC07>37.6</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>37.6</votesD07r>
+        <votesD10>34.3</votesD10>
+        <votesD13>31.2</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>31.2</votesE13r>
+        <votesE16>34.3</votesE16>
+        <votesE19>36.8</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Macquarie" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>43.6</votesA96>
+        <votesA98>45.9</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>44.2</votesB98r>
+        <votesB01>41.3</votesB01>
+        <votesB04>41.1</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>50.5</votesC04r>
+        <votesC07>57.0</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>50.3</votesD07r>
+        <votesD10>48.7</votesD10>
+        <votesD13>45.5</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>45.5</votesE13r>
+        <votesE16>52.2</votesE16>
+        <votesE19>50.2</votesE19>
+      </Series>
+    </Division>
+    <Division Name="McMahon" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>63.9</votesA96>
+        <votesA98>69.7</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>66.8</votesB98r>
+        <votesB01>62.8</votesB01>
+        <votesB04>57.1</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>56.9</votesC04r>
+        <votesC07>63.5</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>63.8</votesD07r>
+        <votesD10>57.8</votesD10>
+        <votesD13>55.3</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>54.6</votesE13r>
+        <votesE16>62.1</votesE16>
+        <votesE19>56.6</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Mitchell" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>25.7</votesA96>
+        <votesA98>30.1</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>30.5</votesB98r>
+        <votesB01>28.7</votesB01>
+        <votesB04>29.3</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>29.3</votesC04r>
+        <votesC07>38.4</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>38.4</votesD07r>
+        <votesD10>32.8</votesD10>
+        <votesD13>27.9</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>28.6</votesE13r>
+        <votesE16>32.2</votesE16>
+        <votesE19>31.4</votesE19>
+      </Series>
+    </Division>
+    <Division Name="New England" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Nationals">
+        <votesA96>30.8</votesA96>
+        <votesA98>37.1</votesA98>
+      </Series>
+      <Series Id="2" Party1="Independent" Party2="Nationals">
+        <votesB01>58.3</votesB01>
+        <votesB04>71.0</votesB04>
+      </Series>
+      <Series Id="3" Party1="Independent" Party2="Nationals">
+        <votesC04r>71.4</votesC04r>
+        <votesC07>74.3</votesC07>
+      </Series>
+      <Series Id="4" Party1="Independent" Party2="Nationals">
+        <votesD07r>74.4</votesD07r>
+        <votesD10>71.5</votesD10>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Nationals">
+        <votesE13r>30.5</votesE13r>
+        <votesE16>33.6</votesE16>
+        <votesE19>32.4</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Newcastle" State="NSW">
+      <Series Id="1" />
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01>56.9</votesB01>
+        <votesB04>60.0</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>58.7</votesC04r>
+        <votesC07>65.9</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>65.8</votesD07r>
+        <votesD10>62.5</votesD10>
+        <votesD13>58.8</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>59.4</votesE13r>
+        <votesE16>63.8</votesE16>
+        <votesE19>63.8</votesE19>
+      </Series>
+    </Division>
+    <Division Name="North Sydney" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>34.4</votesA96>
+        <votesA98>37.8</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>37.3</votesB98r>
+        <votesB01>36.8</votesB01>
+        <votesB04>40.0</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>40.0</votesC04r>
+        <votesC07>44.6</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>44.5</votesD07r>
+        <votesD10>35.9</votesD10>
+        <votesD13>34.1</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>34.3</votesE13r>
+        <votesE16>36.4</votesE16>
+        <votesE19>40.7</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Page" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Nationals">
+        <votesA96>45.7</votesA96>
+        <votesA98>47.6</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Nationals">
+        <votesB98r>46.6</votesB98r>
+        <votesB01>47.2</votesB01>
+        <votesB04>45.8</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Nationals">
+        <votesC04r>44.5</votesC04r>
+        <votesC07>52.4</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Nationals">
+        <votesD07r>51.7</votesD07r>
+        <votesD10>54.2</votesD10>
+        <votesD13>47.5</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Nationals">
+        <votesE13r>46.9</votesE13r>
+        <votesE16>47.7</votesE16>
+        <votesE19>40.6</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Parkes" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Nationals">
+        <votesA96>43.5</votesA96>
+        <votesA98>45.9</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Nationals">
+        <votesB98r>43.6</votesB98r>
+        <votesB01>41.3</votesB01>
+        <votesB04>35.6</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Nationals">
+        <votesC04r>31.2</votesC04r>
+        <votesC07>37.0</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Nationals">
+        <votesD07r>40.0</votesD07r>
+        <votesD10>31.1</votesD10>
+        <votesD13>27.7</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Nationals">
+        <votesE13r>30.0</votesE13r>
+        <votesE16>34.9</votesE16>
+        <votesE19>33.1</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Parramatta" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>46.1</votesA96>
+        <votesA98>48.9</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>52.5</votesB98r>
+        <votesB01>48.8</votesB01>
+        <votesB04>50.8</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>48.9</votesC04r>
+        <votesC07>56.9</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>57.8</votesD07r>
+        <votesD10>54.4</votesD10>
+        <votesD13>50.6</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>51.3</votesE13r>
+        <votesE16>57.7</votesE16>
+        <votesE19>53.5</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Paterson" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>49.6</votesA96>
+        <votesA98>51.2</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>48.7</votesB98r>
+        <votesB01>48.6</votesB01>
+        <votesB04>43.0</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>43.2</votesC04r>
+        <votesC07>48.5</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>49.4</votesD07r>
+        <votesD10>44.7</votesD10>
+        <votesD13>40.2</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>50.3</votesE13r>
+        <votesE16>60.7</votesE16>
+        <votesE19>55.0</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Reid" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>61.4</votesA96>
+        <votesA98>71.6</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>72.2</votesB98r>
+        <votesB01>66.9</votesB01>
+        <votesB04>62.8</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>62.0</votesC04r>
+        <votesC07>66.8</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>60.8</votesD07r>
+        <votesD10>52.7</votesD10>
+        <votesD13>49.1</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>46.7</votesE13r>
+        <votesE16>45.3</votesE16>
+        <votesE19>46.8</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Richmond" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Nationals">
+        <votesA96>43.2</votesA96>
+        <votesA98>49.2</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Nationals">
+        <votesB98r>49.2</votesB98r>
+        <votesB01>48.3</votesB01>
+        <votesB04>50.2</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Nationals">
+        <votesC04r>51.5</votesC04r>
+        <votesC07>58.9</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Nationals">
+        <votesD07r>58.9</votesD07r>
+        <votesD10>57.0</votesD10>
+        <votesD13>53.0</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Nationals">
+        <votesE13r>51.6</votesE13r>
+        <votesE16>54.0</votesE16>
+        <votesE19>54.1</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Riverina" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Nationals">
+        <votesA96>29.0</votesA96>
+        <votesA98>34.7</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Nationals">
+        <votesB98r>35.3</votesB98r>
+        <votesB01>30.1</votesB01>
+        <votesB04>29.3</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Nationals">
+        <votesC04r>29.3</votesC04r>
+        <votesC07>33.8</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Nationals">
+        <votesD07r>35.4</votesD07r>
+        <votesD10>31.8</votesD10>
+        <votesD13>28.8</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Nationals">
+        <votesE13r>31.0</votesE13r>
+        <votesE16>33.6</votesE16>
+        <votesE19>30.5</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Robertson" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>46.4</votesA96>
+        <votesA98>48.0</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>48.0</votesB98r>
+        <votesB01>43.0</votesB01>
+        <votesB04>43.2</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>43.1</votesC04r>
+        <votesC07>50.1</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>50.1</votesD07r>
+        <votesD10>51.0</votesD10>
+        <votesD13>47.0</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>46.9</votesE13r>
+        <votesE16>48.9</votesE16>
+        <votesE19>45.8</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Shortland" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>58.1</votesA96>
+        <votesA98>62.8</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>62.2</votesB98r>
+        <votesB01>58.8</votesB01>
+        <votesB04>59.5</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>59.3</votesC04r>
+        <votesC07>64.7</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>64.7</votesD07r>
+        <votesD10>62.8</votesD10>
+        <votesD13>57.2</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>57.4</votesE13r>
+        <votesE16>59.9</votesE16>
+        <votesE19>54.4</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Sydney" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>63.8</votesA96>
+        <votesA98>66.9</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>69.8</votesB98r>
+        <votesB01>65.0</votesB01>
+        <votesB04>66.4</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>67.3</votesC04r>
+        <votesC07>69.5</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>69.3</votesD07r>
+        <votesD10>67.1</votesD10>
+        <votesD13>64.7</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>62.9</votesE13r>
+        <votesE16>65.3</votesE16>
+        <votesE19>68.7</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Warringah" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>34.7</votesA96>
+        <votesA98>37.0</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>37.2</votesB98r>
+        <votesB01>37.3</votesB01>
+        <votesB04>39.5</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>38.7</votesC04r>
+        <votesC07>40.5</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>41.2</votesD07r>
+        <votesD10>36.9</votesD10>
+        <votesD13>34.7</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>34.7</votesE13r>
+        <votesE16>38.9</votesE16>
+        <votesE19>47.9</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Watson" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>61.7</votesA96>
+        <votesA98>67.5</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>67.6</votesB98r>
+        <votesB01>67.3</votesB01>
+        <votesB04>65.1</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>65.6</votesC04r>
+        <votesC07>70.3</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>68.2</votesD07r>
+        <votesD10>59.1</votesD10>
+        <votesD13>56.8</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>58.8</votesE13r>
+        <votesE16>67.6</votesE16>
+        <votesE19>63.5</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Wentworth" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>42.2</votesA96>
+        <votesA98>43.7</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>42.6</votesB98r>
+        <votesB01>42.1</votesB01>
+        <votesB04>44.5</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>47.4</votesC04r>
+        <votesC07>46.1</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>46.0</votesD07r>
+        <votesD10>35.1</votesD10>
+        <votesD13>32.3</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>31.1</votesE13r>
+        <votesE16>32.3</votesE16>
+        <votesE19>40.2</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Werriwa" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>56.2</votesA96>
+        <votesA98>62.7</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>62.6</votesB98r>
+        <votesB01>58.5</votesB01>
+        <votesB04>59.3</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>57.1</votesC04r>
+        <votesC07>65.2</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>65.1</votesD07r>
+        <votesD10>56.7</votesD10>
+        <votesD13>52.2</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>56.5</votesE13r>
+        <votesE16>58.2</votesE16>
+        <votesE19>55.5</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Whitlam" State="NSW">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>69.6</votesA96>
+        <votesA98>72.5</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>72.4</votesB98r>
+        <votesB01>65.1</votesB01>
+        <votesB04>65.0</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>63.9</votesC04r>
+        <votesC07>73.5</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD07r>66.8</votesD07r>
+        <votesD10>62.1</votesD10>
+        <votesD13>57.8</votesD13>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE13r>56.9</votesE13r>
+        <votesE16>63.7</votesE16>
+        <votesE19>60.9</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Aston" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>44.4</votesA96>
+        <votesA98>45.8</votesA98>
+        <votesA01>43.8</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>44.0</votesB01r>
+        <votesB04>36.8</votesB04>
+        <votesB07>44.9</votesB07>
+        <votesB10>48.2</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>49.3</votesC10r>
+        <votesC13>41.8</votesC13>
+        <votesC16>41.4</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>42.6</votesD16r>
+        <votesD19>39.9</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Ballarat" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>46.3</votesA96>
+        <votesA98>47.2</votesA98>
+        <votesA01>52.7</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>53.2</votesB01r>
+        <votesB04>52.2</votesB04>
+        <votesB07>58.1</votesB07>
+        <votesB10>61.7</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>61.7</votesC10r>
+        <votesC13>54.9</votesC13>
+        <votesC16>57.3</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>57.4</votesD16r>
+        <votesD19>61.0</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Bendigo" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>49.1</votesA96>
+        <votesA98>53.5</votesA98>
+        <votesA01>53.6</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>53.5</votesB01r>
+        <votesB04>51.0</votesB04>
+        <votesB07>56.1</votesB07>
+        <votesB10>59.5</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>59.4</votesC10r>
+        <votesC13>51.3</votesC13>
+        <votesC16>53.7</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>53.9</votesD16r>
+        <votesD19>59.0</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Bruce" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>50.8</votesA96>
+        <votesA98>56.7</votesA98>
+        <votesA01>55.5</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>56.5</votesB01r>
+        <votesB04>53.5</votesB04>
+        <votesB07>58.3</votesB07>
+        <votesB10>58.1</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>57.7</votesC10r>
+        <votesC13>51.8</votesC13>
+        <votesC16>54.1</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>64.1</votesD16r>
+        <votesD19>64.2</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Calwell" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>67.2</votesA96>
+        <votesA98>69.0</votesA98>
+        <votesA01>67.7</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>65.2</votesB01r>
+        <votesB04>58.2</votesB04>
+        <votesB07>69.3</votesB07>
+        <votesB10>69.7</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>70.0</votesC10r>
+        <votesC13>63.9</votesC13>
+        <votesC16>67.9</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>69.7</votesD16r>
+        <votesD19>68.8</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Casey" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>43.4</votesA96>
+        <votesA98>45.1</votesA98>
+        <votesA01>42.8</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>42.8</votesB01r>
+        <votesB04>38.7</votesB04>
+        <votesB07>44.1</votesB07>
+        <votesB10>45.8</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>48.1</votesC10r>
+        <votesC13>42.8</votesC13>
+        <votesC16>43.9</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>45.5</votesD16r>
+        <votesD19>45.4</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Chisholm" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>47.4</votesA96>
+        <votesA98>52.1</votesA98>
+        <votesA01>52.8</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>52.7</votesB01r>
+        <votesB04>52.7</votesB04>
+        <votesB07>57.4</votesB07>
+        <votesB10>56.1</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>55.8</votesC10r>
+        <votesC13>51.6</votesC13>
+        <votesC16>48.8</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>47.1</votesD16r>
+        <votesD19>49.4</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Cooper" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>71.3</votesA96>
+        <votesA98>76.4</votesA98>
+        <votesA01>75.1</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>75.1</votesB01r>
+        <votesB04>71.3</votesB04>
+        <votesB07>76.0</votesB07>
+        <votesB10>74.9</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Greens">
+        <votesC10r>57.9</votesC10r>
+        <votesC13>60.6</votesC13>
+        <votesC16>51.0</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Greens">
+        <votesD16r>51.0</votesD16r>
+        <votesD19>54.4</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Corangamite" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>42.3</votesA96>
+        <votesA98>45.5</votesA98>
+        <votesA01>44.3</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>44.6</votesB01r>
+        <votesB04>44.7</votesB04>
+        <votesB07>50.9</votesB07>
+        <votesB10>50.4</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>50.3</votesC10r>
+        <votesC13>46.1</votesC13>
+        <votesC16>46.9</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>50.0</votesD16r>
+        <votesD19>51.1</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Corio" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>56.8</votesA96>
+        <votesA98>61.4</votesA98>
+        <votesA01>58.7</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>58.5</votesB01r>
+        <votesB04>55.6</votesB04>
+        <votesB07>58.9</votesB07>
+        <votesB10>64.2</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>63.5</votesC10r>
+        <votesC13>57.7</votesC13>
+        <votesC16>60.0</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>58.2</votesD16r>
+        <votesD19>60.3</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Deakin" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>47.5</votesA96>
+        <votesA98>48.1</votesA98>
+        <votesA01>48.3</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>48.4</votesB01r>
+        <votesB04>45.0</votesB04>
+        <votesB07>51.4</votesB07>
+        <votesB10>52.4</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>50.6</votesC10r>
+        <votesC13>46.8</votesC13>
+        <votesC16>44.3</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>43.6</votesD16r>
+        <votesD19>45.2</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Dunkley" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>46.6</votesA96>
+        <votesA98>48.0</votesA98>
+        <votesA01>44.6</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>44.8</votesB01r>
+        <votesB04>40.6</votesB04>
+        <votesB07>46.0</votesB07>
+        <votesB10>49.0</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>48.9</votesC10r>
+        <votesC13>44.4</votesC13>
+        <votesC16>48.6</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>51.0</votesD16r>
+        <votesD19>52.7</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Flinders" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>39.9</votesA96>
+        <votesA98>46.3</votesA98>
+        <votesA01>42.4</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>42.6</votesB01r>
+        <votesB04>38.9</votesB04>
+        <votesB07>41.8</votesB07>
+        <votesB10>40.9</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>40.9</votesC10r>
+        <votesC13>38.2</votesC13>
+        <votesC16>42.2</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>43.0</votesD16r>
+        <votesD19>44.4</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Fraser" State="VIC">
+      <Series Id="1" />
+      <Series Id="2" />
+      <Series Id="3" />
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>70.5</votesD16r>
+        <votesD19>64.2</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Gellibrand" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>71.2</votesA96>
+        <votesA98>75.9</votesA98>
+        <votesA01>71.8</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>70.4</votesB01r>
+        <votesB04>65.0</votesB04>
+        <votesB07>71.5</votesB07>
+        <votesB10>73.9</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>74.1</votesC10r>
+        <votesC13>66.5</votesC13>
+        <votesC16>68.2</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>65.1</votesD16r>
+        <votesD19>64.8</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Gippsland" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Nationals">
+        <votesA96>31.4</votesA96>
+        <votesA98>41.2</votesA98>
+        <votesA01>41.9</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Nationals">
+        <votesB01r>47.4</votesB01r>
+        <votesB04>42.3</votesB04>
+        <votesB07>44.1</votesB07>
+        <votesB10>38.6</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Nationals">
+        <votesC10r>38.5</votesC10r>
+        <votesC13>34.2</votesC13>
+        <votesC16>31.6</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Nationals">
+        <votesD16r>31.8</votesD16r>
+        <votesD19>33.3</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Goldstein" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>39.1</votesA96>
+        <votesA98>41.8</votesA98>
+        <votesA01>40.5</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>40.5</votesB01r>
+        <votesB04>40.0</votesB04>
+        <votesB07>43.9</votesB07>
+        <votesB10>43.5</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>44.0</votesC10r>
+        <votesC13>39.0</votesC13>
+        <votesC16>37.3</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>37.3</votesD16r>
+        <votesD19>42.2</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Gorton" State="VIC">
+      <Series Id="1" />
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>70.0</votesB01r>
+        <votesB04>64.9</votesB04>
+        <votesB07>71.2</votesB07>
+        <votesB10>72.2</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>73.6</votesC10r>
+        <votesC13>66.1</votesC13>
+        <votesC16>69.5</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>68.5</votesD16r>
+        <votesD19>65.4</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Higgins" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>39.3</votesA96>
+        <votesA98>40.4</votesA98>
+        <votesA01>41.6</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>41.6</votesB01r>
+        <votesB04>41.2</votesB04>
+        <votesB07>43.0</votesB07>
+        <votesB10>43.2</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>44.6</votesC10r>
+        <votesC13>40.1</votesC13>
+        <votesC16>39.3</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>40.0</votesD16r>
+        <votesD19>46.1</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Holt" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>62.8</votesA96>
+        <votesA98>65.1</votesA98>
+        <votesA01>63.3</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>57.9</votesB01r>
+        <votesB04>51.5</votesB04>
+        <votesB07>61.6</votesB07>
+        <votesB10>63.2</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>64.0</votesC10r>
+        <votesC13>59.1</votesC13>
+        <votesC16>64.2</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>59.9</votesD16r>
+        <votesD19>58.7</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Hotham" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>60.6</votesA96>
+        <votesA98>63.6</votesA98>
+        <votesA01>61.0</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>61.0</votesB01r>
+        <votesB04>57.4</votesB04>
+        <votesB07>63.0</votesB07>
+        <votesB10>63.5</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>64.0</votesC10r>
+        <votesC13>57.3</votesC13>
+        <votesC16>57.5</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>54.2</votesD16r>
+        <votesD19>55.9</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Indi" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>32.2</votesA96>
+        <votesA98>39.9</votesA98>
+        <votesA01>38.9</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>39.3</votesB01r>
+        <votesB04>33.7</votesB04>
+        <votesB07>40.8</votesB07>
+        <votesB10>40.1</votesB10>
+      </Series>
+      <Series Id="3" Party1="Independent" Party2="Liberal">
+        <votesC13>50.2</votesC13>
+        <votesC16>54.8</votesC16>
+      </Series>
+      <Series Id="4" Party1="Independent" Party2="Liberal">
+        <votesD16r>55.5</votesD16r>
+        <votesD19>51.4</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Isaacs" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>51.6</votesA96>
+        <votesA98>56.4</votesA98>
+        <votesA01>52.8</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>56.6</votesB01r>
+        <votesB04>51.5</votesB04>
+        <votesB07>57.7</votesB07>
+        <votesB10>61.0</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>60.4</votesC10r>
+        <votesC13>53.9</votesC13>
+        <votesC16>55.7</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>53.0</votesD16r>
+        <votesD19>56.4</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Jagajaga" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>52.7</votesA96>
+        <votesA98>55.9</votesA98>
+        <votesA01>55.6</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>55.3</votesB01r>
+        <votesB04>54.4</votesB04>
+        <votesB07>59.0</votesB07>
+        <votesB10>61.5</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>61.1</votesC10r>
+        <votesC13>53.1</votesC13>
+        <votesC16>54.7</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>55.6</votesD16r>
+        <votesD19>56.6</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Kooyong" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>36.2</votesA96>
+        <votesA98>38.6</votesA98>
+        <votesA01>39.1</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>39.1</votesB01r>
+        <votesB04>40.4</votesB04>
+        <votesB07>40.5</votesB07>
+        <votesB10>42.5</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>42.5</votesC10r>
+        <votesC13>38.9</votesC13>
+        <votesC16>36.7</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>37.2</votesD16r>
+        <votesD19>43.3</votesD19>
+      </Series>
+    </Division>
+    <Division Name="La Trobe" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>48.6</votesA96>
+        <votesA98>49.0</votesA98>
+        <votesA01>46.3</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>46.3</votesB01r>
+        <votesB04>44.2</votesB04>
+        <votesB07>49.5</votesB07>
+        <votesB10>50.9</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>51.7</votesC10r>
+        <votesC13>46.0</votesC13>
+        <votesC16>48.5</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>46.8</votesD16r>
+        <votesD19>45.5</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Lalor" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>68.5</votesA96>
+        <votesA98>69.8</votesA98>
+        <votesA01>65.6</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>62.1</votesB01r>
+        <votesB04>58.8</votesB04>
+        <votesB07>65.5</votesB07>
+        <votesB10>72.2</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>72.1</votesC10r>
+        <votesC13>62.2</votesC13>
+        <votesC16>63.4</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>64.2</votesD16r>
+        <votesD19>62.4</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Macnamara" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>56.1</votesA96>
+        <votesA98>55.8</votesA98>
+        <votesA01>55.7</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>55.7</votesB01r>
+        <votesB04>53.7</votesB04>
+        <votesB07>57.1</votesB07>
+        <votesB10>57.6</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>57.9</votesC10r>
+        <votesC13>53.6</votesC13>
+        <votesC16>51.4</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>51.2</votesD16r>
+        <votesD19>56.2</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Mallee" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Nationals">
+        <votesA96>26.5</votesA96>
+        <votesA98>30.6</votesA98>
+        <votesA01>30.1</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Nationals">
+        <votesB01r>29.1</votesB01r>
+        <votesB04>25.3</votesB04>
+        <votesB07>28.7</votesB07>
+        <votesB10>25.6</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Nationals">
+        <votesC10r>26.7</votesC10r>
+        <votesC13>26.3</votesC13>
+        <votesC16>28.7</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Nationals">
+        <votesD16r>30.2</votesD16r>
+        <votesD19>33.8</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Maribyrnong" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>68.9</votesA96>
+        <votesA98>72.1</votesA98>
+        <votesA01>67.4</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>65.4</votesB01r>
+        <votesB04>59.5</votesB04>
+        <votesB07>65.3</votesB07>
+        <votesB10>66.9</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>67.5</votesC10r>
+        <votesC13>61.4</votesC13>
+        <votesC16>62.3</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>60.4</votesD16r>
+        <votesD19>61.2</votesD19>
+      </Series>
+    </Division>
+    <Division Name="McEwen" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>47.8</votesA96>
+        <votesA98>49.0</votesA98>
+        <votesA01>48.8</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>47.7</votesB01r>
+        <votesB04>43.6</votesB04>
+        <votesB07>50.0</votesB07>
+        <votesB10>55.3</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>59.2</votesC10r>
+        <votesC13>50.2</votesC13>
+        <votesC16>57.8</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>55.4</votesD16r>
+        <votesD19>55.0</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Melbourne" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>70.2</votesA96>
+        <votesA98>71.8</votesA98>
+        <votesA01>70.1</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>69.9</votesB01r>
+        <votesB04>71.1</votesB04>
+        <votesB07>72.3</votesB07>
+        <votesB10>73.3</votesB10>
+      </Series>
+      <Series Id="3" Party1="Greens" Party2="Labor">
+        <votesC10r>56.0</votesC10r>
+        <votesC13>55.3</votesC13>
+      </Series>
+      <Series Id="4" Party1="Greens" Party2="Liberal">
+        <votesD16r>68.5</votesD16r>
+        <votesD19>71.8</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Menzies" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>39.0</votesA96>
+        <votesA98>44.6</votesA98>
+        <votesA01>41.1</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>41.1</votesB01r>
+        <votesB04>39.3</votesB04>
+        <votesB07>44.0</votesB07>
+        <votesB10>41.3</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>41.3</votesC10r>
+        <votesC13>35.6</votesC13>
+        <votesC16>39.4</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>42.2</votesD16r>
+        <votesD19>42.5</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Monash" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>47.9</votesA96>
+        <votesA98>50.6</votesA98>
+        <votesA01>52.5</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>47.2</votesB01r>
+        <votesB04>45.0</votesB04>
+        <votesB07>45.2</votesB07>
+        <votesB10>45.6</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>45.8</votesC10r>
+        <votesC13>38.2</votesC13>
+        <votesC16>44.0</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>42.5</votesD16r>
+        <votesD19>42.6</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Nicholls" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>25.8</votesA96>
+        <votesA98>27.9</votesA98>
+        <votesA01>26.1</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>28.1</votesB01r>
+        <votesB04>25.9</votesB04>
+        <votesB07>31.7</votesB07>
+        <votesB10>29.6</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>30.4</votesC10r>
+        <votesC13>29.1</votesC13>
+        <votesC16>25.1</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Nationals">
+        <votesD16r>27.5</votesD16r>
+        <votesD19>30.0</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Scullin" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>70.7</votesA96>
+        <votesA98>71.8</votesA98>
+        <votesA01>69.2</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>70.2</votesB01r>
+        <votesB04>64.8</votesB04>
+        <votesB07>70.9</votesB07>
+        <votesB10>72.3</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>70.6</votesC10r>
+        <votesC13>64.3</votesC13>
+        <votesC16>67.3</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>69.6</votesD16r>
+        <votesD19>71.7</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Wannon" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>37.7</votesA96>
+        <votesA98>42.6</votesA98>
+        <votesA01>40.4</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>40.8</votesB01r>
+        <votesB04>37.6</votesB04>
+        <votesB07>42.5</votesB07>
+        <votesB10>42.7</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC10r>45.3</votesC10r>
+        <votesC13>39.9</votesC13>
+        <votesC16>41.0</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>40.9</votesD16r>
+        <votesD19>39.6</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Wills" State="VIC">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>72.2</votesA96>
+        <votesA98>71.0</votesA98>
+        <votesA01>69.4</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>70.6</votesB01r>
+        <votesB04>66.9</votesB04>
+        <votesB07>72.4</votesB07>
+        <votesB10>72.6</votesB10>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Greens">
+        <votesC13>65.2</votesC13>
+        <votesC16>54.9</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Greens">
+        <votesD16r>54.9</votesD16r>
+        <votesD19>58.2</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Blair" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>31.4</votesA96r>
+        <votesA98>42.0</votesA98>
+        <votesA01>41.5</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>43.4</votesB01r>
+        <votesB04>38.8</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>44.3</votesC04r>
+        <votesC07>54.5</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>57.0</votesD07r>
+        <votesD10>54.2</votesD10>
+        <votesD13>55.3</votesD13>
+        <votesD16>58.9</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>58.1</votesE16r>
+        <votesE19>51.2</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Bonner" State="QLD">
+      <Series Id="1" />
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>51.9</votesB01r>
+        <votesB04>49.5</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>49.5</votesC04r>
+        <votesC07>54.5</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>54.5</votesD07r>
+        <votesD10>47.2</votesD10>
+        <votesD13>46.3</votesD13>
+        <votesD16>46.6</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>46.6</votesE16r>
+        <votesE19>42.6</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Bowman" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>49.1</votesA96r>
+        <votesA98>53.3</votesA98>
+        <votesA01>51.4</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>46.9</votesB01r>
+        <votesB04>40.9</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>41.1</votesC04r>
+        <votesC07>50.0</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>50.0</votesD07r>
+        <votesD10>39.6</votesD10>
+        <votesD13>41.1</votesD13>
+        <votesD16>42.9</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>42.9</votesE16r>
+        <votesE19>39.8</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Brisbane" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>50.7</votesA96r>
+        <votesA98>54.6</votesA98>
+        <votesA01>53.1</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>51.0</votesB01r>
+        <votesB04>53.9</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>53.9</votesC04r>
+        <votesC07>56.8</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>54.6</votesD07r>
+        <votesD10>48.9</votesD10>
+        <votesD13>45.7</votesD13>
+        <votesD16>44.1</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>44.0</votesE16r>
+        <votesE19>45.1</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Capricornia" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Nationals">
+        <votesA96r>46.5</votesA96r>
+        <votesA98>55.3</votesA98>
+        <votesA01>56.9</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Nationals">
+        <votesB01r>55.5</votesB01r>
+        <votesB04>55.1</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Nationals">
+        <votesC04r>54.0</votesC04r>
+        <votesC07>62.7</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>62.1</votesD07r>
+        <votesD10>53.7</votesD10>
+        <votesD13>49.2</votesD13>
+        <votesD16>49.4</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>49.4</votesE16r>
+        <votesE19>37.6</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Dawson" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Nationals">
+        <votesA96r>39.2</votesA96r>
+        <votesA98>45.6</votesA98>
+        <votesA01>42.0</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Nationals">
+        <votesB01r>42.0</votesB01r>
+        <votesB04>39.6</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Nationals">
+        <votesC04r>40.0</votesC04r>
+        <votesC07>53.2</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>52.6</votesD07r>
+        <votesD10>47.6</votesD10>
+        <votesD13>42.4</votesD13>
+        <votesD16>46.7</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>46.6</votesE16r>
+        <votesE19>35.4</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Dickson" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>46.1</votesA96r>
+        <votesA98>50.1</votesA98>
+        <votesA01>44.0</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>44.0</votesB01r>
+        <votesB04>42.2</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>41.1</votesC04r>
+        <votesC07>49.9</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>50.8</votesD07r>
+        <votesD10>44.9</votesD10>
+        <votesD13>43.3</votesD13>
+        <votesD16>48.4</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>48.3</votesE16r>
+        <votesE19>45.4</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Fadden" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>32.5</votesA96r>
+        <votesA98>42.4</votesA98>
+        <votesA01>37.7</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>36.9</votesB01r>
+        <votesB04>34.7</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>34.1</votesC04r>
+        <votesC07>39.8</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>39.6</votesD07r>
+        <votesD10>35.8</votesD10>
+        <votesD13>35.6</votesD13>
+        <votesD16>39.0</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>38.8</votesE16r>
+        <votesE19>35.8</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Fairfax" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>32.4</votesA96r>
+        <votesA98>45.6</votesA98>
+        <votesA01>40.8</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>40.8</votesB01r>
+        <votesB04>39.2</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>37.6</votesC04r>
+        <votesC07>47.0</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>47.0</votesD07r>
+        <votesD10>43.0</votesD10>
+        <votesD13>38.3</votesD13>
+        <votesD16>39.1</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>39.1</votesE16r>
+        <votesE19>36.6</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Fisher" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>29.4</votesA96r>
+        <votesA98>39.0</votesA98>
+        <votesA01>37.9</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>38.2</votesB01r>
+        <votesB04>37.0</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>39.0</votesC04r>
+        <votesC07>46.9</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>46.5</votesD07r>
+        <votesD10>45.9</votesD10>
+        <votesD13>40.2</votesD13>
+        <votesD16>40.9</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>40.9</votesE16r>
+        <votesE19>37.3</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Flynn" State="QLD">
+      <Series Id="1" />
+      <Series Id="2" />
+      <Series Id="3" Party1="Labor" Party2="Nationals">
+        <votesC04r>42.3</votesC04r>
+        <votesC07>50.2</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>52.2</votesD07r>
+        <votesD10>46.4</votesD10>
+        <votesD13>43.5</votesD13>
+        <votesD16>49.0</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>49.0</votesE16r>
+        <votesE19>41.3</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Forde" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>38.0</votesA96r>
+        <votesA98>44.8</votesA98>
+        <votesA01>42.6</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>43.0</votesB01r>
+        <votesB04>37.0</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>38.5</votesC04r>
+        <votesC07>52.9</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>53.4</votesD07r>
+        <votesD10>48.4</votesD10>
+        <votesD13>45.6</votesD13>
+        <votesD16>49.4</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>49.4</votesE16r>
+        <votesE19>41.4</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Griffith" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>48.5</votesA96r>
+        <votesA98>52.4</votesA98>
+        <votesA01>55.7</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>56.1</votesB01r>
+        <votesB04>58.6</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>58.5</votesC04r>
+        <votesC07>62.3</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>62.3</votesD07r>
+        <votesD10>58.5</votesD10>
+        <votesD13>53.0</votesD13>
+        <votesD16>51.6</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>51.4</votesE16r>
+        <votesE19>52.9</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Groom" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>28.7</votesA96r>
+        <votesA98>37.0</votesA98>
+        <votesA01>34.9</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>34.9</votesB01r>
+        <votesB04>31.1</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>31.2</votesC04r>
+        <votesC07>41.8</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>41.8</votesD07r>
+        <votesD10>31.5</votesD10>
+        <votesD13>33.5</votesD13>
+        <votesD16>34.7</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>34.7</votesE16r>
+        <votesE19>29.5</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Herbert" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>43.4</votesA96r>
+        <votesA98>49.9</votesA98>
+        <votesA01>48.4</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>48.5</votesB01r>
+        <votesB04>43.8</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>43.8</votesC04r>
+        <votesC07>49.8</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>50.0</votesD07r>
+        <votesD10>47.8</votesD10>
+        <votesD13>43.8</votesD13>
+        <votesD16>50.0</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>50.0</votesE16r>
+        <votesE19>41.6</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Hinkler" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Nationals">
+        <votesA96r>42.1</votesA96r>
+        <votesA98>49.7</votesA98>
+        <votesA01>50.0</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Nationals">
+        <votesB01r>47.9</votesB01r>
+        <votesB04>45.2</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Nationals">
+        <votesC04r>41.7</votesC04r>
+        <votesC07>48.3</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>48.5</votesD07r>
+        <votesD10>39.6</votesD10>
+        <votesD13>41.0</votesD13>
+        <votesD16>41.6</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>41.6</votesE16r>
+        <votesE19>35.5</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Kennedy" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Nationals">
+        <votesA96r>35.8</votesA96r>
+        <votesA98>38.8</votesA98>
+      </Series>
+      <Series Id="2" Party1="Independent" Party2="Labor">
+        <votesB01r>74.5</votesB01r>
+        <votesB04>68.9</votesB04>
+      </Series>
+      <Series Id="3" Party1="Independent" Party2="Labor">
+        <votesC04r>68.8</votesC04r>
+        <votesC07>66.3</votesC07>
+      </Series>
+      <Series Id="4" Party1="KAP" Party2="LNP">
+        <votesD10>68.3</votesD10>
+        <votesD13>52.2</votesD13>
+        <votesD16>61.1</votesD16>
+      </Series>
+      <Series Id="5" Party1="KAP" Party2="LNP">
+        <votesE16r>61.0</votesE16r>
+        <votesE19>63.3</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Leichhardt" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>45.4</votesA96r>
+        <votesA98>45.9</votesA98>
+        <votesA01>43.6</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>43.6</votesB01r>
+        <votesB04>40.0</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>39.7</votesC04r>
+        <votesC07>54.0</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>54.1</votesD07r>
+        <votesD10>45.4</votesD10>
+        <votesD13>44.3</votesD13>
+        <votesD16>46.0</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>46.1</votesE16r>
+        <votesE19>45.8</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Lilley" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>49.6</votesA96r>
+        <votesA98>53.1</votesA98>
+        <votesA01>54.8</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>54.6</votesB01r>
+        <votesB04>55.3</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>55.4</votesC04r>
+        <votesC07>58.6</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>58.0</votesD07r>
+        <votesD10>53.2</votesD10>
+        <votesD13>51.3</votesD13>
+        <votesD16>55.3</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>55.7</votesE16r>
+        <votesE19>50.6</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Longman" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>40.1</votesA96r>
+        <votesA98>49.1</votesA98>
+        <votesA01>47.3</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>47.5</votesB01r>
+        <votesB04>42.3</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>43.2</votesC04r>
+        <votesC07>53.6</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>51.9</votesD07r>
+        <votesD10>48.1</votesD10>
+        <votesD13>43.1</votesD13>
+        <votesD16>50.8</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>50.8</votesE16r>
+        <votesE19>46.7</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Maranoa" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Nationals">
+        <votesA96r>28.5</votesA96r>
+        <votesA98>35.6</votesA98>
+        <votesA01>34.0</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Nationals">
+        <votesB01r>34.6</votesB01r>
+        <votesB04>29.1</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Nationals">
+        <votesC04r>29.0</votesC04r>
+        <votesC07>35.6</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>35.9</votesD07r>
+        <votesD10>27.1</votesD10>
+        <votesD13>27.7</votesD13>
+        <votesD16>32.5</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>32.5</votesE16r>
+        <votesE19>24.6</votesE19>
+      </Series>
+    </Division>
+    <Division Name="McPherson" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>32.8</votesA96r>
+        <votesA98>41.7</votesA98>
+        <votesA01>37.5</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>37.8</votesB01r>
+        <votesB04>36.1</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>36.1</votesC04r>
+        <votesC07>41.2</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>41.3</votesD07r>
+        <votesD10>39.7</votesD10>
+        <votesD13>37.0</votesD13>
+        <votesD16>38.4</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>38.4</votesE16r>
+        <votesE19>37.8</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Moncrieff" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>29.5</votesA96r>
+        <votesA98>37.2</votesA98>
+        <votesA01>34.6</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>33.7</votesB01r>
+        <votesB04>29.9</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>30.5</votesC04r>
+        <votesC07>36.0</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>36.2</votesD07r>
+        <votesD10>32.5</votesD10>
+        <votesD13>32.0</votesD13>
+        <votesD16>35.1</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>35.4</votesE16r>
+        <votesE19>34.6</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Moreton" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>44.0</votesA96r>
+        <votesA98>49.4</votesA98>
+        <votesA01>45.8</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>47.4</votesB01r>
+        <votesB04>45.8</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>47.2</votesC04r>
+        <votesC07>54.7</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>56.0</votesD07r>
+        <votesD10>51.1</votesD10>
+        <votesD13>51.6</votesD13>
+        <votesD16>54.0</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>54.0</votesE16r>
+        <votesE19>51.9</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Oxley" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>50.4</votesA96r>
+        <votesA98>58.2</votesA98>
+        <votesA01>58.1</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>58.0</votesB01r>
+        <votesB04>59.7</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>57.1</votesC04r>
+        <votesC07>64.1</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>61.3</votesD07r>
+        <votesD10>55.8</votesD10>
+        <votesD13>53.8</votesD13>
+        <votesD16>59.1</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>59.0</votesE16r>
+        <votesE19>56.4</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Petrie" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>41.7</votesA96r>
+        <votesA98>49.2</votesA98>
+        <votesA01>46.6</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>46.5</votesB01r>
+        <votesB04>42.1</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>42.6</votesC04r>
+        <votesC07>52.1</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>54.2</votesD07r>
+        <votesD10>52.5</votesD10>
+        <votesD13>49.5</votesD13>
+        <votesD16>48.4</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>48.4</votesE16r>
+        <votesE19>41.6</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Rankin" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>49.6</votesA96r>
+        <votesA98>58.7</votesA98>
+        <votesA01>56.7</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>52.4</votesB01r>
+        <votesB04>53.2</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>53.0</votesC04r>
+        <votesC07>61.7</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>61.7</votesD07r>
+        <votesD10>55.4</votesD10>
+        <votesD13>54.8</votesD13>
+        <votesD16>61.3</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>61.3</votesE16r>
+        <votesE19>56.4</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Ryan" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>33.0</votesA96r>
+        <votesA98>40.5</votesA98>
+        <votesA01>41.4</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB01r>40.4</votesB01r>
+        <votesB04>39.6</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC04r>39.6</votesC04r>
+        <votesC07>46.2</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>48.8</votesD07r>
+        <votesD10>42.8</votesD10>
+        <votesD13>41.5</votesD13>
+        <votesD16>40.9</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>41.0</votesE16r>
+        <votesE19>44.0</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Wide Bay" State="QLD">
+      <Series Id="1" Party1="Labor" Party2="Nationals">
+        <votesA96r>31.8</votesA96r>
+        <votesA98>47.1</votesA98>
+        <votesA01>39.3</votesA01>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Nationals">
+        <votesB01r>40.1</votesB01r>
+        <votesB04>37.1</votesB04>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Nationals">
+        <votesC04r>37.8</votesC04r>
+        <votesC07>41.5</votesC07>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>41.6</votesD07r>
+        <votesD10>34.4</votesD10>
+        <votesD13>36.8</votesD13>
+        <votesD16>41.9</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>41.8</votesE16r>
+        <votesE19>36.9</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Wright" State="QLD">
+      <Series Id="1" />
+      <Series Id="2" />
+      <Series Id="3" />
+      <Series Id="4" Party1="Labor" Party2="LNP">
+        <votesD07r>46.2</votesD07r>
+        <votesD10>39.8</votesD10>
+        <votesD13>38.2</votesD13>
+        <votesD16>40.4</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="LNP">
+        <votesE16r>40.4</votesE16r>
+        <votesE19>35.4</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Brand" State="WA">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>50.8</votesA96r>
+        <votesA98>62.3</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>63.4</votesB98r>
+        <votesB01>60.0</votesB01>
+        <votesB04>54.7</votesB04>
+        <votesB07>55.6</votesB07>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC07r>56.0</votesC07r>
+        <votesC10>53.3</votesC10>
+        <votesC13>52.9</votesC13>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD13r>53.7</votesD13r>
+        <votesD16>61.4</votesD16>
+        <votesD19>56.7</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Burt" State="WA">
+      <Series Id="1" />
+      <Series Id="2" />
+      <Series Id="3" />
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD13r>43.9</votesD13r>
+        <votesD16>57.1</votesD16>
+        <votesD19>55.0</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Canning" State="WA">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>48.4</votesA96r>
+        <votesA98>53.5</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>50.0</votesB98r>
+        <votesB01>49.6</votesB01>
+        <votesB04>40.5</votesB04>
+        <votesB07>44.4</votesB07>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC07r>45.6</votesC07r>
+        <votesC10>47.8</votesC10>
+        <votesC13>38.2</votesC13>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD13r>38.6</votesD13r>
+        <votesD16>43.2</votesD16>
+        <votesD19>38.4</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Cowan" State="WA">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>45.9</votesA96r>
+        <votesA98>53.6</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>53.1</votesB98r>
+        <votesB01>55.5</votesB01>
+        <votesB04>50.8</votesB04>
+        <votesB07>48.3</votesB07>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC07r>48.7</votesC07r>
+        <votesC10>43.7</votesC10>
+        <votesC13>42.5</votesC13>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD13r>45.5</votesD13r>
+        <votesD16>50.7</votesD16>
+        <votesD19>50.8</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Curtin" State="WA">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>36.8</votesA96r>
+        <votesA98>36.7</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>36.5</votesB98r>
+        <votesB01>36.1</votesB01>
+        <votesB04>35.4</votesB04>
+        <votesB07>36.4</votesB07>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC07r>36.7</votesC07r>
+        <votesC10>33.8</votesC10>
+        <votesC13>32.6</votesC13>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD13r>31.8</votesD13r>
+        <votesD16>29.3</votesD16>
+        <votesD19>35.7</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Durack" State="WA">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>50.7</votesA96r>
+        <votesA98>47.9</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>47.9</votesB98r>
+        <votesB01>45.7</votesB01>
+        <votesB04>43.7</votesB04>
+        <votesB07>47.4</votesB07>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC07r>42.4</votesC07r>
+        <votesC10>36.3</votesC10>
+        <votesC13>35.1</votesC13>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD13r>35.0</votesD13r>
+        <votesD16>38.9</votesD16>
+        <votesD19>35.2</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Forrest" State="WA">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>35.9</votesA96r>
+        <votesA98>43.1</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>45.4</votesB98r>
+        <votesB01>42.4</votesB01>
+        <votesB04>39.5</votesB04>
+        <votesB07>44.2</votesB07>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC07r>44.5</votesC07r>
+        <votesC10>41.3</votesC10>
+        <votesC13>37.7</votesC13>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD13r>36.2</votesD13r>
+        <votesD16>37.4</votesD16>
+        <votesD19>35.4</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Fremantle" State="WA">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>54.2</votesA96r>
+        <votesA98>60.0</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>62.3</votesB98r>
+        <votesB01>60.7</votesB01>
+        <votesB04>57.8</votesB04>
+        <votesB07>59.1</votesB07>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC07r>59.1</votesC07r>
+        <votesC10>55.7</votesC10>
+        <votesC13>54.8</votesC13>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD13r>55.4</votesD13r>
+        <votesD16>57.5</votesD16>
+        <votesD19>56.9</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Hasluck" State="WA">
+      <Series Id="1" />
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>52.6</votesB98r>
+        <votesB01>51.8</votesB01>
+        <votesB04>48.2</votesB04>
+        <votesB07>51.3</votesB07>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC07r>50.9</votesC07r>
+        <votesC10>49.4</votesC10>
+        <votesC13>45.1</votesC13>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD13r>44.0</votesD13r>
+        <votesD16>47.9</votesD16>
+        <votesD19>44.6</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Moore" State="WA">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>41.5</votesA96r>
+        <votesA98>45.9</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>44.4</votesB98r>
+        <votesB01>44.0</votesB01>
+        <votesB04>39.2</votesB04>
+        <votesB07>40.8</votesB07>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC07r>41.1</votesC07r>
+        <votesC10>38.8</votesC10>
+        <votesC13>38.1</votesC13>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD13r>37.6</votesD13r>
+        <votesD16>39.0</votesD16>
+        <votesD19>38.3</votesD19>
+      </Series>
+    </Division>
+    <Division Name="O'Connor" State="WA">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>28.8</votesA96r>
+        <votesA98>34.9</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>33.4</votesB98r>
+        <votesB01>30.9</votesB01>
+        <votesB04>29.6</votesB04>
+        <votesB07>33.4</votesB07>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC07r>37.2</votesC07r>
+        <votesC10>27.0</votesC10>
+        <votesC13>32.8</votesC13>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD13r>34.6</votesD13r>
+        <votesD16>35.0</votesD16>
+        <votesD19>35.5</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Pearce" State="WA">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>36.4</votesA96r>
+        <votesA98>44.7</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>44.8</votesB98r>
+        <votesB01>43.1</votesB01>
+        <votesB04>37.1</votesB04>
+        <votesB07>40.9</votesB07>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC07r>41.4</votesC07r>
+        <votesC10>41.1</votesC10>
+        <votesC13>41.9</votesC13>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD13r>40.7</votesD13r>
+        <votesD16>46.4</votesD16>
+        <votesD19>42.5</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Perth" State="WA">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>56.7</votesA96r>
+        <votesA98>63.3</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>62.5</votesB98r>
+        <votesB01>61.2</votesB01>
+        <votesB04>56.7</votesB04>
+        <votesB07>58.9</votesB07>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC07r>57.9</votesC07r>
+        <votesC10>55.9</votesC10>
+        <votesC13>54.4</votesC13>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD13r>52.2</votesD13r>
+        <votesD16>53.3</votesD16>
+        <votesD19>54.9</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Swan" State="WA">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>46.4</votesA96r>
+        <votesA98>52.7</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>52.8</votesB98r>
+        <votesB01>52.0</votesB01>
+        <votesB04>50.1</votesB04>
+        <votesB07>49.9</votesB07>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC07r>50.3</votesC07r>
+        <votesC10>47.5</votesC10>
+        <votesC13>43.5</votesC13>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD13r>42.7</votesD13r>
+        <votesD16>46.4</votesD16>
+        <votesD19>47.3</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Tangney" State="WA">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>38.1</votesA96r>
+        <votesA98>44.1</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>43.0</votesB98r>
+        <votesB01>42.0</votesB01>
+        <votesB04>38.3</votesB04>
+        <votesB07>41.3</votesB07>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC07r>40.2</votesC07r>
+        <votesC10>37.7</votesC10>
+        <votesC13>35.3</votesC13>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD13r>37.0</votesD13r>
+        <votesD16>38.9</votesD16>
+        <votesD19>38.5</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Adelaide" State="SA">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>46.5</votesA96>
+        <votesA98>49.1</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>49.3</votesB98r>
+        <votesB01>49.8</votesB01>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC01r>49.4</votesC01r>
+        <votesC04>51.3</votesC04>
+        <votesC07>58.5</votesC07>
+        <votesC10>57.7</votesC10>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD10r>57.5</votesD10r>
+        <votesD13>53.9</votesD13>
+        <votesD16>54.7</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE16r>58.3</votesE16r>
+        <votesE19>58.2</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Barker" State="SA">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>29.1</votesA96>
+        <votesA98>36.3</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>36.0</votesB98r>
+        <votesB01>34.3</votesB01>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC01r>33.4</votesC01r>
+        <votesC04>30.1</votesC04>
+        <votesC07>40.5</votesC07>
+        <votesC10>37.1</votesC10>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD10r>37.0</votesD10r>
+        <votesD13>33.5</votesD13>
+        <votesD16>34.8</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE16r>36.1</votesE16r>
+        <votesE19>31.1</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Boothby" State="SA">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>38.4</votesA96>
+        <votesA98>42.6</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>42.4</votesB98r>
+        <votesB01>42.6</votesB01>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC01r>42.6</votesC01r>
+        <votesC04>44.6</votesC04>
+        <votesC07>47.1</votesC07>
+        <votesC10>49.3</votesC10>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD10r>49.4</votesD10r>
+        <votesD13>42.9</votesD13>
+        <votesD16>46.5</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE16r>47.3</votesE16r>
+        <votesE19>48.6</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Grey" State="SA">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>41.5</votesA96>
+        <votesA98>42.0</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>41.0</votesB98r>
+        <votesB01>39.4</votesB01>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC01r>39.4</votesC01r>
+        <votesC04>36.2</votesC04>
+        <votesC07>45.6</votesC07>
+        <votesC10>38.8</votesC10>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD10r>38.8</votesD10r>
+        <votesD13>36.5</votesD13>
+        <votesD16>41.4</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE16r>42.3</votesE16r>
+        <votesE19>36.7</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Hindmarsh" State="SA">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>41.9</votesA96>
+        <votesA98>48.8</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>48.8</votesB98r>
+        <votesB01>48.1</votesB01>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC01r>49.0</votesC01r>
+        <votesC04>50.1</votesC04>
+        <votesC07>55.1</votesC07>
+        <votesC10>55.7</votesC10>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD10r>56.1</votesD10r>
+        <votesD13>48.1</votesD13>
+        <votesD16>50.6</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE16r>58.4</votesE16r>
+        <votesE19>56.5</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Kingston" State="SA">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>48.0</votesA96>
+        <votesA98>50.5</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>51.9</votesB98r>
+        <votesB01>52.4</votesB01>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC01r>51.3</votesC01r>
+        <votesC04>49.9</votesC04>
+        <votesC07>54.4</votesC07>
+        <votesC10>63.9</votesC10>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD10r>64.5</votesD10r>
+        <votesD13>59.7</votesD13>
+        <votesD16>67.0</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE16r>63.6</votesE16r>
+        <votesE19>61.9</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Makin" State="SA">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>48.9</votesA96>
+        <votesA98>49.1</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>49.2</votesB98r>
+        <votesB01>46.2</votesB01>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC01r>46.3</votesC01r>
+        <votesC04>49.1</votesC04>
+        <votesC07>57.7</votesC07>
+        <votesC10>62.2</votesC10>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD10r>62.0</votesD10r>
+        <votesD13>55.1</votesD13>
+        <votesD16>59.7</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE16r>60.8</votesE16r>
+        <votesE19>59.7</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Mayo" State="SA">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>34.8</votesA96>
+        <votesA98>40.1</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>40.5</votesB98r>
+        <votesB01>37.1</votesB01>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC01r>35.7</votesC01r>
+        <votesC04>36.4</votesC04>
+        <votesC07>42.9</votesC07>
+        <votesC10>42.7</votesC10>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD10r>42.7</votesD10r>
+        <votesD13>37.5</votesD13>
+        <votesD16>44.6</votesD16>
+      </Series>
+      <Series Id="5" Party1="CA" Party2="Liberal">
+        <votesE16r>55.0</votesE16r>
+        <votesE19>55.1</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Spence" State="SA">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>30.0</votesA96>
+        <votesA98>33.7</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>33.4</votesB98r>
+        <votesB01>35.4</votesB01>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC01r>51.3</votesC01r>
+        <votesC04>49.3</votesC04>
+        <votesC07>56.6</votesC07>
+        <votesC10>62.0</votesC10>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD10r>60.5</votesD10r>
+        <votesD13>53.4</votesD13>
+        <votesD16>61.0</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE16r>67.2</votesE16r>
+        <votesE19>64.1</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Sturt" State="SA">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>40.0</votesA96>
+        <votesA98>42.7</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>42.3</votesB98r>
+        <votesB01>41.8</votesB01>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC01r>41.5</votesC01r>
+        <votesC04>43.2</votesC04>
+        <votesC07>49.1</votesC07>
+        <votesC10>46.6</votesC10>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD10r>46.4</votesD10r>
+        <votesD13>39.9</votesD13>
+        <votesD16>44.1</votesD16>
+      </Series>
+      <Series Id="5" Party1="Labor" Party2="Liberal">
+        <votesE16r>44.6</votesE16r>
+        <votesE19>43.1</votesE19>
+      </Series>
+    </Division>
+    <Division Name="Bass" State="TAS">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>45.4</votesA96>
+        <votesA98>50.1</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>50.2</votesB98r>
+        <votesB01>52.1</votesB01>
+        <votesB04>47.4</votesB04>
+        <votesB07>51.0</votesB07>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC07r>51.0</votesC07r>
+        <votesC10>56.7</votesC10>
+        <votesC13>46.0</votesC13>
+        <votesC16>56.1</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>55.4</votesD16r>
+        <votesD19>49.6</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Braddon" State="TAS">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>44.3</votesA96>
+        <votesA98>54.3</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>54.3</votesB98r>
+        <votesB01>56.0</votesB01>
+        <votesB04>48.9</votesB04>
+        <votesB07>51.4</votesB07>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC07r>52.3</votesC07r>
+        <votesC10>57.5</votesC10>
+        <votesC13>47.4</votesC13>
+        <votesC16>52.2</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>51.7</votesD16r>
+        <votesD19>46.9</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Clark" State="TAS">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>61.8</votesA96>
+        <votesA98>64.5</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>64.5</votesB98r>
+        <votesB01>64.3</votesB01>
+        <votesB04>63.3</votesB04>
+        <votesB07>65.6</votesB07>
+      </Series>
+      <Series Id="3" Party1="Independent" Party2="Labor">
+        <votesC10>51.2</votesC10>
+        <votesC13>65.5</votesC13>
+        <votesC16>67.8</votesC16>
+      </Series>
+      <Series Id="4" Party1="Independent" Party2="Labor">
+        <votesD16r>67.8</votesD16r>
+        <votesD19>72.1</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Franklin" State="TAS">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>54.7</votesA96>
+        <votesA98>56.6</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>56.6</votesB98r>
+        <votesB01>58.0</votesB01>
+        <votesB04>57.6</votesB04>
+        <votesB07>54.5</votesB07>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC07r>54.1</votesC07r>
+        <votesC10>60.8</votesC10>
+        <votesC13>55.1</votesC13>
+        <votesC16>60.7</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>60.7</votesD16r>
+        <votesD19>62.2</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Lyons" State="TAS">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96>51.3</votesA96>
+        <votesA98>60.6</votesA98>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB98r>61.1</votesB98r>
+        <votesB01>58.2</votesB01>
+        <votesB04>53.7</votesB04>
+        <votesB07>58.8</votesB07>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC07r>58.3</votesC07r>
+        <votesC10>62.3</votesC10>
+        <votesC13>48.8</votesC13>
+        <votesC16>52.3</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>53.8</votesD16r>
+        <votesD19>55.2</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Bean" State="ACT">
+      <Series Id="1" />
+      <Series Id="2" />
+      <Series Id="3" />
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>58.9</votesD16r>
+        <votesD19>57.5</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Canberra" State="ACT">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>52.3</votesA96r>
+        <votesA98>60.1</votesA98>
+        <votesA01>59.4</votesA01>
+        <votesA04>59.6</votesA04>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB04r>59.6</votesB04r>
+        <votesB07>61.8</votesB07>
+        <votesB10>59.1</votesB10>
+        <votesB13>57.0</votesB13>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC13r>57.5</votesC13r>
+        <votesC16>58.5</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>62.9</votesD16r>
+        <votesD19>67.1</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Fenner" State="ACT">
+      <Series Id="1" Party1="Labor" Party2="Liberal">
+        <votesA96r>58.9</votesA96r>
+        <votesA98>64.9</votesA98>
+        <votesA01>62.7</votesA01>
+        <votesA04>63.3</votesA04>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="Liberal">
+        <votesB04r>63.3</votesB04r>
+        <votesB07>65.1</votesB07>
+        <votesB10>64.2</votesB10>
+        <votesB13>62.6</votesB13>
+      </Series>
+      <Series Id="3" Party1="Labor" Party2="Liberal">
+        <votesC13r>62.5</votesC13r>
+        <votesC16>63.9</votesC16>
+      </Series>
+      <Series Id="4" Party1="Labor" Party2="Liberal">
+        <votesD16r>61.8</votesD16r>
+        <votesD19>60.6</votesD19>
+      </Series>
+    </Division>
+    <Division Name="Lingiari" State="NT">
+      <Series Id="1" Party1="Labor" Party2="CLP">
+        <votesA98r>53.5</votesA98r>
+        <votesA01>55.3</votesA01>
+        <votesA04>57.7</votesA04>
+        <votesA07>61.2</votesA07>
+        <votesA10>53.7</votesA10>
+        <votesA13>50.9</votesA13>
+        <votesA16>58.4</votesA16>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="CLP">
+        <votesB16r>58.2</votesB16r>
+        <votesB19>55.5</votesB19>
+      </Series>
+    </Division>
+    <Division Name="Solomon" State="NT">
+      <Series Id="1" Party1="Labor" Party2="CLP">
+        <votesA98r>47.8</votesA98r>
+        <votesA01>49.9</votesA01>
+        <votesA04>47.2</votesA04>
+        <votesA07>50.2</votesA07>
+        <votesA10>48.2</votesA10>
+        <votesA13>48.6</votesA13>
+        <votesA16>56.0</votesA16>
+      </Series>
+      <Series Id="2" Party1="Labor" Party2="CLP">
+        <votesB16r>56.1</votesB16r>
+        <votesB19>53.1</votesB19>
+      </Series>
+    </Division>
+  </Divisions>
+</Divisions>

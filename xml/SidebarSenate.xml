@@ -1,0 +1,3645 @@
+﻿<State>
+  <State ID="ACT">
+    <Table>
+      <Party Name="Liberal">
+        <Votes>87492</Votes>
+        <VotesPC>0.324</VotesPC>
+        <Swing>-0.008</Swing>
+        <Quotas>0.971</Quotas>
+        <Seats>1</Seats>
+      </Party>
+      <Party Name="Greens">
+        <Votes>47855</Votes>
+        <VotesPC>0.177</VotesPC>
+        <Swing>0.016</Swing>
+        <Quotas>0.531</Quotas>
+      </Party>
+      <Party Name="Group C (Anthony Pesec)">
+        <Votes>12604</Votes>
+        <VotesPC>0.047</VotesPC>
+        <Quotas>0.140</Quotas>
+      </Party>
+      <Party Name="Conservative Nationals">
+        <Votes>2461</Votes>
+        <VotesPC>0.009</VotesPC>
+        <Quotas>0.027</Quotas>
+      </Party>
+      <Party Name="United Australia Party">
+        <Votes>6130</Votes>
+        <VotesPC>0.023</VotesPC>
+        <Quotas>0.068</Quotas>
+      </Party>
+      <Party Name="Sustainable Australia">
+        <Votes>4463</Votes>
+        <VotesPC>0.017</VotesPC>
+        <Swing>0.006</Swing>
+        <Quotas>0.050</Quotas>
+      </Party>
+      <Party Name="Labor">
+        <Votes>106330</Votes>
+        <VotesPC>0.393</VotesPC>
+        <Swing>0.014</Swing>
+        <Quotas>1.180</Quotas>
+        <Seats>1</Seats>
+      </Party>
+      <Party Name="Ungrouped">
+        <Votes>2896</Votes>
+        <VotesPC>0.011</VotesPC>
+        <Quotas>0.032</Quotas>
+      </Party>
+      <Party Name="Formal">
+        <Votes>270231</Votes>
+      </Party>
+      <Party Name="Informal">
+        <Votes>6420</Votes>
+        <VotesPC>0.023</VotesPC>
+      </Party>
+    </Table>
+    <Bar>
+      <Party Name="Labor">
+        <VotesPC>0.393</VotesPC>
+      </Party>
+      <Party Name="Liberal">
+        <VotesPC>0.324</VotesPC>
+      </Party>
+      <Party Name="Greens">
+        <VotesPC>0.177</VotesPC>
+      </Party>
+      <Party Name="Others">
+        <VotesPC>0.106</VotesPC>
+      </Party>
+    </Bar>
+    <VotesHist>
+      <Election Year="1990">
+        <Party Name="Labor">
+          <VotesPC>0.411</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Liberal">
+          <VotesPC>0.359</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.033</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.176</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.021</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="1993">
+        <Party Name="Labor">
+          <VotesPC>0.486</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Liberal">
+          <VotesPC>0.350</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.061</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.069</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.034</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="1996">
+        <Party Name="Labor">
+          <VotesPC>0.426</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Liberal">
+          <VotesPC>0.390</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.059</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.102</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.023</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="1998">
+        <Party Name="Labor">
+          <VotesPC>0.426</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Liberal">
+          <VotesPC>0.312</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.032</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.167</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.063</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2001">
+        <Party Name="Labor">
+          <VotesPC>0.420</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Liberal">
+          <VotesPC>0.343</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.072</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.107</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.058</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2004">
+        <Party Name="Labor">
+          <VotesPC>0.411</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Liberal">
+          <VotesPC>0.379</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.164</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.021</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.025</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2007">
+        <Party Name="Labor">
+          <VotesPC>0.408</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Liberal">
+          <VotesPC>0.342</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.215</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.018</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.017</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2010">
+        <Party Name="Labor">
+          <VotesPC>0.408</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Liberal">
+          <VotesPC>0.334</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.229</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.018</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.011</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2013">
+        <Party Name="Labor">
+          <VotesPC>0.344</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Liberal">
+          <VotesPC>0.331</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.193</VotesPC>
+        </Party>
+        <Party Name="Democrats" />
+        <Party Name="Others">
+          <VotesPC>0.132</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2016">
+        <Party Name="Labor">
+          <VotesPC>0.379</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Liberal">
+          <VotesPC>0.332</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.161</VotesPC>
+        </Party>
+        <Party Name="Democrats" />
+        <Party Name="Others">
+          <VotesPC>0.128</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2019">
+        <Party Name="Labor">
+          <VotesPC>0.393</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Liberal">
+          <VotesPC>0.324</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.177</VotesPC>
+        </Party>
+        <Party Name="Democrats" />
+        <Party Name="Others">
+          <VotesPC>0.106</VotesPC>
+        </Party>
+      </Election>
+    </VotesHist>
+  </State>
+  <State ID="NSW">
+    <Table>
+      <Party Name="Rise Up Australia">
+        <Votes>33269</Votes>
+        <VotesPC>0.007</VotesPC>
+        <Swing>0.005</Swing>
+        <Quotas>0.050</Quotas>
+      </Party>
+      <Party Name="Help End Marijuana Prohibition">
+        <Votes>99644</Votes>
+        <VotesPC>0.021</VotesPC>
+        <Swing>0.015</Swing>
+        <Quotas>0.149</Quotas>
+      </Party>
+      <Party Name="Health Australia Party">
+        <Votes>23181</Votes>
+        <VotesPC>0.005</VotesPC>
+        <Swing>-0.007</Swing>
+        <Quotas>0.035</Quotas>
+      </Party>
+      <Party Name="Liberal/Nationals">
+        <Votes>1810121</Votes>
+        <VotesPC>0.386</VotesPC>
+        <Swing>0.027</Swing>
+        <Quotas>2.699</Quotas>
+        <Seats>3</Seats>
+      </Party>
+      <Party Name="Pirate Party">
+        <Votes>16887</Votes>
+        <VotesPC>0.004</VotesPC>
+        <Swing>0.001</Swing>
+        <Quotas>0.025</Quotas>
+      </Party>
+      <Party Name="Affordable Housing">
+        <Votes>17330</Votes>
+        <VotesPC>0.004</VotesPC>
+        <Quotas>0.026</Quotas>
+      </Party>
+      <Party Name="Greens">
+        <Votes>409790</Votes>
+        <VotesPC>0.087</VotesPC>
+        <Swing>0.013</Swing>
+        <Quotas>0.611</Quotas>
+        <Seats>1</Seats>
+      </Party>
+      <Party Name="Shooters Fishers and Farmers">
+        <Votes>119408</Votes>
+        <VotesPC>0.025</VotesPC>
+        <Swing>0.006</Swing>
+        <Quotas>0.178</Quotas>
+      </Party>
+      <Party Name="Australian People's Party">
+        <Votes>11931</Votes>
+        <VotesPC>0.003</VotesPC>
+        <Quotas>0.018</Quotas>
+      </Party>
+      <Party Name="Labor">
+        <Votes>1400295</Votes>
+        <VotesPC>0.298</VotesPC>
+        <Swing>-0.015</Swing>
+        <Quotas>2.088</Quotas>
+        <Seats>2</Seats>
+      </Party>
+      <Party Name="Socialist Alliance">
+        <Votes>6058</Votes>
+        <VotesPC>0.001</VotesPC>
+        <Swing>0.000</Swing>
+        <Quotas>0.009</Quotas>
+      </Party>
+      <Party Name="Together Party">
+        <Votes>6127</Votes>
+        <VotesPC>0.001</VotesPC>
+        <Quotas>0.009</Quotas>
+      </Party>
+      <Party Name="Australian Conservatives">
+        <Votes>23152</Votes>
+        <VotesPC>0.005</VotesPC>
+        <Quotas>0.035</Quotas>
+      </Party>
+      <Party Name="Great Australian Party">
+        <Votes>7880</Votes>
+        <VotesPC>0.002</VotesPC>
+        <Swing>0.002</Swing>
+        <Quotas>0.012</Quotas>
+      </Party>
+      <Party Name="Conservative Nationals">
+        <Votes>17911</Votes>
+        <VotesPC>0.004</VotesPC>
+        <Quotas>0.027</Quotas>
+      </Party>
+      <Party Name="Christian Democratic Party">
+        <Votes>75510</Votes>
+        <VotesPC>0.016</VotesPC>
+        <Swing>-0.011</Swing>
+        <Quotas>0.113</Quotas>
+      </Party>
+      <Party Name="Independents For Climate Action Now">
+        <Votes>26734</Votes>
+        <VotesPC>0.006</VotesPC>
+        <Swing>0.006</Swing>
+        <Quotas>0.040</Quotas>
+      </Party>
+      <Party Name="Liberal Democrats">
+        <Votes>89833</Votes>
+        <VotesPC>0.019</VotesPC>
+        <Swing>-0.012</Swing>
+        <Quotas>0.134</Quotas>
+      </Party>
+      <Party Name="One Nation">
+        <Votes>232865</Votes>
+        <VotesPC>0.050</VotesPC>
+        <Swing>0.009</Swing>
+        <Quotas>0.347</Quotas>
+      </Party>
+      <Party Name="Women's Party">
+        <Votes>16461</Votes>
+        <VotesPC>0.004</VotesPC>
+        <Swing>0.004</Swing>
+        <Quotas>0.025</Quotas>
+      </Party>
+      <Party Name="Seniors United Party">
+        <Votes>6999</Votes>
+        <VotesPC>0.001</VotesPC>
+        <Swing>-0.003</Swing>
+        <Quotas>0.010</Quotas>
+      </Party>
+      <Party Name="Socialist Equality Party">
+        <Votes>2100</Votes>
+        <VotesPC>0.000</VotesPC>
+        <Swing>0.000</Swing>
+        <Quotas>0.003</Quotas>
+      </Party>
+      <Party Name="Australian Workers Party">
+        <Votes>7684</Votes>
+        <VotesPC>0.002</VotesPC>
+        <Quotas>0.011</Quotas>
+      </Party>
+      <Party Name="Australian Better Families">
+        <Votes>7550</Votes>
+        <VotesPC>0.002</VotesPC>
+        <Quotas>0.011</Quotas>
+      </Party>
+      <Party Name="Involuntary Medication Objectors">
+        <Votes>5024</Votes>
+        <VotesPC>0.001</VotesPC>
+        <Quotas>0.007</Quotas>
+      </Party>
+      <Party Name="United Australia Party">
+        <Votes>69911</Votes>
+        <VotesPC>0.015</VotesPC>
+        <Quotas>0.104</Quotas>
+      </Party>
+      <Party Name="Democratic Labour Party">
+        <Votes>26439</Votes>
+        <VotesPC>0.006</VotesPC>
+        <Swing>-0.006</Swing>
+        <Quotas>0.039</Quotas>
+      </Party>
+      <Party Name="Climate Action!">
+        <Votes>6417</Votes>
+        <VotesPC>0.001</VotesPC>
+        <Swing>0.000</Swing>
+        <Quotas>0.010</Quotas>
+      </Party>
+      <Party Name="Animal Justice">
+        <Votes>48989</Votes>
+        <VotesPC>0.010</VotesPC>
+        <Swing>0.002</Swing>
+        <Quotas>0.073</Quotas>
+      </Party>
+      <Party Name="VOTEFLUX.ORG">
+        <Votes>3562</Votes>
+        <VotesPC>0.001</VotesPC>
+        <Swing>-0.002</Swing>
+        <Quotas>0.005</Quotas>
+      </Party>
+      <Party Name="Science Party">
+        <Votes>18972</Votes>
+        <VotesPC>0.004</VotesPC>
+        <Quotas>0.028</Quotas>
+      </Party>
+      <Party Name="Citizens Electoral Council">
+        <Votes>1478</Votes>
+        <VotesPC>0.000</VotesPC>
+        <Swing>0.000</Swing>
+        <Quotas>0.002</Quotas>
+      </Party>
+      <Party Name="Sustainable Australia">
+        <Votes>20235</Votes>
+        <VotesPC>0.004</VotesPC>
+        <Swing>0.003</Swing>
+        <Quotas>0.030</Quotas>
+      </Party>
+      <Party Name="Australian Democrats">
+        <Votes>8735</Votes>
+        <VotesPC>0.002</VotesPC>
+        <Quotas>0.013</Quotas>
+      </Party>
+      <Party Name="Small Business Party">
+        <Votes>14217</Votes>
+        <VotesPC>0.003</VotesPC>
+        <Quotas>0.021</Quotas>
+      </Party>
+      <Party Name="Ungrouped">
+        <Votes>2627</Votes>
+        <VotesPC>0.001</VotesPC>
+      </Party>
+      <Party Name="Formal">
+        <Votes>4695326</Votes>
+      </Party>
+      <Party Name="Informal">
+        <Votes>210146</Votes>
+        <VotesPC>0.043</VotesPC>
+      </Party>
+    </Table>
+    <Bar>
+      <Party Name="Coalition">
+        <VotesPC>0.386</VotesPC>
+      </Party>
+      <Party Name="Labor">
+        <VotesPC>0.298</VotesPC>
+      </Party>
+      <Party Name="Greens">
+        <VotesPC>0.087</VotesPC>
+      </Party>
+      <Party Name="One Nation">
+        <VotesPC>0.050</VotesPC>
+      </Party>
+      <Party Name="Shooters">
+        <VotesPC>0.025</VotesPC>
+      </Party>
+      <Party Name="Others">
+        <VotesPC>0.154</VotesPC>
+      </Party>
+    </Bar>
+    <VotesHist>
+      <Election Year="1990">
+        <Party Name="Labor">
+          <VotesPC>0.406</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.384</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.029</VotesPC>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats">
+          <VotesPC>0.118</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.063</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="1993">
+        <Party Name="Labor">
+          <VotesPC>0.469</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.389</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.034</VotesPC>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats">
+          <VotesPC>0.049</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.059</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="1996">
+        <Party Name="Labor">
+          <VotesPC>0.372</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.414</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.027</VotesPC>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats">
+          <VotesPC>0.095</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.092</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="1998">
+        <Party Name="Labor">
+          <VotesPC>0.387</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.366</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.022</VotesPC>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.096</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.073</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.056</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2001">
+        <Party Name="Labor">
+          <VotesPC>0.335</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.418</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.044</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.056</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.062</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.085</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2004">
+        <Party Name="Labor">
+          <VotesPC>0.364</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.441</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.073</VotesPC>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.019</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.022</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.081</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2007">
+        <Party Name="Labor">
+          <VotesPC>0.421</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.393</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.084</VotesPC>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.004</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.009</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.089</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2010">
+        <Party Name="Labor">
+          <VotesPC>0.365</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.390</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.107</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.006</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.007</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.125</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2013">
+        <Party Name="Labor">
+          <VotesPC>0.316</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.342</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.078</VotesPC>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.012</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.002</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.250</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+      </Election>
+      <Election Year="2016">
+        <Party Name="Labor">
+          <VotesPC>0.313</VotesPC>
+          <Seats>4</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.359</VotesPC>
+          <Seats>5</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.074</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.041</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Democrats" />
+        <Party Name="Others">
+          <VotesPC>0.213</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+      </Election>
+      <Election Year="2019">
+        <Party Name="Labor">
+          <VotesPC>0.298</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.386</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.087</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.050</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.002</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.177</VotesPC>
+        </Party>
+      </Election>
+    </VotesHist>
+  </State>
+  <State ID="NT">
+    <Table>
+      <Party Name="United Australia Party">
+        <Votes>6469</Votes>
+        <VotesPC>0.062</VotesPC>
+        <Quotas>0.185</Quotas>
+      </Party>
+      <Party Name="Labor">
+        <Votes>39353</Votes>
+        <VotesPC>0.375</VotesPC>
+        <Swing>0.000</Swing>
+        <Quotas>1.124</Quotas>
+        <Seats>1</Seats>
+      </Party>
+      <Party Name="Country Liberals">
+        <Votes>38513</Votes>
+        <VotesPC>0.367</VotesPC>
+        <Swing>0.002</Swing>
+        <Quotas>1.100</Quotas>
+        <Seats>1</Seats>
+      </Party>
+      <Party Name="Group D (Braedon Earley)">
+        <Votes>1290</Votes>
+        <VotesPC>0.012</VotesPC>
+        <Quotas>0.037</Quotas>
+      </Party>
+      <Party Name="Rise Up Australia">
+        <Votes>1955</Votes>
+        <VotesPC>0.019</VotesPC>
+        <Swing>-0.048</Swing>
+        <Quotas>0.056</Quotas>
+      </Party>
+      <Party Name="Help End Marijuana Prohibition">
+        <Votes>4027</Votes>
+        <VotesPC>0.038</VotesPC>
+        <Quotas>0.115</Quotas>
+      </Party>
+      <Party Name="Citizens Electoral Council">
+        <Votes>461</Votes>
+        <VotesPC>0.004</VotesPC>
+        <Swing>-0.008</Swing>
+        <Quotas>0.013</Quotas>
+      </Party>
+      <Party Name="Greens">
+        <Votes>10752</Votes>
+        <VotesPC>0.102</VotesPC>
+        <Swing>-0.005</Swing>
+        <Quotas>0.307</Quotas>
+      </Party>
+      <Party Name="Conservative Nationals">
+        <Votes>2207</Votes>
+        <VotesPC>0.021</VotesPC>
+        <Quotas>0.063</Quotas>
+      </Party>
+      <Party Name="Formal">
+        <Votes>105027</Votes>
+      </Party>
+      <Party Name="Informal">
+        <Votes>3967</Votes>
+        <VotesPC>0.036</VotesPC>
+      </Party>
+    </Table>
+    <Bar>
+      <Party Name="Labor">
+        <VotesPC>0.375</VotesPC>
+      </Party>
+      <Party Name="CLP">
+        <VotesPC>0.367</VotesPC>
+      </Party>
+      <Party Name="Greens">
+        <VotesPC>0.102</VotesPC>
+      </Party>
+      <Party Name="UAP">
+        <VotesPC>0.062</VotesPC>
+      </Party>
+      <Party Name="Others">
+        <VotesPC>0.095</VotesPC>
+      </Party>
+    </Bar>
+    <VotesHist>
+      <Election Year="1990">
+        <Party Name="Labor">
+          <VotesPC>0.543</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="CLP">
+          <VotesPC>0.423</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Greens" />
+        <Party Name="Democrats" />
+        <Party Name="Others">
+          <VotesPC>0.034</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="1993">
+        <Party Name="Labor">
+          <VotesPC>0.553</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="CLP">
+          <VotesPC>0.447</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Greens" />
+        <Party Name="Democrats" />
+        <Party Name="Others" />
+      </Election>
+      <Election Year="1996">
+        <Party Name="Labor">
+          <VotesPC>0.451</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="CLP">
+          <VotesPC>0.467</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.064</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.018</VotesPC>
+        </Party>
+        <Party Name="Others" />
+      </Election>
+      <Election Year="1998">
+        <Party Name="Labor">
+          <VotesPC>0.411</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="CLP">
+          <VotesPC>0.388</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.046</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.055</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.100</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2001">
+        <Party Name="Labor">
+          <VotesPC>0.392</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="CLP">
+          <VotesPC>0.437</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.043</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.073</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.055</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2004">
+        <Party Name="Labor">
+          <VotesPC>0.414</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="CLP">
+          <VotesPC>0.454</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.076</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.047</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.009</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2007">
+        <Party Name="Labor">
+          <VotesPC>0.469</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="CLP">
+          <VotesPC>0.400</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.088</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.019</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.024</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2010">
+        <Party Name="Labor">
+          <VotesPC>0.344</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="CLP">
+          <VotesPC>0.406</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.136</VotesPC>
+        </Party>
+        <Party Name="Democrats" />
+        <Party Name="Others">
+          <VotesPC>0.114</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2013">
+        <Party Name="Labor">
+          <VotesPC>0.328</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="CLP">
+          <VotesPC>0.413</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.087</VotesPC>
+        </Party>
+        <Party Name="Democrats" />
+        <Party Name="Others">
+          <VotesPC>0.172</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2016">
+        <Party Name="Labor">
+          <VotesPC>0.374</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="CLP">
+          <VotesPC>0.364</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.108</VotesPC>
+        </Party>
+        <Party Name="Democrats" />
+        <Party Name="Others">
+          <VotesPC>0.154</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2019">
+        <Party Name="Labor">
+          <VotesPC>0.375</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="CLP">
+          <VotesPC>0.367</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.102</VotesPC>
+        </Party>
+        <Party Name="Democrats" />
+        <Party Name="Others">
+          <VotesPC>0.156</VotesPC>
+        </Party>
+      </Election>
+    </VotesHist>
+  </State>
+  <State ID="Overview">
+    <Table>
+      <Party Name="Coalition">
+        <Votes>5548142</Votes>
+        <VotesPC>0.380</VotesPC>
+        <Swing>0.028</Swing>
+        <Seats>19</Seats>
+      </Party>
+      <Party Name="Labor">
+        <Votes>4204313</Votes>
+        <VotesPC>0.288</VotesPC>
+        <Swing>-0.010</Swing>
+        <Seats>13</Seats>
+      </Party>
+      <Party Name="Greens">
+        <Votes>1488427</Votes>
+        <VotesPC>0.102</VotesPC>
+        <Swing>0.016</Swing>
+        <Seats>6</Seats>
+      </Party>
+      <Party Name="One Nation">
+        <Votes>788203</Votes>
+        <VotesPC>0.054</VotesPC>
+        <Swing>0.011</Swing>
+        <Seats>1</Seats>
+      </Party>
+      <Party Name="Jacqui Lambie Network">
+        <Votes>31383</Votes>
+        <VotesPC>0.002</VotesPC>
+        <Swing>-0.003</Swing>
+        <Seats>1</Seats>
+      </Party>
+      <Party Name="United Australia Party">
+        <Votes>345199</Votes>
+        <VotesPC>0.024</VotesPC>
+      </Party>
+      <Party Name="Help End Marijuana Prohibition">
+        <Votes>262426</Votes>
+        <VotesPC>0.018</VotesPC>
+        <Swing>0.016</Swing>
+      </Party>
+      <Party Name="Shooters Fishers and Farmers">
+        <Votes>253267</Votes>
+        <VotesPC>0.017</VotesPC>
+        <Swing>0.003</Swing>
+      </Party>
+      <Party Name="Animal Justice">
+        <Votes>183996</Votes>
+        <VotesPC>0.013</VotesPC>
+        <Swing>0.001</Swing>
+      </Party>
+      <Party Name="Liberal Democrats">
+        <Votes>169735</Votes>
+        <VotesPC>0.012</VotesPC>
+        <Swing>-0.010</Swing>
+      </Party>
+      <Party Name="Democratic Labour Party">
+        <Votes>149970</Votes>
+        <VotesPC>0.010</VotesPC>
+        <Swing>0.004</Swing>
+      </Party>
+      <Party Name="Derryn Hinch's Justice Party">
+        <Votes>105459</Votes>
+        <VotesPC>0.007</VotesPC>
+        <Swing>-0.012</Swing>
+      </Party>
+      <Party Name="Australian Conservatives">
+        <Votes>102769</Votes>
+        <VotesPC>0.007</VotesPC>
+      </Party>
+      <Party Name="Christian Democratic Party">
+        <Votes>94301</Votes>
+        <VotesPC>0.006</VotesPC>
+        <Swing>-0.005</Swing>
+      </Party>
+      <Party Name="Conservative Nationals">
+        <Votes>94130</Votes>
+        <VotesPC>0.006</VotesPC>
+      </Party>
+      <Party Name="Rise Up Australia">
+        <Votes>64344</Votes>
+        <VotesPC>0.004</VotesPC>
+        <Swing>0.002</Swing>
+      </Party>
+      <Party Name="Sustainable Australia">
+        <Votes>59349</Votes>
+        <VotesPC>0.004</VotesPC>
+        <Swing>0.002</Swing>
+      </Party>
+      <Party Name="Pirate Party">
+        <Votes>53888</Votes>
+        <VotesPC>0.004</VotesPC>
+        <Swing>0.001</Swing>
+      </Party>
+      <Party Name="Independents For Climate Action">
+        <Votes>53453</Votes>
+        <VotesPC>0.004</VotesPC>
+      </Party>
+      <Party Name="Katter's Australian Party">
+        <Votes>51407</Votes>
+        <VotesPC>0.004</VotesPC>
+        <Swing>0.000</Swing>
+      </Party>
+      <Party Name="Health Australia Party">
+        <Votes>39643</Votes>
+        <VotesPC>0.003</VotesPC>
+        <Swing>-0.004</Swing>
+      </Party>
+      <Party Name="Great Australian Party">
+        <Votes>34199</Votes>
+        <VotesPC>0.002</VotesPC>
+      </Party>
+      <Party Name="Small Business Party">
+        <Votes>32751</Votes>
+        <VotesPC>0.002</VotesPC>
+      </Party>
+      <Party Name="Climate Action!">
+        <Votes>31113</Votes>
+        <VotesPC>0.002</VotesPC>
+        <Swing>0.001</Swing>
+      </Party>
+      <Party Name="Centre Alliance">
+        <Votes>28416</Votes>
+        <VotesPC>0.002</VotesPC>
+        <Swing>-0.031</Swing>
+      </Party>
+      <Party Name="Australian Workers Party">
+        <Votes>28381</Votes>
+        <VotesPC>0.002</VotesPC>
+      </Party>
+      <Party Name="Australian Democrats">
+        <Votes>24992</Votes>
+        <VotesPC>0.002</VotesPC>
+      </Party>
+      <Party Name="Australian Christians">
+        <Votes>23983</Votes>
+        <VotesPC>0.002</VotesPC>
+        <Swing>-0.003</Swing>
+      </Party>
+      <Party Name="Australian Better Families">
+        <Votes>19285</Votes>
+        <VotesPC>0.001</VotesPC>
+      </Party>
+      <Party Name="Science Party">
+        <Votes>18972</Votes>
+        <VotesPC>0.001</VotesPC>
+        <Swing>0.001</Swing>
+      </Party>
+      <Party Name="Affordable Housing Party">
+        <Votes>17330</Votes>
+        <VotesPC>0.001</VotesPC>
+      </Party>
+      <Party Name="Western Australia Party">
+        <Votes>17213</Votes>
+        <VotesPC>0.001</VotesPC>
+      </Party>
+      <Party Name="Involuntary Medication Objectors">
+        <Votes>17055</Votes>
+        <VotesPC>0.001</VotesPC>
+      </Party>
+      <Party Name="Women's Party">
+        <Votes>16461</Votes>
+        <VotesPC>0.001</VotesPC>
+      </Party>
+      <Party Name="Socialist Equality Party">
+        <Votes>14515</Votes>
+        <VotesPC>0.001</VotesPC>
+        <Swing>0.000</Swing>
+      </Party>
+      <Party Name="Australian People's Party">
+        <Votes>11931</Votes>
+        <VotesPC>0.001</VotesPC>
+      </Party>
+      <Party Name="Citizens Electoral Council">
+        <Votes>10230</Votes>
+        <VotesPC>0.001</VotesPC>
+        <Swing>0.000</Swing>
+      </Party>
+      <Party Name="Love Australia or Leave">
+        <Votes>10099</Votes>
+        <VotesPC>0.001</VotesPC>
+      </Party>
+      <Party Name="VOTEFLUX.ORG">
+        <Votes>8119</Votes>
+        <VotesPC>0.001</VotesPC>
+        <Swing>-0.001</Swing>
+      </Party>
+      <Party Name="Socialist Alliance">
+        <Votes>7905</Votes>
+        <VotesPC>0.001</VotesPC>
+        <Swing>0.000</Swing>
+      </Party>
+      <Party Name="Republican Party">
+        <Votes>7762</Votes>
+        <VotesPC>0.001</VotesPC>
+      </Party>
+      <Party Name="Seniors United Party">
+        <Votes>6999</Votes>
+        <VotesPC>0.000</VotesPC>
+        <Swing>-0.001</Swing>
+      </Party>
+      <Party Name="Together Party">
+        <Votes>6127</Votes>
+        <VotesPC>0.000</VotesPC>
+      </Party>
+      <Party Name="Secular Party">
+        <Votes>4001</Votes>
+        <VotesPC>0.000</VotesPC>
+        <Swing>-0.001</Swing>
+      </Party>
+      <Party Name="Australian Liberty Alliance">
+        <Votes>3263</Votes>
+        <VotesPC>0.000</VotesPC>
+        <Swing>-0.007</Swing>
+      </Party>
+      <Party Name="Ungrouped">
+        <Votes>60019</Votes>
+        <VotesPC>0.004</VotesPC>
+      </Party>
+      <Party Name="Formal">
+        <Votes>14604925</Votes>
+      </Party>
+      <Party Name="Informal">
+        <Votes>579160</Votes>
+        <VotesPC>0.038</VotesPC>
+      </Party>
+    </Table>
+    <Bar>
+      <Party Name="Coalition">
+        <VotesPC>0.380</VotesPC>
+      </Party>
+      <Party Name="Labor">
+        <VotesPC>0.288</VotesPC>
+      </Party>
+      <Party Name="Greens">
+        <VotesPC>0.102</VotesPC>
+      </Party>
+      <Party Name="One Nation">
+        <VotesPC>0.054</VotesPC>
+      </Party>
+      <Party Name="UAP">
+        <VotesPC>0.024</VotesPC>
+      </Party>
+      <Party Name="Others">
+        <VotesPC>0.153</VotesPC>
+      </Party>
+    </Bar>
+    <VotesHist>
+      <Election Year="1990">
+        <Party Name="Labor">
+          <VotesPC>0.384</VotesPC>
+          <Seats>32</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.419</VotesPC>
+          <Seats>34</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.028</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats">
+          <VotesPC>0.126</VotesPC>
+          <Seats>8</Seats>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.043</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+      </Election>
+      <Election Year="1993">
+        <Party Name="Labor">
+          <VotesPC>0.435</VotesPC>
+          <Seats>30</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.430</VotesPC>
+          <Seats>36</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.029</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats">
+          <VotesPC>0.053</VotesPC>
+          <Seats>7</Seats>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.053</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+      </Election>
+      <Election Year="1996">
+        <Party Name="Labor">
+          <VotesPC>0.362</VotesPC>
+          <Seats>29</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.440</VotesPC>
+          <Seats>37</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.032</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats">
+          <VotesPC>0.108</VotesPC>
+          <Seats>7</Seats>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.058</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+      </Election>
+      <Election Year="1998">
+        <Party Name="Labor">
+          <VotesPC>0.373</VotesPC>
+          <Seats>29</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.377</VotesPC>
+          <Seats>35</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.027</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.090</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.085</VotesPC>
+          <Seats>9</Seats>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.048</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+      </Election>
+      <Election Year="2001">
+        <Party Name="Labor">
+          <VotesPC>0.343</VotesPC>
+          <Seats>28</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.418</VotesPC>
+          <Seats>35</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.049</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.055</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.072</VotesPC>
+          <Seats>8</Seats>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.063</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+      </Election>
+      <Election Year="2004">
+        <Party Name="Labor">
+          <VotesPC>0.350</VotesPC>
+          <Seats>28</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.451</VotesPC>
+          <Seats>39</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.077</VotesPC>
+          <Seats>4</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.017</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.021</VotesPC>
+          <Seats>4</Seats>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.084</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+      </Election>
+      <Election Year="2007">
+        <Party Name="Labor">
+          <VotesPC>0.403</VotesPC>
+          <Seats>32</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.399</VotesPC>
+          <Seats>37</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.090</VotesPC>
+          <Seats>5</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.004</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.013</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.091</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+      </Election>
+      <Election Year="2010">
+        <Party Name="Labor">
+          <VotesPC>0.351</VotesPC>
+          <Seats>31</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.386</VotesPC>
+          <Seats>34</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.131</VotesPC>
+          <Seats>9</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.006</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.006</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.120</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+      </Election>
+      <Election Year="2013">
+        <Party Name="Labor">
+          <VotesPC>0.301</VotesPC>
+          <Seats>25</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.374</VotesPC>
+          <Seats>33</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.086</VotesPC>
+          <Seats>10</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.005</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.002</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.232</VotesPC>
+          <Seats>8</Seats>
+        </Party>
+      </Election>
+      <Election Year="2016">
+        <Party Name="Labor">
+          <VotesPC>0.298</VotesPC>
+          <Seats>26</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.352</VotesPC>
+          <Seats>30</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.087</VotesPC>
+          <Seats>9</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.043</VotesPC>
+          <Seats>4</Seats>
+        </Party>
+        <Party Name="Democrats" />
+        <Party Name="Others">
+          <VotesPC>0.220</VotesPC>
+          <Seats>7</Seats>
+        </Party>
+      </Election>
+      <Election Year="2019">
+        <Party Name="Labor">
+          <VotesPC>0.288</VotesPC>
+          <Seats>26</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.380</VotesPC>
+          <Seats>35</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.102</VotesPC>
+          <Seats>9</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.054</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Democrats" />
+        <Party Name="Others">
+          <VotesPC>0.174</VotesPC>
+          <Seats>4</Seats>
+        </Party>
+      </Election>
+    </VotesHist>
+  </State>
+  <State ID="QLD">
+    <Table>
+      <Party Name="Rise Up Australia">
+        <Votes>22529</Votes>
+        <VotesPC>0.008</VotesPC>
+        <Swing>0.006</Swing>
+        <Quotas>0.054</Quotas>
+      </Party>
+      <Party Name="One Nation">
+        <Votes>297994</Votes>
+        <VotesPC>0.103</VotesPC>
+        <Swing>0.011</Swing>
+        <Quotas>0.719</Quotas>
+        <Seats>1</Seats>
+      </Party>
+      <Party Name="United Australia Party">
+        <Votes>102230</Votes>
+        <VotesPC>0.035</VotesPC>
+        <Quotas>0.247</Quotas>
+      </Party>
+      <Party Name="Liberal National Party">
+        <Votes>1128730</Votes>
+        <VotesPC>0.389</VotesPC>
+        <Swing>0.036</Swing>
+        <Quotas>2.723</Quotas>
+        <Seats>3</Seats>
+      </Party>
+      <Party Name="Involuntary Medication Objectors">
+        <Votes>8240</Votes>
+        <VotesPC>0.003</VotesPC>
+        <Swing>0.003</Swing>
+        <Quotas>0.020</Quotas>
+      </Party>
+      <Party Name="Climate Action!">
+        <Votes>12333</Votes>
+        <VotesPC>0.004</VotesPC>
+        <Swing>0.002</Swing>
+        <Quotas>0.030</Quotas>
+      </Party>
+      <Party Name="Animal Justice">
+        <Votes>38624</Votes>
+        <VotesPC>0.013</VotesPC>
+        <Swing>0.001</Swing>
+        <Quotas>0.093</Quotas>
+      </Party>
+      <Party Name="Greens">
+        <Votes>288320</Votes>
+        <VotesPC>0.099</VotesPC>
+        <Swing>0.031</Swing>
+        <Quotas>0.696</Quotas>
+        <Seats>1</Seats>
+      </Party>
+      <Party Name="Conservative Nationals">
+        <Votes>37184</Votes>
+        <VotesPC>0.013</VotesPC>
+        <Quotas>0.090</Quotas>
+      </Party>
+      <Party Name="Labor">
+        <Votes>654774</Votes>
+        <VotesPC>0.226</VotesPC>
+        <Swing>-0.038</Swing>
+        <Quotas>1.580</Quotas>
+        <Seats>1</Seats>
+      </Party>
+      <Party Name="Independents For Climate Action Now">
+        <Votes>11536</Votes>
+        <VotesPC>0.004</VotesPC>
+        <Quotas>0.028</Quotas>
+      </Party>
+      <Party Name="Australian Workers Party">
+        <Votes>9987</Votes>
+        <VotesPC>0.003</VotesPC>
+        <Swing>0.003</Swing>
+        <Quotas>0.024</Quotas>
+      </Party>
+      <Party Name="Australian Better Families">
+        <Votes>11735</Votes>
+        <VotesPC>0.004</VotesPC>
+        <Quotas>0.028</Quotas>
+      </Party>
+      <Party Name="Help End Marijuana Prohibition">
+        <Votes>50828</Votes>
+        <VotesPC>0.018</VotesPC>
+        <Quotas>0.123</Quotas>
+      </Party>
+      <Party Name="Australian Conservatives">
+        <Votes>29096</Votes>
+        <VotesPC>0.010</VotesPC>
+        <Quotas>0.070</Quotas>
+      </Party>
+      <Party Name="Labour DLP">
+        <Votes>28811</Votes>
+        <VotesPC>0.010</VotesPC>
+        <Swing>0.004</Swing>
+        <Quotas>0.070</Quotas>
+      </Party>
+      <Party Name="Katter's Australian Party">
+        <Votes>51407</Votes>
+        <VotesPC>0.018</VotesPC>
+        <Swing>0.000</Swing>
+        <Quotas>0.124</Quotas>
+      </Party>
+      <Party Name="Group R (Hetty Johnston)">
+        <Votes>18341</Votes>
+        <VotesPC>0.006</VotesPC>
+        <Quotas>0.044</Quotas>
+      </Party>
+      <Party Name="Great Australian Party">
+        <Votes>5231</Votes>
+        <VotesPC>0.002</VotesPC>
+        <Quotas>0.013</Quotas>
+      </Party>
+      <Party Name="Pirate Party">
+        <Votes>13432</Votes>
+        <VotesPC>0.005</VotesPC>
+        <Swing>0.001</Swing>
+        <Quotas>0.032</Quotas>
+      </Party>
+      <Party Name="Sustainable Australia">
+        <Votes>8446</Votes>
+        <VotesPC>0.003</VotesPC>
+        <Swing>0.001</Swing>
+        <Quotas>0.020</Quotas>
+      </Party>
+      <Party Name="Love Australia or Leave">
+        <Votes>10099</Votes>
+        <VotesPC>0.003</VotesPC>
+        <Swing>0.004</Swing>
+        <Quotas>0.024</Quotas>
+      </Party>
+      <Party Name="Shooters Fishers and Farmers">
+        <Votes>29329</Votes>
+        <VotesPC>0.010</VotesPC>
+        <Swing>-0.001</Swing>
+        <Quotas>0.071</Quotas>
+      </Party>
+      <Party Name="Group X (Tony R. Moore)">
+        <Votes>1557</Votes>
+        <VotesPC>0.001</VotesPC>
+        <Quotas>0.004</Quotas>
+      </Party>
+      <Party Name="Liberal Democrats">
+        <Votes>24000</Votes>
+        <VotesPC>0.008</VotesPC>
+        <Swing>-0.020</Swing>
+        <Quotas>0.058</Quotas>
+      </Party>
+      <Party Name="Citizens Electoral Council">
+        <Votes>2003</Votes>
+        <VotesPC>0.001</VotesPC>
+        <Swing>0.000</Swing>
+        <Quotas>0.005</Quotas>
+      </Party>
+      <Party Name="Ungrouped">
+        <Votes>4668</Votes>
+        <VotesPC>0.002</VotesPC>
+      </Party>
+      <Party Name="Formal">
+        <Votes>97908</Votes>
+      </Party>
+      <Party Name="Informal">
+        <Votes>210146</Votes>
+        <VotesPC>0.682</VotesPC>
+      </Party>
+    </Table>
+    <Bar>
+      <Party Name="LNP">
+        <VotesPC>0.389</VotesPC>
+      </Party>
+      <Party Name="Labor">
+        <VotesPC>0.226</VotesPC>
+      </Party>
+      <Party Name="Greens">
+        <VotesPC>0.099</VotesPC>
+      </Party>
+      <Party Name="One Nation">
+        <VotesPC>0.103</VotesPC>
+      </Party>
+      <Party Name="UAP">
+        <VotesPC>0.035</VotesPC>
+      </Party>
+      <Party Name="Others">
+        <VotesPC>0.148</VotesPC>
+      </Party>
+    </Bar>
+    <VotesHist>
+      <Election Year="1990">
+        <Party Name="Labor">
+          <VotesPC>0.390</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.429</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.018</VotesPC>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats">
+          <VotesPC>0.125</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="PUP/UAP" />
+        <Party Name="Others">
+          <VotesPC>0.038</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="1993">
+        <Party Name="Labor">
+          <VotesPC>0.394</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.460</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.032</VotesPC>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats">
+          <VotesPC>0.070</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="PUP/UAP" />
+        <Party Name="Others">
+          <VotesPC>0.044</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="1996">
+        <Party Name="Labor">
+          <VotesPC>0.303</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.504</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.024</VotesPC>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats">
+          <VotesPC>0.132</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="PUP/UAP" />
+        <Party Name="Others">
+          <VotesPC>0.037</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="1998">
+        <Party Name="Labor">
+          <VotesPC>0.327</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.380</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.021</VotesPC>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.148</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.078</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="PUP/UAP" />
+        <Party Name="Others">
+          <VotesPC>0.046</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+      </Election>
+      <Election Year="2001">
+        <Party Name="Labor">
+          <VotesPC>0.317</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.441</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.033</VotesPC>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.100</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.067</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="PUP/UAP" />
+        <Party Name="Others">
+          <VotesPC>0.042</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2004">
+        <Party Name="Labor">
+          <VotesPC>0.317</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.449</VotesPC>
+          <Seats>4</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.054</VotesPC>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.031</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.022</VotesPC>
+        </Party>
+        <Party Name="PUP/UAP" />
+        <Party Name="Others">
+          <VotesPC>0.127</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2007">
+        <Party Name="Labor">
+          <VotesPC>0.392</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.404</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.073</VotesPC>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.002</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.019</VotesPC>
+        </Party>
+        <Party Name="PUP/UAP" />
+        <Party Name="Others">
+          <VotesPC>0.110</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2010">
+        <Party Name="Labor">
+          <VotesPC>0.294</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.414</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.128</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.009</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.008</VotesPC>
+        </Party>
+        <Party Name="PUP/UAP" />
+        <Party Name="Others">
+          <VotesPC>0.147</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2013">
+        <Party Name="Labor">
+          <VotesPC>0.285</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.414</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.060</VotesPC>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.006</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.002</VotesPC>
+        </Party>
+        <Party Name="PUP/UAP">
+          <VotesPC>0.099</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.134</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2016">
+        <Party Name="Labor">
+          <VotesPC>0.264</VotesPC>
+          <Seats>4</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.353</VotesPC>
+          <Seats>5</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.069</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.092</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Democrats" />
+        <Party Name="PUP/UAP">
+          <VotesPC>0.180</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.042</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2019">
+        <Party Name="Labor">
+          <VotesPC>0.226</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.389</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.099</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.103</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Democrats" />
+        <Party Name="PUP/UAP">
+          <VotesPC>0.035</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.148</VotesPC>
+        </Party>
+      </Election>
+    </VotesHist>
+  </State>
+  <State ID="SA">
+    <Table>
+      <Party Name="Great Australian Party">
+        <Votes>12698</Votes>
+        <VotesPC>0.012</VotesPC>
+        <Quotas>0.081</Quotas>
+      </Party>
+      <Party Name="Conservative Nationals">
+        <Votes>7829</Votes>
+        <VotesPC>0.007</VotesPC>
+        <Quotas>0.050</Quotas>
+      </Party>
+      <Party Name="Centre Alliance">
+        <Votes>28416</Votes>
+        <VotesPC>0.026</VotesPC>
+        <Swing>-0.192</Swing>
+        <Quotas>0.182</Quotas>
+      </Party>
+      <Party Name="Australian Democrats">
+        <Votes>6497</Votes>
+        <VotesPC>0.006</VotesPC>
+        <Quotas>0.042</Quotas>
+      </Party>
+      <Party Name="One Nation">
+        <Votes>53314</Votes>
+        <VotesPC>0.049</VotesPC>
+        <Swing>0.019</Swing>
+        <Quotas>0.341</Quotas>
+      </Party>
+      <Party Name="Citizens Electoral Council">
+        <Votes>1611</Votes>
+        <VotesPC>0.001</VotesPC>
+        <Swing>0.001</Swing>
+        <Quotas>0.010</Quotas>
+      </Party>
+      <Party Name="Liberal">
+        <Votes>413957</Votes>
+        <VotesPC>0.378</VotesPC>
+        <Swing>0.052</Swing>
+        <Quotas>2.647</Quotas>
+        <Seats>3</Seats>
+      </Party>
+      <Party Name="Sustainable Australia">
+        <Votes>5295</Votes>
+        <VotesPC>0.005</VotesPC>
+        <Quotas>0.034</Quotas>
+      </Party>
+      <Party Name="Help End Marijuana Prohibition">
+        <Votes>23265</Votes>
+        <VotesPC>0.021</VotesPC>
+        <Quotas>0.149</Quotas>
+      </Party>
+      <Party Name="Greens">
+        <Votes>119470</Votes>
+        <VotesPC>0.109</VotesPC>
+        <Swing>0.050</Swing>
+        <Quotas>0.764</Quotas>
+        <Seats>1</Seats>
+      </Party>
+      <Party Name="United Australia Party">
+        <Votes>33191</Votes>
+        <VotesPC>0.030</VotesPC>
+        <Swing>0.030</Swing>
+        <Quotas>0.212</Quotas>
+      </Party>
+      <Party Name="Australian Conservatives">
+        <Votes>16145</Votes>
+        <VotesPC>0.015</VotesPC>
+        <Quotas>0.103</Quotas>
+      </Party>
+      <Party Name="Shooters Fishers and Farmers">
+        <Votes>12003</Votes>
+        <VotesPC>0.011</VotesPC>
+        <Swing>0.004</Swing>
+        <Quotas>0.077</Quotas>
+      </Party>
+      <Party Name="Liberal Democrats">
+        <Votes>7345</Votes>
+        <VotesPC>0.007</VotesPC>
+        <Swing>0.000</Swing>
+        <Quotas>0.047</Quotas>
+      </Party>
+      <Party Name="Labor">
+        <Votes>332399</Votes>
+        <VotesPC>0.304</VotesPC>
+        <Swing>0.030</Swing>
+        <Quotas>2.125</Quotas>
+        <Seats>2</Seats>
+      </Party>
+      <Party Name="Animal Justice">
+        <Votes>20445</Votes>
+        <VotesPC>0.019</VotesPC>
+        <Swing>0.010</Swing>
+        <Quotas>0.131</Quotas>
+      </Party>
+      <Party Name="Ungrouped">
+        <Votes>943</Votes>
+        <VotesPC>0.001</VotesPC>
+      </Party>
+      <Party Name="Formal">
+        <Votes>1094823</Votes>
+      </Party>
+      <Party Name="Informal">
+        <Votes>39733</Votes>
+        <VotesPC>0.035</VotesPC>
+      </Party>
+    </Table>
+    <Bar>
+      <Party Name="Liberal">
+        <VotesPC>0.378</VotesPC>
+      </Party>
+      <Party Name="Labor">
+        <VotesPC>0.304</VotesPC>
+      </Party>
+      <Party Name="Greens">
+        <VotesPC>0.109</VotesPC>
+      </Party>
+      <Party Name="One Nation">
+        <VotesPC>0.049</VotesPC>
+      </Party>
+      <Party Name="UAP">
+        <VotesPC>0.030</VotesPC>
+      </Party>
+      <Party Name="CA">
+        <VotesPC>0.026</VotesPC>
+      </Party>
+      <Party Name="Others">
+        <VotesPC>0.104</VotesPC>
+      </Party>
+    </Bar>
+    <VotesHist>
+      <Election Year="1990">
+        <Party Name="Labor">
+          <VotesPC>0.371</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.414</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.021</VotesPC>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats">
+          <VotesPC>0.164</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="NXT/CA" />
+        <Party Name="Others">
+          <VotesPC>0.030</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="1993">
+        <Party Name="Labor">
+          <VotesPC>0.380</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.456</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.016</VotesPC>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats">
+          <VotesPC>0.099</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="NXT/CA" />
+        <Party Name="Others">
+          <VotesPC>0.049</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="1996">
+        <Party Name="Labor">
+          <VotesPC>0.322</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.458</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.021</VotesPC>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats">
+          <VotesPC>0.145</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="NXT/CA" />
+        <Party Name="Others">
+          <VotesPC>0.054</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="1998">
+        <Party Name="Labor">
+          <VotesPC>0.320</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.405</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.022</VotesPC>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.097</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.124</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="NXT/CA" />
+        <Party Name="Others">
+          <VotesPC>0.032</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2001">
+        <Party Name="Labor">
+          <VotesPC>0.332</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.455</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.035</VotesPC>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.046</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.126</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="NXT/CA" />
+        <Party Name="Others">
+          <VotesPC>0.006</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2004">
+        <Party Name="Labor">
+          <VotesPC>0.355</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.475</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.066</VotesPC>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.011</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.024</VotesPC>
+        </Party>
+        <Party Name="NXT/CA" />
+        <Party Name="Others">
+          <VotesPC>0.069</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2007">
+        <Party Name="Labor">
+          <VotesPC>0.356</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.353</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.065</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.006</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.009</VotesPC>
+        </Party>
+        <Party Name="NXT/CA">
+          <VotesPC>0.148</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.063</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2010">
+        <Party Name="Labor">
+          <VotesPC>0.383</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.373</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.133</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.005</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.007</VotesPC>
+        </Party>
+        <Party Name="NXT/CA" />
+        <Party Name="Others">
+          <VotesPC>0.099</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2013">
+        <Party Name="Labor">
+          <VotesPC>0.227</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.274</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.071</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.003</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.003</VotesPC>
+        </Party>
+        <Party Name="NXT/CA">
+          <VotesPC>0.249</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.173</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+      </Election>
+      <Election Year="2016">
+        <Party Name="Labor">
+          <VotesPC>0.273</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.326</VotesPC>
+          <Seats>4</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.059</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.030</VotesPC>
+        </Party>
+        <Party Name="Democrats" />
+        <Party Name="NXT/CA">
+          <VotesPC>0.217</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.095</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+      </Election>
+      <Election Year="2019">
+        <Party Name="Labor">
+          <VotesPC>0.304</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.378</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.109</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.049</VotesPC>
+        </Party>
+        <Party Name="Democrats" />
+        <Party Name="NXT/CA">
+          <VotesPC>0.026</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.128</VotesPC>
+        </Party>
+      </Election>
+    </VotesHist>
+  </State>
+  <State ID="TAS">
+    <Table>
+      <Party Name="Australian Conservatives">
+        <Votes>3822</Votes>
+        <VotesPC>0.011</VotesPC>
+        <Quotas>0.076</Quotas>
+      </Party>
+      <Party Name="The Nationals">
+        <Votes>4041</Votes>
+        <VotesPC>0.011</VotesPC>
+        <Quotas>0.080</Quotas>
+      </Party>
+      <Party Name="Sustainable Australia">
+        <Votes>1783</Votes>
+        <VotesPC>0.005</VotesPC>
+        <Quotas>0.035</Quotas>
+      </Party>
+      <Party Name="Greens">
+        <Votes>44236</Votes>
+        <VotesPC>0.126</VotesPC>
+        <Swing>0.014</Swing>
+        <Quotas>0.880</Quotas>
+        <Seats>1</Seats>
+      </Party>
+      <Party Name="Liberal">
+        <Votes>110730</Votes>
+        <VotesPC>0.315</VotesPC>
+        <Swing>-0.011</Swing>
+        <Quotas>2.202</Quotas>
+        <Seats>2</Seats>
+      </Party>
+      <Party Name="Animal Justice">
+        <Votes>4521</Votes>
+        <VotesPC>0.013</VotesPC>
+        <Swing>0.006</Swing>
+        <Quotas>0.090</Quotas>
+      </Party>
+      <Party Name="Citizens Electoral Council">
+        <Votes>329</Votes>
+        <VotesPC>0.001</VotesPC>
+        <Swing>0.000</Swing>
+        <Quotas>0.007</Quotas>
+      </Party>
+      <Party Name="Liberal Democrats">
+        <Votes>2400</Votes>
+        <VotesPC>0.007</VotesPC>
+        <Swing>0.002</Swing>
+        <Quotas>0.048</Quotas>
+      </Party>
+      <Party Name="Labor">
+        <Votes>107670</Votes>
+        <VotesPC>0.306</VotesPC>
+        <Swing>-0.030</Swing>
+        <Quotas>2.141</Quotas>
+        <Seats>2</Seats>
+      </Party>
+      <Party Name="One Nation">
+        <Votes>12159</Votes>
+        <VotesPC>0.035</VotesPC>
+        <Swing>0.009</Swing>
+        <Quotas>0.242</Quotas>
+      </Party>
+      <Party Name="Conservative Nationals">
+        <Votes>1528</Votes>
+        <VotesPC>0.004</VotesPC>
+        <Quotas>0.030</Quotas>
+      </Party>
+      <Party Name="Jacqui Lambie Network">
+        <Votes>31383</Votes>
+        <VotesPC>0.089</VotesPC>
+        <Swing>0.006</Swing>
+        <Quotas>0.624</Quotas>
+        <Seats>1</Seats>
+      </Party>
+      <Party Name="Help End Marijuana Prohibition">
+        <Votes>4141</Votes>
+        <VotesPC>0.012</VotesPC>
+        <Quotas>0.082</Quotas>
+      </Party>
+      <Party Name="United Australia Party">
+        <Votes>9281</Votes>
+        <VotesPC>0.026</VotesPC>
+        <Quotas>0.185</Quotas>
+      </Party>
+      <Party Name="Group O (Craig Garland)">
+        <Votes>3649</Votes>
+        <VotesPC>0.010</VotesPC>
+        <Quotas>0.073</Quotas>
+      </Party>
+      <Party Name="Shooters Fishers and Farmers">
+        <Votes>6133</Votes>
+        <VotesPC>0.017</VotesPC>
+        <Swing>0.004</Swing>
+        <Quotas>0.122</Quotas>
+      </Party>
+      <Party Name="Ungrouped">
+        <Votes>4182</Votes>
+        <VotesPC>0.012</VotesPC>
+      </Party>
+      <Party Name="Formal">
+        <Votes>351988</Votes>
+      </Party>
+      <Party Name="Informal">
+        <Votes>13284</Votes>
+        <VotesPC>0.036</VotesPC>
+      </Party>
+    </Table>
+    <Bar>
+      <Party Name="Liberal">
+        <VotesPC>0.315</VotesPC>
+      </Party>
+      <Party Name="Labor">
+        <VotesPC>0.306</VotesPC>
+      </Party>
+      <Party Name="Greens">
+        <VotesPC>0.126</VotesPC>
+      </Party>
+      <Party Name="JLN">
+        <VotesPC>0.089</VotesPC>
+      </Party>
+      <Party Name="One Nation">
+        <VotesPC>0.035</VotesPC>
+      </Party>
+      <Party Name="Nationals">
+        <VotesPC>0.011</VotesPC>
+      </Party>
+      <Party Name="Others">
+        <VotesPC>0.119</VotesPC>
+      </Party>
+    </Bar>
+    <VotesHist>
+      <Election Year="1990">
+        <Party Name="Labor">
+          <VotesPC>0.413</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.441</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.049</VotesPC>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats">
+          <VotesPC>0.079</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="JLN" />
+        <Party Name="Others">
+          <VotesPC>0.018</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="1993">
+        <Party Name="Labor">
+          <VotesPC>0.427</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.367</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.068</VotesPC>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats">
+          <VotesPC>0.017</VotesPC>
+        </Party>
+        <Party Name="JLN" />
+        <Party Name="Others">
+          <VotesPC>0.121</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+      </Election>
+      <Election Year="1996">
+        <Party Name="Labor">
+          <VotesPC>0.391</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.435</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.087</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats">
+          <VotesPC>0.071</VotesPC>
+        </Party>
+        <Party Name="JLN" />
+        <Party Name="Others">
+          <VotesPC>0.016</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="1998">
+        <Party Name="Labor">
+          <VotesPC>0.416</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.338</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.058</VotesPC>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.038</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.039</VotesPC>
+        </Party>
+        <Party Name="JLN" />
+        <Party Name="Others">
+          <VotesPC>0.111</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+      </Election>
+      <Election Year="2001">
+        <Party Name="Labor">
+          <VotesPC>0.368</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.388</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.138</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.033</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.046</VotesPC>
+        </Party>
+        <Party Name="JLN" />
+        <Party Name="Others">
+          <VotesPC>0.027</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2004">
+        <Party Name="Labor">
+          <VotesPC>0.335</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.461</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.133</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats">
+          <VotesPC>0.008</VotesPC>
+        </Party>
+        <Party Name="JLN" />
+        <Party Name="Others">
+          <VotesPC>0.063</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2007">
+        <Party Name="Labor">
+          <VotesPC>0.401</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.374</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.181</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats" />
+        <Party Name="JLN" />
+        <Party Name="Others">
+          <VotesPC>0.044</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2010">
+        <Party Name="Labor">
+          <VotesPC>0.414</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.330</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.203</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats">
+          <VotesPC>0.005</VotesPC>
+        </Party>
+        <Party Name="JLN" />
+        <Party Name="Others">
+          <VotesPC>0.048</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2013">
+        <Party Name="Labor">
+          <VotesPC>0.328</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.375</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.117</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats" />
+        <Party Name="JLN" />
+        <Party Name="Others">
+          <VotesPC>0.180</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+      </Election>
+      <Election Year="2016">
+        <Party Name="Labor">
+          <VotesPC>0.336</VotesPC>
+          <Seats>5</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.325</VotesPC>
+          <Seats>4</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.112</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats" />
+        <Party Name="JLN">
+          <VotesPC>0.083</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.144</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2019">
+        <Party Name="Labor">
+          <VotesPC>0.306</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.326</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.126</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.035</VotesPC>
+        </Party>
+        <Party Name="Democrats" />
+        <Party Name="JLN">
+          <VotesPC>0.089</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.118</VotesPC>
+        </Party>
+      </Election>
+    </VotesHist>
+  </State>
+  <State ID="VIC">
+    <Table>
+      <Party Name="Liberal/Nationals">
+        <Votes>1342362</Votes>
+        <VotesPC>0.359</VotesPC>
+        <Swing>0.028</Swing>
+        <Quotas>2.515</Quotas>
+        <Seats>3</Seats>
+      </Party>
+      <Party Name="Republican Party">
+        <Votes>7762</Votes>
+        <VotesPC>0.002</VotesPC>
+        <Quotas>0.015</Quotas>
+      </Party>
+      <Party Name="Socialist Equality Party">
+        <Votes>12415</Votes>
+        <VotesPC>0.003</VotesPC>
+        <Swing>0.002</Swing>
+        <Quotas>0.023</Quotas>
+      </Party>
+      <Party Name="Small Business Party">
+        <Votes>18534</Votes>
+        <VotesPC>0.005</VotesPC>
+        <Quotas>0.035</Quotas>
+      </Party>
+      <Party Name="Christian Democratic Party">
+        <Votes>18791</Votes>
+        <VotesPC>0.005</VotesPC>
+        <Swing>0.002</Swing>
+        <Quotas>0.035</Quotas>
+      </Party>
+      <Party Name="United Australia Party">
+        <Votes>92691</Votes>
+        <VotesPC>0.025</VotesPC>
+        <Quotas>0.174</Quotas>
+      </Party>
+      <Party Name="Shooters Fishers and Farmers">
+        <Votes>69322</Votes>
+        <VotesPC>0.019</VotesPC>
+        <Swing>0.008</Swing>
+        <Quotas>0.130</Quotas>
+      </Party>
+      <Party Name="Climate Action!">
+        <Votes>12363</Votes>
+        <VotesPC>0.003</VotesPC>
+        <Quotas>0.023</Quotas>
+      </Party>
+      <Party Name="Derryn Hinch's Justice Party">
+        <Votes>105459</Votes>
+        <VotesPC>0.028</VotesPC>
+        <Swing>-0.032</Swing>
+        <Quotas>0.198</Quotas>
+      </Party>
+      <Party Name="Help End Marijuana Prohibition">
+        <Votes>56117</Votes>
+        <VotesPC>0.015</VotesPC>
+        <Quotas>0.105</Quotas>
+      </Party>
+      <Party Name="Citizens Electoral Council">
+        <Votes>3251</Votes>
+        <VotesPC>0.001</VotesPC>
+        <Swing>0.000</Swing>
+        <Quotas>0.006</Quotas>
+      </Party>
+      <Party Name="Australian Democrats">
+        <Votes>9760</Votes>
+        <VotesPC>0.003</VotesPC>
+        <Quotas>0.018</Quotas>
+      </Party>
+      <Party Name="Independents For Climate Action Now">
+        <Votes>15183</Votes>
+        <VotesPC>0.004</VotesPC>
+        <Swing>0.004</Swing>
+        <Quotas>0.028</Quotas>
+      </Party>
+      <Party Name="Liberal Democrats">
+        <Votes>35719</Votes>
+        <VotesPC>0.010</VotesPC>
+        <Swing>-0.006</Swing>
+        <Quotas>0.067</Quotas>
+      </Party>
+      <Party Name="Secular Party">
+        <Votes>4001</Votes>
+        <VotesPC>0.001</VotesPC>
+        <Swing>0.000</Swing>
+        <Quotas>0.007</Quotas>
+      </Party>
+      <Party Name="Labour DLP">
+        <Votes>94720</Votes>
+        <VotesPC>0.025</VotesPC>
+        <Swing>0.020</Swing>
+        <Quotas>0.177</Quotas>
+      </Party>
+      <Party Name="One Nation">
+        <Votes>106742</Votes>
+        <VotesPC>0.029</VotesPC>
+        <Swing>0.010</Swing>
+        <Quotas>0.200</Quotas>
+      </Party>
+      <Party Name="Pirate Party">
+        <Votes>15043</Votes>
+        <VotesPC>0.004</VotesPC>
+        <Swing>0.000</Swing>
+        <Quotas>0.028</Quotas>
+      </Party>
+      <Party Name="VOTEFLUX.ORG">
+        <Votes>2418</Votes>
+        <VotesPC>0.001</VotesPC>
+        <Swing>0.000</Swing>
+        <Quotas>0.005</Quotas>
+      </Party>
+      <Party Name="Australian Workers Party">
+        <Votes>10710</Votes>
+        <VotesPC>0.003</VotesPC>
+        <Quotas>0.020</Quotas>
+      </Party>
+      <Party Name="Animal Justice">
+        <Votes>57287</Votes>
+        <VotesPC>0.015</VotesPC>
+        <Swing>-0.002</Swing>
+        <Quotas>0.107</Quotas>
+      </Party>
+      <Party Name="Greens">
+        <Votes>397133</Votes>
+        <VotesPC>0.106</VotesPC>
+        <Swing>-0.002</Swing>
+        <Quotas>0.744</Quotas>
+        <Seats>1</Seats>
+      </Party>
+      <Party Name="Rise Up Australia">
+        <Votes>6591</Votes>
+        <VotesPC>0.002</VotesPC>
+        <Swing>-0.001</Swing>
+        <Quotas>0.012</Quotas>
+      </Party>
+      <Party Name="Labor">
+        <Votes>1163853</Votes>
+        <VotesPC>0.311</VotesPC>
+        <Swing>0.004</Swing>
+        <Quotas>2.180</Quotas>
+        <Seats>2</Seats>
+      </Party>
+      <Party Name="Sustainable Australia">
+        <Votes>14133</Votes>
+        <VotesPC>0.004</VotesPC>
+        <Swing>0.001</Swing>
+        <Quotas>0.026</Quotas>
+      </Party>
+      <Party Name="Conservative Nationals">
+        <Votes>16585</Votes>
+        <VotesPC>0.004</VotesPC>
+        <Quotas>0.031</Quotas>
+      </Party>
+      <Party Name="Australian Conservatives">
+        <Votes>24443</Votes>
+        <VotesPC>0.007</VotesPC>
+        <Swing>0.007</Swing>
+        <Quotas>0.046</Quotas>
+      </Party>
+      <Party Name="Great Australian Party">
+        <Votes>5194</Votes>
+        <VotesPC>0.001</VotesPC>
+        <Swing>0.001</Swing>
+        <Quotas>0.010</Quotas>
+      </Party>
+      <Party Name="Health Australia Party">
+        <Votes>12899</Votes>
+        <VotesPC>0.003</VotesPC>
+        <Swing>-0.002</Swing>
+        <Quotas>0.024</Quotas>
+      </Party>
+      <Party Name="Yellow Vest Australia">
+        <Votes>2229</Votes>
+        <VotesPC>0.001</VotesPC>
+        <Swing>-0.006</Swing>
+        <Quotas>0.004</Quotas>
+      </Party>
+      <Party Name="Ungrouped">
+        <Votes>5733</Votes>
+        <VotesPC>0.001</VotesPC>
+      </Party>
+      <Party Name="Formal">
+        <Votes>3739443</Votes>
+      </Party>
+      <Party Name="Informal">
+        <Votes>156793</Votes>
+        <VotesPC>0.040</VotesPC>
+      </Party>
+    </Table>
+    <Bar>
+      <Party Name="Coalition">
+        <VotesPC>0.359</VotesPC>
+      </Party>
+      <Party Name="Labor">
+        <VotesPC>0.311</VotesPC>
+      </Party>
+      <Party Name="Greens">
+        <VotesPC>0.106</VotesPC>
+      </Party>
+      <Party Name="One Nation">
+        <VotesPC>0.029</VotesPC>
+      </Party>
+      <Party Name="DHJ">
+        <VotesPC>0.028</VotesPC>
+      </Party>
+      <Party Name="Others">
+        <VotesPC>0.167</VotesPC>
+      </Party>
+    </Bar>
+    <VotesHist>
+      <Election Year="1990">
+        <Party Name="Labor">
+          <VotesPC>0.364</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.445</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.016</VotesPC>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats">
+          <VotesPC>0.142</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.033</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="1993">
+        <Party Name="Labor">
+          <VotesPC>0.450</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.441</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.012</VotesPC>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats">
+          <VotesPC>0.040</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.057</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="1996">
+        <Party Name="Labor">
+          <VotesPC>0.398</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.414</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.029</VotesPC>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats">
+          <VotesPC>0.109</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.050</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="1998">
+        <Party Name="Labor">
+          <VotesPC>0.405</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.379</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.025</VotesPC>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.041</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.098</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.052</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2001">
+        <Party Name="Labor">
+          <VotesPC>0.368</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.396</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.060</VotesPC>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.025</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.078</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.073</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2004">
+        <Party Name="Labor">
+          <VotesPC>0.361</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.441</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.088</VotesPC>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.007</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.019</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.084</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+      </Election>
+      <Election Year="2007">
+        <Party Name="Labor">
+          <VotesPC>0.417</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.395</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.101</VotesPC>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.004</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.017</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.066</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2010">
+        <Party Name="Labor">
+          <VotesPC>0.378</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.344</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.146</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.004</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.005</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.123</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+      </Election>
+      <Election Year="2013">
+        <Party Name="Labor">
+          <VotesPC>0.324</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.401</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.108</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats">
+          <VotesPC>0.003</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.164</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+      </Election>
+      <Election Year="2016">
+        <Party Name="Labor">
+          <VotesPC>0.307</VotesPC>
+          <Seats>4</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.331</VotesPC>
+          <Seats>5</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.109</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.018</VotesPC>
+        </Party>
+        <Party Name="Democrats" />
+        <Party Name="Others">
+          <VotesPC>0.235</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+      </Election>
+      <Election Year="2019">
+        <Party Name="Labor">
+          <VotesPC>0.311</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.359</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.106</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.029</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.003</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.192</VotesPC>
+        </Party>
+      </Election>
+    </VotesHist>
+  </State>
+  <State ID="WA">
+    <Table>
+      <Party Name="One Nation">
+        <Votes>85129</Votes>
+        <VotesPC>0.059</VotesPC>
+        <Swing>0.019</Swing>
+        <Quotas>0.412</Quotas>
+      </Party>
+      <Party Name="Involuntary Medication Objectors">
+        <Votes>3791</Votes>
+        <VotesPC>0.003</VotesPC>
+        <Quotas>0.018</Quotas>
+      </Party>
+      <Party Name="Liberal">
+        <Votes>591860</Votes>
+        <VotesPC>0.409</VotesPC>
+        <Swing>0.024</Swing>
+        <Quotas>2.864</Quotas>
+        <Seats>3</Seats>
+      </Party>
+      <Party Name="Greens">
+        <Votes>170871</Votes>
+        <VotesPC>0.118</VotesPC>
+        <Swing>0.015</Swing>
+        <Quotas>0.827</Quotas>
+        <Seats>1</Seats>
+      </Party>
+      <Party Name="Conservative Nationals">
+        <Votes>8425</Votes>
+        <VotesPC>0.006</VotesPC>
+        <Quotas>0.041</Quotas>
+      </Party>
+      <Party Name="Pirate Party">
+        <Votes>8526</Votes>
+        <VotesPC>0.006</VotesPC>
+        <Quotas>0.041</Quotas>
+      </Party>
+      <Party Name="Labor">
+        <Votes>399639</Votes>
+        <VotesPC>0.276</VotesPC>
+        <Swing>-0.007</Swing>
+        <Quotas>1.934</Quotas>
+        <Seats>2</Seats>
+      </Party>
+      <Party Name="Western Australia Party">
+        <Votes>17213</Votes>
+        <VotesPC>0.012</VotesPC>
+        <Swing>0.012</Swing>
+        <Quotas>0.083</Quotas>
+      </Party>
+      <Party Name="United Australia Party">
+        <Votes>25296</Votes>
+        <VotesPC>0.017</VotesPC>
+        <Quotas>0.122</Quotas>
+      </Party>
+      <Party Name="Help End Marijuana Prohibition">
+        <Votes>24404</Votes>
+        <VotesPC>0.017</VotesPC>
+        <Quotas>0.118</Quotas>
+      </Party>
+      <Party Name="Australian Christians">
+        <Votes>23983</Votes>
+        <VotesPC>0.017</VotesPC>
+        <Swing>0.000</Swing>
+        <Quotas>0.116</Quotas>
+      </Party>
+      <Party Name="Animal Justice">
+        <Votes>14130</Votes>
+        <VotesPC>0.010</VotesPC>
+        <Swing>0.000</Swing>
+        <Quotas>0.068</Quotas>
+      </Party>
+      <Party Name="Australian Conservatives">
+        <Votes>6111</Votes>
+        <VotesPC>0.004</VotesPC>
+        <Quotas>0.030</Quotas>
+      </Party>
+      <Party Name="Liberal Democrats">
+        <Votes>10438</Votes>
+        <VotesPC>0.007</VotesPC>
+        <Swing>-0.001</Swing>
+        <Quotas>0.051</Quotas>
+      </Party>
+      <Party Name="Citizens Electoral Council">
+        <Votes>1097</Votes>
+        <VotesPC>0.001</VotesPC>
+        <Swing>-0.001</Swing>
+        <Quotas>0.005</Quotas>
+      </Party>
+      <Party Name="Shooters Fishers and Farmers">
+        <Votes>17072</Votes>
+        <VotesPC>0.012</VotesPC>
+        <Swing>-0.007</Swing>
+        <Quotas>0.083</Quotas>
+      </Party>
+      <Party Name="Socialist Alliance">
+        <Votes>1847</Votes>
+        <VotesPC>0.001</VotesPC>
+        <Swing>0.000</Swing>
+        <Quotas>0.009</Quotas>
+      </Party>
+      <Party Name="Great Australian Party">
+        <Votes>3196</Votes>
+        <VotesPC>0.002</VotesPC>
+        <Quotas>0.015</Quotas>
+      </Party>
+      <Party Name="Yellow Vest Australia">
+        <Votes>1034</Votes>
+        <VotesPC>0.001</VotesPC>
+        <Swing>-0.010</Swing>
+        <Quotas>0.005</Quotas>
+      </Party>
+      <Party Name="Health Australia Party">
+        <Votes>3563</Votes>
+        <VotesPC>0.002</VotesPC>
+        <Swing>-0.001</Swing>
+        <Quotas>0.017</Quotas>
+      </Party>
+      <Party Name="The Nationals">
+        <Votes>20336</Votes>
+        <VotesPC>0.014</VotesPC>
+        <Swing>-0.011</Swing>
+        <Quotas>0.098</Quotas>
+      </Party>
+      <Party Name="Sustainable Australia">
+        <Votes>4994</Votes>
+        <VotesPC>0.003</VotesPC>
+        <Swing>0.004</Swing>
+        <Quotas>0.024</Quotas>
+      </Party>
+      <Party Name="VOTEFLUX.ORG">
+        <Votes>2139</Votes>
+        <VotesPC>0.001</VotesPC>
+        <Swing>0.001</Swing>
+        <Quotas>0.010</Quotas>
+      </Party>
+      <Party Name="Ungrouped">
+        <Votes>1529</Votes>
+        <VotesPC>0.001</VotesPC>
+      </Party>
+      <Party Name="Formal">
+        <Votes>1446623</Votes>
+      </Party>
+      <Party Name="Informal">
+        <Votes>50909</Votes>
+        <VotesPC>0.034</VotesPC>
+      </Party>
+    </Table>
+    <Bar>
+      <Party Name="Liberal">
+        <VotesPC>0.409</VotesPC>
+      </Party>
+      <Party Name="Labor">
+        <VotesPC>0.276</VotesPC>
+      </Party>
+      <Party Name="Greens">
+        <VotesPC>0.118</VotesPC>
+      </Party>
+      <Party Name="One Nation">
+        <VotesPC>0.059</VotesPC>
+      </Party>
+      <Party Name="UAP">
+        <VotesPC>0.017</VotesPC>
+      </Party>
+      <Party Name="Nationals">
+        <VotesPC>0.014</VotesPC>
+      </Party>
+      <Party Name="Others">
+        <VotesPC>0.106</VotesPC>
+      </Party>
+    </Bar>
+    <VotesHist>
+      <Election Year="1990">
+        <Party Name="Labor">
+          <VotesPC>0.335</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.463</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.084</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats">
+          <VotesPC>0.094</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.024</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="1993">
+        <Party Name="Labor">
+          <VotesPC>0.383</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.501</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.055</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats">
+          <VotesPC>0.041</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.020</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="1996">
+        <Party Name="Labor">
+          <VotesPC>0.340</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.475</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.057</VotesPC>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats">
+          <VotesPC>0.094</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.034</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="1998">
+        <Party Name="Labor">
+          <VotesPC>0.347</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.397</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.057</VotesPC>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.104</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.064</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.031</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2001">
+        <Party Name="Labor">
+          <VotesPC>0.342</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.425</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.059</VotesPC>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.070</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.059</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.045</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2004">
+        <Party Name="Labor">
+          <VotesPC>0.325</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.502</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.081</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.024</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.020</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.048</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2007">
+        <Party Name="Labor">
+          <VotesPC>0.360</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.476</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.093</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.010</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.010</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.051</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2010">
+        <Party Name="Labor">
+          <VotesPC>0.297</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.464</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.140</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.006</VotesPC>
+        </Party>
+        <Party Name="Democrats">
+          <VotesPC>0.004</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.089</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2013">
+        <Party Name="Labor">
+          <VotesPC>0.266</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.443</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.095</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation" />
+        <Party Name="Democrats">
+          <VotesPC>0.003</VotesPC>
+        </Party>
+        <Party Name="Others">
+          <VotesPC>0.193</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+      </Election>
+      <Election Year="2016">
+        <Party Name="Labor">
+          <VotesPC>0.283</VotesPC>
+          <Seats>4</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.410</VotesPC>
+          <Seats>5</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.105</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.040</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="Democrats" />
+        <Party Name="Others">
+          <VotesPC>0.162</VotesPC>
+        </Party>
+      </Election>
+      <Election Year="2019">
+        <Party Name="Labor">
+          <VotesPC>0.276</VotesPC>
+          <Seats>2</Seats>
+        </Party>
+        <Party Name="Coalition">
+          <VotesPC>0.423</VotesPC>
+          <Seats>3</Seats>
+        </Party>
+        <Party Name="Greens">
+          <VotesPC>0.118</VotesPC>
+          <Seats>1</Seats>
+        </Party>
+        <Party Name="One Nation">
+          <VotesPC>0.059</VotesPC>
+        </Party>
+        <Party Name="Democrats" />
+        <Party Name="Others">
+          <VotesPC>0.124</VotesPC>
+        </Party>
+      </Election>
+    </VotesHist>
+  </State>
+</State>
