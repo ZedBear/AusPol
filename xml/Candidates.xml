@@ -12,61 +12,45 @@
       <Name>SEAN CULLEN-MACASKILL</Name>
       <Party>Australian Democrats</Party>
     </Candidate>
+    <Candidate Incumbent="Y">
+      <Name>DARYL CARLSON</Name>
+      <Party>United Australia Party</Party>
+    </Candidate>
   </Division>
   <Division id="Aston">
     <Candidate Rank="1" Incumbent="Y">
-      <Name>ALAN TUDGE</Name>
+      <Name>WENDY LOVELL</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>ASHER COOKSON</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>RYAN BRUCE</Name>
-      <Party>TNL</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CRAIG IBBOTSON</Name>
-      <Party>One Nation</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>LIAM ROCHE</Name>
-      <Party>Liberal Democratic Party</Party>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>MARY DOYLE</Name>
       <Party>Labor</Party>
     </Candidate>
+    <Candidate Incumbent="N">
+      <Name>JOSHUA STOKES</Name>
+      <Party>United Australia Party</Party>
+    </Candidate>
   </Division>
   <Division id="Ballarat">
     <Candidate Rank="3" Incumbent="N">
-      <Name>JOHN BARNES</Name>
-      <Party>Greens</Party>
+      <Name>KAREN McALOON</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>BEN GREEN</Name>
+      <Name>MELINA BATH</Name>
       <Party>Liberal</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ALEX GRAHAM</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>KERRYN SEDGMAN</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ROSALIE TAXIS</Name>
-      <Party>One Nation</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JULIA McGRATH</Name>
-      <Party>Liberal Democratic Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>CATHERINE KING</Name>
       <Party>Labor</Party>
+    </Candidate>
+    <Candidate Incumbent="N">
+      <Name>RUSSEL McGEE</Name>
+      <Party>United Australia Party</Party>
     </Candidate>
   </Division>
   <Division id="Banks">
@@ -75,20 +59,12 @@
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>ELOUISE COCKER</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MARIKA MOMIRCEVSKI</Name>
+      <Name>JAN BURNS</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>NATALIE HANNA</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>STEVE KHOUW</Name>
-      <Party>Independent</Party>
+      <Name>GIANLUCA DRAGONE</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>MALCOLM HEFFERNAN</Name>
@@ -101,91 +77,59 @@
   </Division>
   <Division id="Barker">
     <Candidate Incumbent="N">
-      <Name>JONATHAN PIETZSCH</Name>
-      <Party>Nationals</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
       <Name>CARLOS QUAREMBA</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>VINCE PANNELL</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MADDY FRY</Name>
-      <Party>Independent</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>ROSA HILLAM</Name>
-      <Party>Greens</Party>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>TONY PASIN</Name>
+      <Name>AMANDA VANSTONE</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>DAVID SWIGGS</Name>
+      <Name>KAY MURPHY</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>MARK BRAES</Name>
+      <Name>MATT O'BRIEN</Name>
       <Party>Labor</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>KYM HANTON</Name>
-      <Party>Australian Federation Party</Party>
     </Candidate>
   </Division>
   <Division id="Barton">
     <Candidate Rank="1" Incumbent="Y">
-      <Name>LINDA BURNEY</Name>
+      <Name>CHRIS MINNS</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>DIMITRI HONOS</Name>
+      <Name>JENNA WILSON</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>TAYLOR VANDIJK</Name>
-      <Party>Greens</Party>
+      <Name>CONNOR PARISSIS</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>JOHN GOODY</Name>
       <Party>Liberal</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>PHILLIP POLLARD</Name>
-      <Party>One Nation</Party>
-    </Candidate>
   </Division>
   <Division id="Bass">
-    <Candidate Incumbent="N">
-      <Name>GEORGE RAZAY</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>BOB SALT</Name>
-      <Party>Jacqui Lambie Network</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>CECILY ROSOL</Name>
-      <Party>Greens</Party>
+      <Name>TOM HALL</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>BRIDGET ARCHER</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>ALISON BAKER</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
       <Name>STEPHEN HUMBLE</Name>
       <Party>Liberal Democratic Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>KYLE SQUIBB</Name>
+      <Name>ESSIE GLOVER</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
@@ -199,7 +143,7 @@
   </Division>
   <Division id="Bean">
     <Candidate Incumbent="N">
-      <Name>SEAN CONWAY</Name>
+      <Name>MARION MARTIN</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
@@ -207,71 +151,51 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>DAVID SMITH</Name>
+      <Name>MICHAEL WOOD</Name>
       <Party>Labor</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JAMIE CHRISTIE</Name>
-      <Party>Independent</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>KATHRYN SAVERY</Name>
-      <Party>Greens</Party>
+      <Name>JONATHAN DAVIS</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>JANE HIATT</Name>
+      <Name>STEPHEN LARKHAM</Name>
       <Party>Liberal</Party>
     </Candidate>
   </Division>
   <Division id="Bendigo">
-    <Candidate Incumbent="N">
-      <Name>JAMES LAURIE</Name>
-      <Party>Independent</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>LISA CHESTERS</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>DARIN SCHADE</Name>
+      <Name>CATHERINE BURNETT</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>CATE SINCLAIR</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MATT BANSEMER</Name>
-      <Party>Liberal Democratic Party</Party>
+      <Name>ROBERT HOLIAN</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>BEN MIHAIL</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>ELIJAH SUARES</Name>
+      <Name>MAE MANNING</Name>
       <Party>United Australia Party</Party>
     </Candidate>
   </Division>
   <Division id="Bennelong">
-    <Candidate Incumbent="N">
-      <Name>JOHN AUGUST</Name>
-      <Party>Fusion</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>TONY ADAMS</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DOUGAL CAMERON</Name>
-      <Party>Liberal Democratic Party</Party>
+      <Name>QUIE YUE ZHANG</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="N">
-      <Name>SIMON KENNEDY</Name>
+      <Name>DOMINIC PERROTTET</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>RHYS COLLYER</Name>
+      <Name>DELIA PAUL</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
@@ -282,19 +206,11 @@
       <Name>JEROME LAXALE</Name>
       <Party>Labor</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>KYINZOM DHONGDUE</Name>
-      <Party>Drew Pavlou Democratic Alliance</Party>
-    </Candidate>
   </Division>
   <Division id="Berowra">
-    <Candidate Incumbent="N">
-      <Name>NICHOLAS SAMIOS</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>TANIA SALITRA</Name>
-      <Party>Greens</Party>
+      <Name>MONICA TAN</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>RHIANNON BOSMA</Name>
@@ -304,42 +220,22 @@
       <Name>JULIAN LEESER</Name>
       <Party>Liberal</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>BRENDAN CLARKE</Name>
-      <Party>Fusion</Party>
-    </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>BENSON KOSCHINSKI</Name>
+      <Name>KATIE GOMPERTZ</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>DAVID LOUIE</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ROGER WOODWARD</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CHRISTOPHER MARTINIC</Name>
+      <Name>MICHAEL PADILLA</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>BENJAMIN CASWELL</Name>
-      <Party>Independent</Party>
     </Candidate>
   </Division>
   <Division id="Blair">
     <Candidate Incumbent="N">
-      <Name>DANIELLE MUTTON</Name>
-      <Party>Greens</Party>
+      <Name>MICHELLE DUNCAN</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>MICHELLE JAQUES</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>QUINTON CUNNINGHAM</Name>
+      <Name>MARILYN MASON</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
@@ -350,17 +246,9 @@
       <Name>SHAYNE NEUMANN</Name>
       <Party>Labor</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MARIA PITMAN</Name>
-      <Party>Australian Values Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ANGELA LOWERY</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>SAM BIGGINS</Name>
-      <Party>Liberal National</Party>
+      <Party>Liberal</Party>
     </Candidate>
   </Division>
   <Division id="Blaxland">
@@ -373,29 +261,29 @@
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>LINDA EISLER</Name>
-      <Party>Greens</Party>
+      <Name>JAMES ROONEY</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>JASON CLARE</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>ELVIS SINOSIC</Name>
+      <Name>WANDA WAGNER</Name>
       <Party>United Australia Party</Party>
     </Candidate>
   </Division>
   <Division id="Bonner">
     <Candidate Rank="1" Incumbent="Y">
       <Name>ROSS VASTA</Name>
-      <Party>Liberal National</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>AMANDA NEIL</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>SERGE DIKLICH</Name>
+      <Name>ERIC CAMPBELL</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
@@ -403,42 +291,22 @@
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>BERNARD LAKEY</Name>
-      <Party>Greens</Party>
+      <Name>BARBARA BELL</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Boothby">
     <Candidate Incumbent="N">
-      <Name>JEREMY CARTER</Name>
-      <Party>Greens</Party>
+      <Name>STEF ROZITIS</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>GRAEME CLARK</Name>
+      <Name>WHITNEY SCOTT</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>PETER HARRIS</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ALEKSANDRA NIKOLIC</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>PAUL BUSUTTIL</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>FRANKIE BRAY</Name>
-      <Party>Animal Justice</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="N">
       <Name>RACHEL SWIFT</Name>
       <Party>Liberal</Party>
-    </Candidate>
-    <Candidate Rank="3" Incumbent="N">
-      <Name>JO DYER</Name>
-      <Party>Independent</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>LOUISE MILLER-FROST</Name>
@@ -455,20 +323,16 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>MARY-JANE STEVENS</Name>
+      <Name>LORENA CHRISTENSEN</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>IAN MAZLIN</Name>
-      <Party>Greens</Party>
+      <Name>EMERALD MOON</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="N">
       <Name>HENRY PIKE</Name>
-      <Party>Liberal National</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>PHIL JOHNSON</Name>
-      <Party>TNL</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>DONISHA DUFF</Name>
@@ -477,20 +341,16 @@
   </Division>
   <Division id="Braddon">
     <Candidate Incumbent="N">
-      <Name>LUDO MINEUR</Name>
+      <Name>JACOB SCHNEIDER</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>DARREN BRIGGS</Name>
-      <Party>Greens</Party>
+      <Name>PHIL PARSONS</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>GAVIN PEARCE</Name>
       <Party>Liberal</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SCOTT RANKIN</Name>
-      <Party>The Local Party of Australia</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>CHRIS LYNCH</Name>
@@ -500,46 +360,22 @@
       <Name>DARREN BOBBERMIEN</Name>
       <Party>United Australia Party</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CRAIG GARLAND</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>KEONE MARTIN</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
-    <Candidate Rank="3" Incumbent="N">
-      <Name>SOPHIE LEHMANN</Name>
-      <Party>Jacqui Lambie Network</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DUNCAN WHITE</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
   </Division>
   <Division id="Bradfield">
-    <Candidate Incumbent="N">
-      <Name>NICOLETTE BOELE</Name>
-      <Party>Independent</Party>
-    </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>DAVID BRIGDEN</Name>
+      <Name>JOHN PRESCOTT</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>MARTIN COUSINS</Name>
-      <Party>Greens</Party>
+      <Name>TONY ADAMS</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>JANINE KITSON</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ROB FLETCHER</Name>
+      <Name>SHARI BUTLER</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>PAUL FLETCHER</Name>
+      <Name>NICOLETTE BOELE</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
@@ -552,37 +388,17 @@
       <Name>MADELEINE KING</Name>
       <Party>Labor</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MALCOLM HEFFERNAN</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>PETER HUDSON</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>DAVID PIKE</Name>
+      <Name>JEANNETTE WILLIS</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>HEATHER LONSDALE</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JAYNE CRICHTON</Name>
-      <Party>Australian Christians</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MICHAEL O'LOGHLEN</Name>
-      <Party>Western Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ALISON MARSHALL</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ANDREW GLEESON</Name>
-      <Party>Great Australian Party</Party>
+      <Name>JODY FREEMAN</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>JAKE TAYLOR</Name>
@@ -591,16 +407,12 @@
   </Division>
   <Division id="Brisbane">
     <Candidate Incumbent="N">
-      <Name>TIANA KENNEDY</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JUSTIN KNUDSON</Name>
+      <Name>WAYNE CRUZ</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>STEPHEN BATES</Name>
-      <Party>Greens</Party>
+      <Name>DENNY HAMLIN</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>MADONNA JARRETT</Name>
@@ -608,24 +420,16 @@
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>TREVOR EVANS</Name>
-      <Party>Liberal National</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>TREVOR HOLD</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ANTHONY BULL</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
   </Division>
   <Division id="Bruce">
     <Candidate Incumbent="N">
-      <Name>CHRISTINE SKROBO</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MATT BABET</Name>
+      <Name>CLINT MASON</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
@@ -637,42 +441,30 @@
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>JAMES MOODY</Name>
+      <Name>KIM WELLS</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>MATTHEW KIRWAN</Name>
-      <Party>Greens</Party>
+      <Name>RHONDA GARAD</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Burt">
-    <Candidate Incumbent="N">
-      <Name>MICHELE CASTLE</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
     <Candidate Incumbent="N">
       <Name>TRAVIS CARTER</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>JOSHUA McCURRY</Name>
+      <Name>EDNA BECK</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>DANIEL GARLETT</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>STEPHEN PHELAN</Name>
-      <Party>Western Australia Party</Party>
+      <Name>SIMONE COLLINS</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>DAVID GOODE</Name>
       <Party>Liberal</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>WARNAR SPYKER</Name>
-      <Party>Australian Christians</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>MATT KEOGH</Name>
@@ -689,19 +481,19 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>KAY NANKERVIS</Name>
-      <Party>Greens</Party>
+      <Name>STEPHANIE LUKE</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>SARAH ELLIOTT</Name>
+      <Name>WALTER WHITE</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>ANDREW GEE</Name>
-      <Party>Nationals</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>ADAM JOHN JANNIS</Name>
+      <Name>RICKEY STEELE</Name>
       <Party>United Australia Party</Party>
     </Candidate>
   </Division>
@@ -711,59 +503,47 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>TIM STAKER-GUNN</Name>
+      <Name>CATHERINE CUMMINGS</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>NATALIE ABBOUD</Name>
-      <Party>Greens</Party>
+      <Name>POLLY MORGAN</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>MARIA VAMVAKINOU</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>JOSHUA NAIM</Name>
+      <Name>TONY GONZALES</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JEROME SMALL</Name>
-      <Party>Victorian Socialists</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MARIA BENGTSSON</Name>
-      <Party>Australian Federation Party</Party>
     </Candidate>
   </Division>
   <Division id="Canberra">
     <Candidate Incumbent="N">
-      <Name>CATHERINE SMITH</Name>
+      <Name>RICARDO FRANCIS</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>JAMES MILES</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>TIM BOHM</Name>
-      <Party>Independent</Party>
-    </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>SLADE MINSON</Name>
+      <Name>DAVID POCOCK</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>TIM HOLLO</Name>
-      <Party>Greens</Party>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>ALICIA PAYNE</Name>
+      <Name>KATY GHALLAGHER</Name>
       <Party>Labor</Party>
     </Candidate>
   </Division>
   <Division id="Canning">
     <Candidate Rank="1" Incumbent="Y">
-      <Name>ANDREW HASTIE</Name>
+      <Name>ZAK KIRKUP</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
@@ -775,36 +555,12 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>ANTHONY GARDYNE</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JAMES WALDECK</Name>
+      <Name>OLGA GRIFFITH</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>BRAD BEDFORD</Name>
-      <Party>Western Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JUDITH CONGRENE</Name>
-      <Party>Informed Medical Options</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>JODIE MOFFAT</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ASHLEY WILLIAMS</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ANDRIETTE DU PLESSIS</Name>
-      <Party>Australian Christians</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DAVID GARDINER</Name>
-      <Party>Liberal Democratic Party</Party>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Capricornia">
@@ -813,57 +569,33 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>PAULA GANFIELD</Name>
-      <Party>Informed Medical Options</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MICK JONES</Name>
-      <Party>Greens</Party>
+      <Name>PAUL BAMBRICK</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>RUSSELL ROBERTSON</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>STEVE MURPHY</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>KEN MURRAY</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>NATHAN HARDING</Name>
+      <Name>RAQUEL WEBB</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>MICHELLE LANDRY</Name>
-      <Party>Liberal National</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ZTEVEN WHITTY</Name>
-      <Party>Great Australian Party</Party>
+      <Party>Liberal</Party>
     </Candidate>
   </Division>
   <Division id="Casey">
     <Candidate Rank="3" Incumbent="N">
-      <Name>JENNY GAME</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CRAIG COLE</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ANDREW KLOP</Name>
-      <Party>Animal Justice</Party>
+      <Name>JENNY GAME-LOPOTA</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="N">
-      <Name>AARON VIOLI</Name>
+      <Name>TONY SMITH</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>BILL BRINDLE</Name>
+      <Name>JACINTA COLLINS</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
@@ -871,24 +603,8 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>CHRIS FIELD</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>TREVOR SMITH</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>PETER SULLIVAN</Name>
-      <Party>Derryn Hinch's Justice Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ANTHONY BELLVE</Name>
+      <Name>TRICIA ARMSTRONG</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CLAIRE FERRES MILES</Name>
-      <Party>Independent</Party>
     </Candidate>
   </Division>
   <Division id="Chifley">
@@ -897,20 +613,12 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>ZVETANKA RASKOV</Name>
+      <Name>CURTIS GARNER</Name>
       <Party>United Australia Party</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>AMMAR KHAN</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>BEN ROUGHLEY</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>SUJAN SELVENTHIRAN</Name>
-      <Party>Greens</Party>
+      <Name>BRENT ROBERTSON</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>JUGANDEEP SINGH</Name>
@@ -927,44 +635,16 @@
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>THOMAS STANFIELD</Name>
-      <Party>Derryn Hinch's Justice Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ANTHEA ANTONIE</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
       <Name>AARON TYRRELL</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ROD WHITFIELD</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>RYAN DARE</Name>
-      <Party>Australian Citizens Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ETHELYN KING</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>SARAH NEWMAN</Name>
-      <Party>Greens</Party>
+      <Name>LUKE ARTHUR</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>MELANIE KEMPSON</Name>
+      <Name>SUZANNE WONG</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DOMINIQUE MURPHY</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>WAYNE TSENG</Name>
-      <Party>Independent</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>CARINA GARLAND</Name>
@@ -977,31 +657,19 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>SIMON DAVIS</Name>
+      <Name>LARA GIDDINGS</Name>
       <Party>Labor</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>IAN RAMSDEN</Name>
-      <Party>Liberal Democratic Party</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>WILL COATS</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>JANET SHELLEY</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Rank="1" Incumbent="Y">
-      <Name>ANDREW WILKIE</Name>
-      <Party>Independent</Party>
+      <Name>JUNIPER SHAW</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>CASEY DAVIES</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SANDRA GALLOWAY</Name>
+      <Name>RONNIE WATSON</Name>
       <Party>United Australia Party</Party>
     </Candidate>
   </Division>
@@ -1011,15 +679,15 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>CATHERINE DYSON</Name>
-      <Party>Greens</Party>
+      <Name>JONE DOIG</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>SCOTT MORRISON</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>JACQUELINE GUINANE</Name>
+      <Name>ROOSEVELT PHILLIPS</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
@@ -1028,28 +696,16 @@
     </Candidate>
   </Division>
   <Division id="Cooper">
-    <Candidate Incumbent="N">
-      <Name>RABIN BANGAAR</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>KATH LARKIN</Name>
-      <Party>Victorian Socialists</Party>
-    </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>CELESTE LIDDLE</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ADRIAN WHITEHEAD</Name>
-      <Party>Fusion</Party>
+      <Name>DAVID RISSTROM</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>JADON ATKINSON</Name>
+      <Name>KATIE ALLEN</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>ADAM LA ROSA</Name>
+      <Name>NATASHA McDONALD</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
@@ -1062,78 +718,46 @@
     </Candidate>
   </Division>
   <Division id="Corangamite">
-    <Candidate Incumbent="N">
-      <Name>STEPHEN JUHASZ</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>ALEX MARSHALL</Name>
-      <Party>Greens</Party>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>LIBBY COKER</Name>
       <Party>Labor</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MEG WATKINS</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>STEPHANIE ASHER</Name>
+      <Name>NANCIE BUTTFIELD</Name>
       <Party>Liberal</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>PAUL BARKER</Name>
-      <Party>Liberal Democratic Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>LUKE SORENSEN</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>DANIEL ABOU-ZEID</Name>
+      <Name>GUSTAVO REED</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JEAN-MARIE D'ARGENT</Name>
-      <Party>Derryn Hinch's Justice Party</Party>
     </Candidate>
   </Division>
   <Division id="Corio">
-    <Candidate Incumbent="N">
-      <Name>SUE BULL</Name>
-      <Party>Socialist Alliance</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JESSICA TAYLOR</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>MANISH PATEL</Name>
+      <Name>ROMA BRITNELL</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>SIMON NORTHEAST</Name>
-      <Party>Greens</Party>
+      <Name>AMBER FORBES</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>ROBERT JONES</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>NAOMI ADAMS</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MAX PAYNE</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SHANE MURDOCK</Name>
+      <Name>MICHAEL COLE</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>RICHARD MARLES</Name>
+      <Name>CHRISTINE COUZENS</Name>
       <Party>Labor</Party>
     </Candidate>
   </Division>
@@ -1143,40 +767,20 @@
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>ISABELLA TRIPP</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SYLVIA IRADUKUNDA</Name>
-      <Party>Australian Christians</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MICHAEL CALAUTTI</Name>
-      <Party>Australian Federation Party</Party>
+      <Name>MARK COOPER</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>TYLER WALSH</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>MICAH VAN KRIEKEN</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ROLAND LAVERACK</Name>
-      <Party>Western Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CLAIRE HAND</Name>
+      <Name>MYRA MCGEE</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>VINCE CONNELLY</Name>
       <Party>Liberal</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MICHAEL ANAGNO</Name>
-      <Party>Animal Justice</Party>
     </Candidate>
   </Division>
   <Division id="Cowper">
@@ -1185,28 +789,20 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>KEITH McMULLEN</Name>
+      <Name>PAULA BENNETT</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>PAT CONAGHAN</Name>
-      <Party>Nationals</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
       <Name>CAZ HEISE</Name>
-      <Party>Independent</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>SIMON CHASELING</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JOSHUA FAIRHALL</Name>
+      <Name>ROOSEVELT PHILLIPS</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>TIMOTHY NOTT</Name>
-      <Party>Greens</Party>
+      <Name>LAUREN EDWARDS</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Cunningham">
@@ -1215,24 +811,16 @@
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>BEN BRITTON</Name>
+      <Name>IVAN LLOYD</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="N">
-      <Name>ALISON BYRNES</Name>
+      <Name>SHARON BIRD</Name>
       <Party>Labor</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ALEXIS GARNAUT-MILLER</Name>
-      <Party>Australian Citizens Party</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>DYLAN GREEN</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MICHAEL GLOVER</Name>
-      <Party>Liberal Democratic Party</Party>
+      <Name>LAUREN EDWARDS</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>THOMAS GROGAN</Name>
@@ -1241,28 +829,16 @@
   </Division>
   <Division id="Curtin">
     <Candidate Incumbent="N">
-      <Name>LADEISHA VERHOEFF</Name>
+      <Name>ELENA GREER</Name>
       <Party>United Australia Party</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>BILL BURN</Name>
-      <Party>Western Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JUDITH CULLITY</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>CELIA HAMMOND</Name>
+      <Name>JULIE BISHOP</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>DALE GRILLO</Name>
       <Party>One Nation</Party>
-    </Candidate>
-    <Candidate Rank="2" Incumbent="N">
-      <Name>KATE CHANEY</Name>
-      <Party>Independent</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>YANNICK SPENCER</Name>
@@ -1270,13 +846,13 @@
     </Candidate>
     <Candidate Incumbent="N">
       <Name>CAMERON PIDGEON</Name>
-      <Party>Greens</Party>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Dawson">
     <Candidate Rank="1" Incumbent="N">
       <Name>ANDREW WILLCOX</Name>
-      <Party>Liberal National</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>JULIE HALL</Name>
@@ -1287,20 +863,12 @@
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>JIM JACKSON</Name>
-      <Party>Great Australian Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CHRISTIAN YOUNG</Name>
+      <Name>NATALIE DUMER</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>CIARON PATERSON</Name>
-      <Party>Katter's Australian Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>PAULA CREEN</Name>
-      <Party>Greens</Party>
+      <Name>IMOGEN LINDENBERG</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Deakin">
@@ -1309,36 +877,16 @@
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>ROB HUMPHREYS</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>QIAN LIU</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>KATHERINE DOLHEGUY</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>HARRISON CARR</Name>
-      <Party>Liberal Democratic Party</Party>
+      <Name>SOPHIA SUN</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>MICHAEL SUKKAR</Name>
+      <Name>MARGARET GUILFOYLE</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>JUDITH THOMPSON</Name>
-      <Party>Derryn Hinch's Justice Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>BIANCA GIDLEY</Name>
+      <Name>ANDRE KENNEDY</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SAMANTHA BASTIN</Name>
-      <Party>Australian Federation Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>NATASHA COUGHLAN</Name>
@@ -1346,46 +894,30 @@
     </Candidate>
   </Division>
   <Division id="Dickson">
-    <Candidate Incumbent="N">
-      <Name>ALAN BUCHBACH</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>LLOYD RUSSELL</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>PETER DUTTON</Name>
-      <Party>Liberal National</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>THOR PROHASKA</Name>
-      <Party>Independent</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>TAMERA GIBSON</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>ALINA WARD</Name>
+      <Name>VELMA BRIDGES</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>ALI FRANCE</Name>
+      <Name>ROKO WILSON</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>VINNIE BATTEN</Name>
-      <Party>Greens</Party>
+      <Name>BENEDICT COYNE</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Dobell">
     <Candidate Incumbent="N">
-      <Name>GEOFF BARNES</Name>
-      <Party>Fusion</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DEAN MACKIN</Name>
+      <Name>LORENZO WATTS</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
@@ -1393,16 +925,12 @@
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>CATH CONNOR</Name>
-      <Party>Greens</Party>
+      <Name>SCOTT RICKARD</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>MARTIN STEVENSON</Name>
       <Party>One Nation</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ELIOT METHERELL</Name>
-      <Party>Liberal Democratic Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>EMMA McBRIDE</Name>
@@ -1410,28 +938,16 @@
     </Candidate>
   </Division>
   <Division id="Dunkley">
-    <Candidate Incumbent="N">
-      <Name>DARREN BERGWERF</Name>
-      <Party>Independent</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>PETA MURPHY</Name>
       <Party>Labor</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DAMIAN WILLIS</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ELIZABETH JOHNSTON</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>LIAM O'BRIEN</Name>
-      <Party>Greens</Party>
+      <Name>EMILY GREEN</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>SHARN COOMBES</Name>
+      <Name>JULIA BANKS</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
@@ -1439,30 +955,14 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>KATHRYN WOODS</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ADRIAN IRVINE</Name>
+      <Name>FRANCIS MULLINS</Name>
       <Party>United Australia Party</Party>
     </Candidate>
   </Division>
   <Division id="Durack">
-    <Candidate Incumbent="N">
-      <Name>CRAIG SHORE</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>MELISSA PRICE</Name>
       <Party>Liberal</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ADRIAN McRAE</Name>
-      <Party>Great Australian Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ANTHONY FELS</Name>
-      <Party>Western Australia Party</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>JEREMIAH RILEY</Name>
@@ -1472,55 +972,31 @@
       <Name>BRENTON JOHANNSEN</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Rank="3" Incumbent="N">
-      <Name>IAN BLAYNEY</Name>
-      <Party>Nationals</Party>
+    <Candidate Incumbent="N">
+      <Name>JOHANI MAMID</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>BIANCA McNEAIR</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ANDREW MIDDLETON</Name>
+      <Name>JENNIE REEVES</Name>
       <Party>United Australia Party</Party>
     </Candidate>
   </Division>
   <Division id="Eden-Monaro">
-    <Candidate Incumbent="N">
-      <Name>JAMES HOLGATE</Name>
-      <Party>Sustainable Australia</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MAXWELL HOLMES</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>KRISTY McBAIN</Name>
+      <Name>MIKE KELLY</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>GREG BUTLER</Name>
-      <Party>Australian Democrats</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DARREN GARNON</Name>
+      <Name>ELOISE DUNN</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>JERRY NOCKLES</Name>
+      <Name>JOHN BARILARO</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>VIVIAN HARRIS</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>TONI McLENNAN</Name>
-      <Party>Informed Medical Options</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ANDREW THALER</Name>
-      <Party>Independent</Party>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>BOYD SHANNON</Name>
@@ -1528,16 +1004,12 @@
     </Candidate>
   </Division>
   <Division id="Fadden">
-    <Candidate Incumbent="N">
-      <Name>STEWART BROOKER</Name>
-      <Party>Independent</Party>
-    </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>LETITIA DEL FABBRO</Name>
+      <Name>DES HARDMAN</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>NATHAN GRANT O'BRIEN</Name>
+      <Name>THOMAS JONES</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
@@ -1546,53 +1018,29 @@
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>STUART ROBERT</Name>
-      <Party>Liberal National</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>SALLY SPAIN</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ALEX FORBES</Name>
-      <Party>Liberal Democratic Party</Party>
+      <Name>SCOTT TURNER</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Fairfax">
     <Candidate Rank="1" Incumbent="Y">
       <Name>TED O'BRIEN</Name>
-      <Party>Liberal National</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>WENDY HAZELTON</Name>
-      <Party>Informed Medical Options</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>TASH POOLE</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>BARRY SMITH</Name>
-      <Party>Independent</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>SUE ETHERIDGE</Name>
-      <Party>Greens</Party>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>SINIM AUSTRALIE</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>LISA KHOURY</Name>
+      <Name>LAVERNE POPE</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>SUE FERGUSON</Name>
       <Party>Labor</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CRAIG WHITE</Name>
-      <Party>Great Australian Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>NIKKI CIVITARESE</Name>
@@ -1601,35 +1049,23 @@
   </Division>
   <Division id="Farrer">
     <Candidate Rank="3" Incumbent="N">
-      <Name>ELI DAVERN</Name>
-      <Party>Greens</Party>
+      <Name>DEAN MOSS</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>SUSSAN LEY</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>AMANDA DUNCAN-STRELEC</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>PAUL BRITTON</Name>
-      <Party>Shooters Fishers and Farmers</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>IAN CHRISTOPHER ROWORTH</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
       <Name>RICHARD FRANCIS</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>JULIE RAMOS</Name>
+      <Name>LEE WEBB</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>DARREN CAMERON</Name>
+      <Name>JUDENE ANDREWS</Name>
       <Party>Labor</Party>
     </Candidate>
   </Division>
@@ -1639,11 +1075,11 @@
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>NATHAN KUSTER</Name>
+      <Name>GEORGE GREGAN</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>TIMOTHY ELTON</Name>
+      <Name>TYRONE LAWRENCE</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
@@ -1651,12 +1087,8 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>NATASA SOJIC</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>GUY JAKEMAN</Name>
-      <Party>Liberal Democratic Party</Party>
+      <Name>ANDREW BRADDOCK</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Fisher">
@@ -1670,61 +1102,37 @@
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>ANDREW WALLACE</Name>
-      <Party>Liberal National</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>VICKIE BRECKENRIDGE</Name>
-      <Party>Animal Justice</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>RENAY WELLS</Name>
-      <Party>Greens</Party>
+      <Name>TRACY BURTON</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>TONY MOORE</Name>
+      <Name>DONALD BARTON</Name>
       <Party>United Australia Party</Party>
     </Candidate>
   </Division>
   <Division id="Flinders">
     <Candidate Incumbent="N">
-      <Name>ALEX VAN DER END</Name>
+      <Name>DARREN INGRAM</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>CYNDI MARR</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CHRYSTEN ABRAHAM</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="N">
-      <Name>ZOE McKENZIE</Name>
+      <Name>HAROLD HOLT</Name>
       <Party>Liberal</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JEFFERSON EARL</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>COLIN LANE</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SARAH RUSSELL</Name>
-      <Party>Independent</Party>
+      <Name>NATHAN LESSLIE</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>SURBHI SNOWBALL</Name>
       <Party>Labor</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DESPI O'CONNOR</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>PAMELA ENGELANDER</Name>
-      <Party>Animal Justice</Party>
     </Candidate>
   </Division>
   <Division id="Flynn">
@@ -1733,46 +1141,34 @@
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>PAUL BAMBRICK</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CARLA SVENDSEN</Name>
-      <Party>Great Australian Party</Party>
+      <Name>JAIBEN BAKER</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>SHARON LOHSE</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>DUNCAN SCOTT</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>TANYA WIEDEN</Name>
+      <Name>SHAUN MASSEY</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="N">
       <Name>COLIN BOYCE</Name>
-      <Party>Liberal National</Party>
+      <Party>Liberal</Party>
     </Candidate>
   </Division>
   <Division id="Forde">
     <Candidate Incumbent="N">
-      <Name>ROXANNE O'HALLORAN</Name>
+      <Name>ERNESTO WOOD</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>BERT VAN MANEN</Name>
-      <Party>Liberal National</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>JORDAN HALL</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SAMUEL HOLLAND</Name>
-      <Party>TNL</Party>
+      <Name>KIRSTY PETERSON</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>ROWAN HOLZBERGER</Name>
@@ -1782,43 +1178,15 @@
       <Name>SESCHELLE MATTERSON</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>TOBBY SUTHERLAND</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CHRISTOPHER GREAVES</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>LINDA McCARTHY</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
   </Division>
   <Division id="Forrest">
     <Candidate Incumbent="N">
-      <Name>HELEN ALLAN</Name>
+      <Name>JOANNE FOWLER</Name>
       <Party>United Australia Party</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>PAUL MARKHAM</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MAILEE DUNN</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>CHRISTINE TERRANTROY</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>GREG STEPHENS</Name>
-      <Party>Western Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>TRACY AITKEN</Name>
-      <Party>Great Australian Party</Party>
+      <Name>NERILEE BOSHAMMER</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>BRONWEN ENGLISH</Name>
@@ -1835,23 +1203,15 @@
   </Division>
   <Division id="Fowler">
     <Candidate Rank="1" Incumbent="N">
-      <Name>KRISTINA KENEALLY</Name>
+      <Name>TU LE</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>LELA PANICH</Name>
       <Party>United Australia Party</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>PETER RUNGE</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Rank="2" Incumbent="N">
-      <Name>DAI LE</Name>
-      <Party>Independent</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>COURTNEY NGUYEN</Name>
+      <Name>JAY EDWARDS</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
@@ -1859,97 +1219,61 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>AVERY HOWARD</Name>
-      <Party>Greens</Party>
+      <Name>SEAMUS LEE</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Franklin">
-    <Candidate Incumbent="N">
-      <Name>ANNA BATEMAN</Name>
-      <Party>The Local Party of Australia</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>JULIE COLLINS</Name>
+      <Name>REBECCA WHITE</Name>
       <Party>Labor</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DUANE PITT</Name>
-      <Party>Liberal Democratic Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>STEVE HINDLEY</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>LISA MATTHEWS</Name>
+      <Name>HENRY SHERMAN</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CHRIS HANNAN</Name>
-      <Party>Jacqui Lambie Network</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>KRISTY JOHNSON</Name>
       <Party>Liberal</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>KATRINA LOVE</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>JADE DARKO</Name>
-      <Party>Greens</Party>
+      <Name>KIT DARKO</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Fraser">
     <Candidate Rank="2" Incumbent="N">
-      <Name>DAVID WOOD</Name>
+      <Name>FRANCO COZZO</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>DANIEL MULINO</Name>
+      <Name>DENNIS FOX</Name>
       <Party>Labor</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ANTHONY CURSIO</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>BELLA MITCHELL-SEARS</Name>
-      <Party>Greens</Party>
+      <Name>REBECCA SCORGIE</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>KEITH RAYMOND</Name>
+      <Name>LOREN HOLT</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>SABINE DE PYLE</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CATHERINE ROBERTSON</Name>
-      <Party>Victorian Socialists</Party>
-    </Candidate>
   </Division>
   <Division id="Fremantle">
-    <Candidate Incumbent="N">
-      <Name>BEN TILBURY</Name>
-      <Party>Great Australian Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SAM WAINWRIGHT</Name>
-      <Party>Socialist Alliance</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CATHY GAVRANICH</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>JOSH WILSON</Name>
+      <Name>CARMEN LAWRENCE</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>STELLA JINMAN</Name>
+      <Name>CASEY PALMER</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
@@ -1957,16 +1281,8 @@
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>FELICITY TOWNSEND</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>YAN LOH</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JANETIA KNAPP</Name>
-      <Party>Western Australia Party</Party>
+      <Name>JESSE HUTCHINSON</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>WILLIAM EDGAR</Name>
@@ -1975,28 +1291,16 @@
   </Division>
   <Division id="Gellibrand">
     <Candidate Rank="3" Incumbent="N">
-      <Name>SUZETTE RODOREDA</Name>
-      <Party>Greens</Party>
+      <Name>BERNADETTE THOMAS</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>MONICA CLARK</Name>
+      <Name>THOMAS HUGHES</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>SHARYNN MOORS</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ANDREW CHARLES</Name>
-      <Party>Victorian Socialists</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ABRAHAM ISAC</Name>
+      <Name>LOUIS GRAHAM</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CHLOE GLASSON</Name>
-      <Party>Liberal Democratic Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>ROB BRADDOCK</Name>
@@ -2009,28 +1313,20 @@
   </Division>
   <Division id="Gilmore">
     <Candidate Rank="2" Incumbent="N">
-      <Name>ANDREW CONSTANCE</Name>
+      <Name>CRAIG PALMER</Name>
       <Party>Liberal</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>NINA DIGIGLIO</Name>
-      <Party>Independent</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>CARMEL McCALLUM</Name>
-      <Party>Greens</Party>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>JORDAN MALONEY</Name>
+      <Name>ORLANDO ROBERSON</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>JERREMY EID</Name>
       <Party>One Nation</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ADRIAN FADINI</Name>
-      <Party>Liberal Democratic Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>FIONA PHILLIPS</Name>
@@ -2044,60 +1340,40 @@
     </Candidate>
     <Candidate Rank="1" Incumbent="N">
       <Name>DARREN CHESTER</Name>
-      <Party>Nationals</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>GREGORY FORSTER</Name>
+      <Name>ERNEST WEAVER</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>MARJORIE THORPE</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JIM McDONALD</Name>
-      <Party>Liberal Democratic Party</Party>
+      <Name>DEB FOSKEY</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>JANNETTE LANGLEY</Name>
+      <Name>HELEN HAINES</Name>
       <Party>Labor</Party>
     </Candidate>
   </Division>
   <Division id="Goldstein">
     <Candidate Incumbent="N">
-      <Name>ALANA GALLI-McROSTIE</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ELLIE JEAN SULLIVAN</Name>
-      <Party>Derryn Hinch's Justice Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>BRANDON HOULT</Name>
-      <Party>Sustainable Australia</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DAVID SEGAL</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Rank="2" Incumbent="N">
-      <Name>ZOE DANIEL</Name>
-      <Party>Independent</Party>
+      <Name>SUE PENNICUIK</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>LISA STARK</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>CATHERINE REYNOLDS</Name>
+      <Name>CAMILE TODD</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>TIM WILSON</Name>
+      <Name>KELLY O'DWYER</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>MARTYN ABBOTT</Name>
+      <Name>DANIEL POLLOCK</Name>
       <Party>Labor</Party>
     </Candidate>
   </Division>
@@ -2107,32 +1383,16 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>PRAISE MORRIS</Name>
-      <Party>Greens</Party>
+      <Name>HAKIRAT SINGH</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>MICHAEL VIRAG</Name>
+      <Name>MOSES BROOKS</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>BELLE GIBSON</Name>
-      <Party>Victorian Socialists</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>BRENDAN O'CONNOR</Name>
       <Party>Labor</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>STEVEN J LONCAR</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>TONY DOBRAN</Name>
-      <Party>Great Australian Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>PAUL LASSIG</Name>
-      <Party>Australian Federation Party</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>JOHN FLETCHER</Name>
@@ -2141,11 +1401,11 @@
   </Division>
   <Division id="Grayndler">
     <Candidate Incumbent="N">
-      <Name>DAVID SMITH</Name>
+      <Name>CLINT MOORE</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>ANTHONY ALBANESE</Name>
+      <Name>CARMEL TEBBUTT</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
@@ -2153,46 +1413,22 @@
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>JAMES HAGGERTY</Name>
-      <Party>Fusion</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SARINA KILHAM</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
       <Name>PAUL HENSELIN</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MICHAEL DELLO-IACOVO</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>RACHAEL JACOBS</Name>
-      <Party>Greens</Party>
+      <Name>JIM CASEY</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Greenway">
     <Candidate Incumbent="N">
-      <Name>MARK REX</Name>
+      <Name>LUTHER CAMPBELL</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>MICHELLE ROWLAND</Name>
       <Party>Labor</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ADAM KACHWALLA</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>RICCARDO BOSI</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>LOVE PREET SINGH NANDA</Name>
-      <Party>Independent</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>RICK TURNER</Name>
@@ -2204,25 +1440,17 @@
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>DAMIEN ATKINS</Name>
-      <Party>Greens</Party>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Grey">
     <Candidate Incumbent="N">
-      <Name>TIM WHITE</Name>
-      <Party>Greens</Party>
+      <Name>CANDACE CHAMPION</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>SUZANNE WATERS</Name>
+      <Name>SAMMY MORAN</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>PETER MILLER</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Rank="2" Incumbent="N">
-      <Name>LIZ HABERMANN</Name>
-      <Party>Independent</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>JULIE WATSON</Name>
@@ -2232,16 +1460,8 @@
       <Name>KERRY WHITE</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>TRACEY DEMPSEY</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>RICHARD CARMODY</Name>
-      <Party>Independent</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>ROWAN RAMSEY</Name>
+      <Name>DAN VAN HOLST PELLEKAAN</Name>
       <Party>Liberal</Party>
     </Candidate>
   </Division>
@@ -2252,71 +1472,51 @@
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>MAX CHANDLER-MATHER</Name>
-      <Party>Greens</Party>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>TERRI BUTLER</Name>
+      <Name>BOB HAWKE</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>ROBERT McMULLAN</Name>
+      <Name>ZACHARY MILES</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>OLIVIA ROBERTS</Name>
-      <Party>Liberal National</Party>
+      <Name>ANGIE BELL</Name>
+      <Party>Liberal</Party>
     </Candidate>
   </Division>
   <Division id="Groom">
-    <Candidate Incumbent="N">
-      <Name>RYAN OTTO</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>GRANT ABRAHAM</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>MICKEY BERRY</Name>
-      <Party>Greens</Party>
+      <Name>ALYCE NELLIGAN</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>MELISSA BANNISTER</Name>
+      <Name>CLAUDE CARSON</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>KIRSTIE SMOLENSKI</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SUZIE HOLT</Name>
-      <Party>Independent</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>GARTH HAMILTON</Name>
-      <Party>Liberal National</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>GEN ALLPASS</Name>
+      <Name>PETER BEATTIE</Name>
       <Party>Labor</Party>
     </Candidate>
   </Division>
   <Division id="Hasluck">
-    <Candidate Incumbent="N">
-      <Name>JEANENE WILLIAMS</Name>
-      <Party>Independent</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>BRENDAN STURCKE</Name>
-      <Party>Greens</Party>
+      <Name>LEE-ANN MILES</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>WILL SCOTT</Name>
+      <Name>TOBY LAMBERT</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>PAULINE CLARK</Name>
-      <Party>Western Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>IAN MONCK</Name>
@@ -2326,105 +1526,49 @@
       <Name>KEN WYATT</Name>
       <Party>Liberal</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MARIJANNA SMITH</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>TANIA LAWRENCE</Name>
       <Party>Labor</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>STEVEN McCREANOR</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
   </Division>
   <Division id="Hawke">
-    <Candidate Incumbent="N">
-      <Name>MICHAEL WILLIAMS</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MICHAEL LACEY</Name>
-      <Party>Great Australian Party</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="N">
       <Name>SAM RAE</Name>
       <Party>Labor</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JARROD BINGHAM</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MAX MARTUCCI</Name>
-      <Party>TNL</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>ENAMUL HAQUE</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>LYNDA WHEELOCK</Name>
-      <Party>Greens</Party>
+      <Name>MAX KENWORTH</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>NICK SUDUK</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>GLENN VESSEY</Name>
-      <Party>Australian Citizens Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JACK HYNES</Name>
-      <Party>Victorian Socialists</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ANDREW CUTHBERTSON</Name>
+      <Name>ROBYN JACKSON</Name>
       <Party>United Australia Party</Party>
     </Candidate>
   </Division>
   <Division id="Herbert">
-    <Candidate Incumbent="N">
-      <Name>TONI McMAHON</Name>
-      <Party>Informed Medical Options</Party>
-    </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>JOHN RING</Name>
+      <Name>CATHY O'TOOLE</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>SCOTT HUMPHREYS</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>LARNA BALLARD</Name>
-      <Party>Great Australian Party</Party>
+      <Name>SAM BLACKADDER</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>PHILLIP THOMPSON</Name>
-      <Party>Liberal National</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>ANGELA EGAN</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>STEVEN CLARE</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>GREG DOWLING</Name>
+      <Name>VERA HOLLOWAY</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CLYNTON HAWKS</Name>
-      <Party>Katter's Australian Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>TONI McCORMACK</Name>
-      <Party>Animal Justice</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>DIANE PEPE</Name>
@@ -2433,45 +1577,29 @@
   </Division>
   <Division id="Higgins">
     <Candidate Incumbent="N">
-      <Name>MATTHEW FORD</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>INGRAM SPENCER</Name>
+      <Name>BRITTANY COOPER</Name>
       <Party>United Australia Party</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ALICIA WALKER</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>KATIE ALLEN</Name>
+      <Name>PETER COSTELLO</Name>
       <Party>Liberal</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ANDREW JOHNSON</Name>
-      <Party>Reason Australia</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>MICHELLE ANANDA-RAJAH</Name>
       <Party>Labor</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SUZIE MENOUDAKIS</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>SONYA SEMMENS</Name>
-      <Party>Greens</Party>
+      <Name>JASON BALL</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Hindmarsh">
     <Candidate Rank="3" Incumbent="N">
-      <Name>PATRICK O'SULLIVAN</Name>
-      <Party>Greens</Party>
+      <Name>MATT FARRELL</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>ANNA FINIZIO</Name>
+      <Name>CHRISTINE GALLUS</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
@@ -2479,33 +1607,21 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>MARK BUTLER</Name>
+      <Name>SUSAN CLOSE</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>DIANNE RICHARDS</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>GEORGE MELISSOURGOS</Name>
+      <Name>TOMMY LAMB</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JAMIE WITT</Name>
-      <Party>Great Australian Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MATT PASTRO</Name>
-      <Party>Animal Justice</Party>
     </Candidate>
   </Division>
   <Division id="Hinkler">
     <Candidate Rank="1" Incumbent="Y">
       <Name>KEITH PITT</Name>
-      <Party>Liberal National</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>KRISTIE NASH</Name>
+      <Name>FELIPE SHERMAN</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
@@ -2518,41 +1634,25 @@
     </Candidate>
     <Candidate Incumbent="N">
       <Name>ANDREW McLEAN</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Rank="3" Incumbent="N">
-      <Name>JACK DEMPSEY</Name>
-      <Party>Independent</Party>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Holt">
-    <Candidate Incumbent="N">
-      <Name>RAVI RAGUPATHY</Name>
-      <Party>Independent</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>CASSANDRA FERNANDO</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>GERARDINE HANSEN</Name>
+      <Name>SHAWNA SANDERS</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>SANDY AMBARD</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>GREGORY SALDANA</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MATTHEW NUNEZ-SILVA</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>SUJIT MATHEW</Name>
-      <Party>Greens</Party>
+      <Name>JESS WHEELOCK</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>RANJ PERERA</Name>
@@ -2560,20 +1660,16 @@
     </Candidate>
   </Division>
   <Division id="Hotham">
-    <Candidate Incumbent="N">
-      <Name>EDWARD SOK</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>CLARE O'NEIL</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>LOUISA WILLOUGHBY</Name>
-      <Party>Greens</Party>
+      <Name>JESS GONSALVEZ</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>BRUCE RIDGWAY</Name>
+      <Name>FREDERICK RUIZ</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
@@ -2581,131 +1677,79 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>SAVITRI BEVINAKOPPA</Name>
+      <Name>JUDITH TROETH</Name>
       <Party>Liberal</Party>
     </Candidate>
   </Division>
   <Division id="Hughes">
     <Candidate Rank="2" Incumbent="N">
-      <Name>JENNY WARE</Name>
+      <Name>MELANIE GIBBONS</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>PETE THOMPSON</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>GEORGIA STEELE</Name>
-      <Party>Independent</Party>
+      <Name>MITCHELL SHAKESPEARE</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>CRAIG KELLY</Name>
+      <Name>DARNELL BALDWIN</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>NARELLE SEYMOUR</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>LINDA SEYMOUR</Name>
-      <Party>Independent</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>RILEY CAMPBELL</Name>
+      <Name>ROBERT TICKNER</Name>
       <Party>Labor</Party>
     </Candidate>
   </Division>
   <Division id="Hume">
     <Candidate Rank="2" Incumbent="N">
-      <Name>GREG BAINES</Name>
+      <Name>AOIFE CHAMPION</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>GARRY DOLLIN</Name>
+      <Name>ISMAEL CARROLL</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>REBECCA THOMPSON</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SHENELI DONA</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ROSS SELLER</Name>
-      <Party>Shooters Fishers and Farmers</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>KAREN STEWART</Name>
-      <Party>Greens</Party>
+      <Name>DAVID POWELL</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>ANGUS TAYLOR</Name>
       <Party>Liberal</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JOAQUIM DE LIMA</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>PENNY ACKERY</Name>
-      <Party>Independent</Party>
-    </Candidate>
   </Division>
   <Division id="Hunter">
     <Candidate Incumbent="N">
       <Name>JANET MURRAY</Name>
-      <Party>Greens</Party>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="N">
-      <Name>DAN REPACHOLI</Name>
+      <Name>JOEL FITZGIBBON</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>VICTORIA DAVIES</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>STUART BONDS</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CATHY TOWNSEND</Name>
-      <Party>Informed Medical Options</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>GEOFF PASSFIELD</Name>
+      <Name>MATTIE BURKE</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>JAMES THOMSON</Name>
-      <Party>Nationals</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>DALE McNAMARA</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SCOTT FULVIO LARUFFA</Name>
-      <Party>Independent</Party>
-    </Candidate>
   </Division>
   <Division id="Indi">
     <Candidate Incumbent="N">
-      <Name>ANGEL ALEKSOV</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
-    <Candidate Rank="1" Incumbent="Y">
-      <Name>HELEN HAINES</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>LACHLAN O'CONNELL</Name>
-      <Party>Derryn Hinch's Justice Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>STEPHEN WILLIAMS</Name>
+      <Name>DANIEL CHAVEZ</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
@@ -2713,23 +1757,15 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>BENJAMIN GILBERT</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>LIZ FISHER</Name>
-      <Party>Nationals</Party>
+      <Name>HELEN ROBINSON</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>NADIA DAVID</Name>
       <Party>Labor</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JULIAN FIDGE</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>ROSS LYMAN</Name>
+      <Name>CATHY MCGOWAN</Name>
       <Party>Liberal</Party>
     </Candidate>
   </Division>
@@ -2742,24 +1778,16 @@
       <Name>MARK DREYFUS</Name>
       <Party>Labor</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SARAH O'DONNELL</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>ROBBIE BEATON</Name>
+      <Name>CINDY McLEISH</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>ALEX BRESKIN</Name>
-      <Party>Greens</Party>
+      <Name>KIM SAMIOTIS</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>ALIX LIVINGSTONE</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SCOTT McCAMISH</Name>
+      <Name>CANDACE MEYER</Name>
       <Party>United Australia Party</Party>
     </Candidate>
   </Division>
@@ -2769,71 +1797,51 @@
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>BRENDAN PALMARINI</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ALLISON ZELINKA</Name>
+      <Name>JAKE OWENS</Name>
       <Party>United Australia Party</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ZAHRA MUSTAF</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MAYA TESA</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>LIZ CHASE</Name>
-      <Party>Greens</Party>
+      <Name>PAUL KENNEDY</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>JOHN BOOKER</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>SAHIL TOMAR</Name>
+      <Name>MICHAEL O'BRIEN TOMAR</Name>
       <Party>Liberal</Party>
     </Candidate>
   </Division>
   <Division id="Kennedy">
-    <Candidate Rank="1" Incumbent="Y">
-      <Name>BOB KATTER</Name>
-      <Party>Katter's Australian Party</Party>
-    </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>BRYCE MACDONALD</Name>
-      <Party>Liberal National</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>JEN SACKLEY</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JENNIFER COX</Name>
-      <Party>Greens</Party>
+      <Name>LYLE BURNESS</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>JASON BRANDON</Name>
+      <Name>PHIL BARWICK</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>PETER CAMPION</Name>
+      <Name>IRVIN PATTERSON</Name>
       <Party>United Australia Party</Party>
     </Candidate>
   </Division>
   <Division id="Kingsford Smith">
     <Candidate Rank="3" Incumbent="N">
-      <Name>STUART DAVIS</Name>
-      <Party>Greens</Party>
+      <Name>JAMES CRUZ</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>DARRIN MARR</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>ANTHONY TAWAF</Name>
+      <Name>GREGG WEST</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
@@ -2841,21 +1849,17 @@
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>MATT THISTLETHWAITE</Name>
+      <Name>COOKINITE MONSTERTON</Name>
       <Party>Labor</Party>
     </Candidate>
   </Division>
   <Division id="Kingston">
     <Candidate Incumbent="N">
-      <Name>ROB DE JONGE</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
       <Name>ROBERT GODFREY-BROWN</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>RUSSELL JACKSON</Name>
+      <Name>PAULETTE ROBERTSON</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
@@ -2863,67 +1867,39 @@
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>JOHN PHOTAKIS</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SAM ENRIGHT</Name>
-      <Party>Australian Federation Party</Party>
+      <Name>NIKKI MORTIER</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>KATHLEEN BOURNE</Name>
+      <Name>SUSAN JEANES</Name>
       <Party>Liberal</Party>
     </Candidate>
   </Division>
   <Division id="Kooyong">
-    <Candidate Rank="2" Incumbent="N">
-      <Name>MONIQUE RYAN</Name>
-      <Party>Independent</Party>
-    </Candidate>
     <Candidate Incumbent="N">
-      <Name>SCOTT HARDIMAN</Name>
+      <Name>LAURENCE CURRY</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ALEXANDRA THOM</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MICHELE DALE</Name>
-      <Party>Derryn Hinch's Justice Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>JOSH COYNE</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>WILL ANDERSON</Name>
-      <Party>Independent</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>JOSH FRYDENBERG</Name>
+      <Name>ANDREW PEACOCK</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>PETER LYNCH</Name>
       <Party>Labor</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>RACHAEL NEHMER</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>PIERS MITCHEM</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DAVID CONNOLLY</Name>
-      <Party>Australian Values Party</Party>
+      <Name>JULIAN BURNSIDE</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="La Trobe">
     <Candidate Rank="1" Incumbent="Y">
-      <Name>JASON WOOD</Name>
+      <Name>BRIDGET VALENCE</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
@@ -2931,50 +1907,25 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>MICHAEL SCHILLING</Name>
-      <Party>Greens</Party>
+      <Name>JAY DESSI</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>MERRYN MOTT</Name>
+      <Name>TRACY NICHOLS</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>ABHIMANYU KUMAR</Name>
       <Party>Labor</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>REBECCA SKINNER</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MICHAEL ABELMAN</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>HELEN JEGES</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
   </Division>
   <Division id="Lalor">
     <Candidate Incumbent="N">
-      <Name>AIJAZ MOINUDDIN</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CLAUDIO URIBE</Name>
-      <Party>Victorian Socialists</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JUANITA PATERSON</Name>
+      <Name>REGINA LAWSON</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>JOANNE RYAN</Name>
       <Party>Labor</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>PATRIZIA BARCATTA</Name>
-      <Party>Liberal Democratic Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>PETER MALLIAROS</Name>
@@ -2985,8 +1936,8 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>JACK BODDEKE</Name>
-      <Party>Greens</Party>
+      <Name>AMY GREGOROVICH</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>RAVI GADDIPATI</Name>
@@ -2994,45 +1945,21 @@
     </Candidate>
   </Division>
   <Division id="Leichhardt">
-    <Candidate Incumbent="N">
-      <Name>PAT O'SHANE</Name>
-      <Party>Socialist Alliance</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SILVIA MOGOROVICH</Name>
-      <Party>Informed Medical Options</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>WARREN ENTSCH</Name>
-      <Party>Liberal National</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ROD JENSEN</Name>
-      <Party>Katter's Australian Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ADAM CROPP</Name>
-      <Party>Fusion</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SUSANNE BAYLY</Name>
-      <Party>Animal Justice</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>PHILLIP MUSUMECI</Name>
-      <Party>Greens</Party>
+      <Name>GARY OLIVER</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>DANIEL HANNAGAN</Name>
+      <Name>TONYA CALDWELL</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>GEENA COURT</Name>
       <Party>One Nation</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>PAUL ROE</Name>
-      <Party>Australian Federation Party</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>ELIDA FAITH</Name>
@@ -3041,27 +1968,19 @@
   </Division>
   <Division id="Lilley">
     <Candidate Incumbent="N">
-      <Name>GERARDINE HOOGLAND</Name>
+      <Name>BIANCA ARNOLD</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>MELISSA STEVENS</Name>
-      <Party>Greens</Party>
+      <Name>JOHN MEYER</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>VIVIAN LOBO</Name>
-      <Party>Liberal National</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>STEPHEN McGRATH</Name>
-      <Party>Informed Medical Options</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DANIEL FRESHWATER</Name>
-      <Party>Liberal Democratic Party</Party>
+      <Name>AMANDA CAMM</Name>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>ANIKA WELLS</Name>
+      <Name>WAYNE SWAN</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
@@ -3075,66 +1994,42 @@
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>PIETER MORSSINK</Name>
-      <Party>Greens</Party>
+      <Name>NICK BEST</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>MAX JAGO</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>JOSEPH O'CONNOR</Name>
+      <Name>JOE COPELAND</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>MELISSA McINTOSH</Name>
       <Party>Liberal</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>GARETH McCLURE</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>REBEKAH RAY</Name>
-      <Party>Informed Medical Options</Party>
-    </Candidate>
   </Division>
   <Division id="Lingiari">
     <Candidate Rank="2" Incumbent="N">
       <Name>DAMIEN RYAN</Name>
-      <Party>Country Liberals</Party>
+      <Party>Liberals</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>BLAIR McFARLAND</Name>
-      <Party>Greens</Party>
+      <Name>GEORGE HANNA</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>THONG SUM LEE</Name>
-      <Party>Australian Citizens Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ALLAN McLEOD</Name>
+      <Name>COURTNEY DELGADO</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="N">
-      <Name>MARION SCRYMGOUR</Name>
+      <Name>MALARNDIRRI McCARTHY</Name>
       <Party>Labor</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MICHAEL GRAVENER</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>IMELDA AGARS</Name>
-      <Party>Independent</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>TIM GALLARD</Name>
       <Party>One Nation</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>GEORGE KASPAREK</Name>
-      <Party>Liberal Democratic Party</Party>
     </Candidate>
   </Division>
   <Division id="Longman">
@@ -3143,66 +2038,42 @@
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>STEFANIE SUTHERLAND</Name>
+      <Name>VICTORIA LEE</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>NIGEL DAVID QUINLAN</Name>
-      <Party>Legalise Cannabis Australia</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>EARL SNIJDERS</Name>
-      <Party>Greens</Party>
+      <Name>SIMON DEJUN</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>ROSS TAYLOR</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JENS LIPPONER</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>PAULA GILBARD</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>TERRY YOUNG</Name>
-      <Party>Liberal National</Party>
+      <Party>Liberal</Party>
     </Candidate>
   </Division>
   <Division id="Lyne">
     <Candidate Incumbent="N">
-      <Name>JOANNE PEARCE</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JOEL PUTLAND</Name>
+      <Name>LORENE PALMER</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>DAVID GILLESPIE</Name>
-      <Party>Nationals</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>ALEX SIMPSON</Name>
+      <Name>PHIL COSTA</Name>
       <Party>Labor</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>STEVE ATTKINS</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MARK HORNSHAW</Name>
-      <Party>Liberal Democratic Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>JOSEPHINE CASHMAN</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>KARL ATTENBOROUGH</Name>
-      <Party>Greens</Party>
+      <Name>STUART WATSON</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Lyons">
@@ -3210,39 +2081,27 @@
       <Name>SUSIE BOWER</Name>
       <Party>Liberal</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>RHYS GRIFFITHS</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>BRIAN MITCHELL</Name>
+      <Name>JIM BACON</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>ANNA GRALTON</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JASON EVANS</Name>
+      <Name>PEARL RICHARDSON</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>TROY PFITZNER</Name>
-      <Party>Jacqui Lambie Network</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>EMMA JANE GOYNE</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>LIZ JOHNSTONE</Name>
-      <Party>Greens</Party>
+      <Name>GARY WHISSON</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Macarthur">
     <Candidate Incumbent="N">
       <Name>JAYDEN RIVERA</Name>
-      <Party>Greens</Party>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>BINOD PAUDEL</Name>
@@ -3253,12 +2112,8 @@
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>ROSA SICARI</Name>
+      <Name>AGELINA ROMERO</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SCOTT KORMAN</Name>
-      <Party>Liberal Democratic Party</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>ADAM ZAHRA</Name>
@@ -3267,19 +2122,11 @@
   </Division>
   <Division id="Mackellar">
     <Candidate Incumbent="N">
-      <Name>BARRY STEELE</Name>
-      <Party>TNL</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
       <Name>DARREN DICKSON</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Rank="2" Incumbent="N">
-      <Name>SOPHIE SCAMPS</Name>
-      <Party>Independent</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>PAULA GOODMAN</Name>
+      <Name>SOPHIE SCAMPS</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
@@ -3287,45 +2134,33 @@
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>CHRISTOPHER BALL</Name>
+      <Name>ASHLEY BENNET</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>ETHAN HRNJAK</Name>
-      <Party>Greens</Party>
+      <Name>PRU WAWN</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Macnamara">
-    <Candidate Incumbent="N">
-      <Name>JOHN B MYERS</Name>
-      <Party>Independent</Party>
-    </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>COLLEEN HARKIN</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>JOSH BURNS</Name>
+      <Name>CRAIG MCKEOWN</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>DEBERA ANNE</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ROB McCATHIE</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>BEN SCHULTZ</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>STEPH HODGINS-MAY</Name>
-      <Party>Greens</Party>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>JANE HICKEY</Name>
+      <Name>JULIAN REYES</Name>
       <Party>United Australia Party</Party>
     </Candidate>
   </Division>
@@ -3335,28 +2170,16 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>SUSAN TEMPLEMAN</Name>
+      <Name>TRISH DOYLE</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>NICOLE EVANS</Name>
+      <Name>DARRYL ANDREWS</Name>
       <Party>United Australia Party</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JAMES JACKSON</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>GREG KEIGHTLEY</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>TONY HICKEY</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MICHELLE PALMER</Name>
-      <Party>Informed Medical Options</Party>
+      <Name>KINGSLEY LIU</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>SARAH RICHARDS</Name>
@@ -3364,16 +2187,12 @@
     </Candidate>
   </Division>
   <Division id="Makin">
-    <Candidate Incumbent="N">
-      <Name>ABRAM NICHOLAS LAZOOTIN</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>TONY ZAPPIA</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>KIMBERLEY DROZDOFF</Name>
+      <Name>HEIDE HARDY</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
@@ -3381,41 +2200,29 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>ALAN HOWARD-JONES</Name>
+      <Name>TRISH DRAPER</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>EMMA MUSTACA</Name>
-      <Party>Greens</Party>
+      <Name>STEPHANIE STEWART</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Mallee">
     <Candidate Rank="1" Incumbent="N">
-      <Name>ANNE WEBSTER</Name>
-      <Party>Nationals</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SOPHIE BALDWIN</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CLAUDIA HAENEL</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CHRIS LAHY</Name>
-      <Party>Australian Citizens Party</Party>
+      <Name>LOUISE STALEY</Name>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>CAROLE HART</Name>
+      <Name>MAREE EDWARDS</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>SAM McCOLL</Name>
-      <Party>Greens</Party>
+      <Name>NICOLE ROWAN</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>STUART KING</Name>
+      <Name>HUGH PHILLIPS</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
@@ -3425,45 +2232,29 @@
   </Division>
   <Division id="Maranoa">
     <Candidate Rank="1" Incumbent="Y">
-      <Name>DAVID LITTLEPROUD</Name>
-      <Party>Liberal National</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MALCOLM J RICHARDSON</Name>
-      <Party>Shooters Fishers and Farmers</Party>
+      <Name>NIGEL SCULLION</Name>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>DAVE KERRIGAN</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>NATHAN McDONALD</Name>
+      <Name>WALLACE LANE</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>ELLISA PARKER</Name>
-      <Party>Greens</Party>
+      <Name>EMMELINE CHIDLEY</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>MIKE KELLY</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>BRETT TUNBRIDGE</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
   </Division>
   <Division id="Maribyrnong">
-    <Candidate Incumbent="N">
-      <Name>MARK HOBART</Name>
-      <Party>Great Australian Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DANIEL NAIR DADICH</Name>
-      <Party>Victorian Socialists</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>BILL SHORTEN</Name>
+      <Name>MOSS CASS</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
@@ -3471,24 +2262,16 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>DARREN BESANKO</Name>
+      <Name>IRA HOWELL</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>MIRA D'SILVA</Name>
+      <Name>MONICA CLARK</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>RHONDA PRYOR</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ALEXANDER ANSALONE</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CAMERON SMITH</Name>
-      <Party>Liberal Democratic Party</Party>
+      <Name>BILL SHORTEN</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Mayo">
@@ -3497,61 +2280,37 @@
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>PADMA CHAPLIN</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JACOB VAN RAALTE</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Rank="1" Incumbent="Y">
-      <Name>REBEKHA SHARKIE</Name>
-      <Party>Centre Alliance</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>GREG ELLIOTT</Name>
-      <Party>Greens</Party>
+      <Name>ANNE BOURNE</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>ALLISON BLUCK</Name>
+      <Name>GEORGINA DOWNER</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>SAMANTHA McGRAIL</Name>
+      <Name>KRISTY FERGUSON</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>TONYA SCOTT</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MARK NEUGEBAUER</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
   </Division>
   <Division id="McEwen">
     <Candidate Rank="3" Incumbent="N">
       <Name>NEIL BARKER</Name>
-      <Party>Greens</Party>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>PAUL McRAE</Name>
+      <Name>SABRINA BURTON</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CHRISTOPHER NEIL</Name>
-      <Party>Australian Federation Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>CHRIS BRADBURY</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JOHN HERRON</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>RICHARD WELCH</Name>
+      <Name>SHARMAN STONE</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
@@ -3565,7 +2324,7 @@
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>MARIE SALIBA</Name>
+      <Name>CRYSTAL LEWIS</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
@@ -3578,41 +2337,25 @@
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>ASTRID O'NEILL</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CAMERON SHAMSABAD</Name>
-      <Party>Liberal Democratic Party</Party>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="McPherson">
     <Candidate Rank="1" Incumbent="Y">
       <Name>KAREN ANDREWS</Name>
-      <Party>Liberal National</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>KEVIN HARGRAVES</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>GARY PEAD</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>SCOTT TURNER</Name>
-      <Party>Greens</Party>
+      <Name>ALAN QUINN</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>ANDY CULLEN</Name>
-      <Party>Australian Values Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JOSHUA BERRIGAN</Name>
+      <Name>LORENE SHERMAN</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>GLENN PYNE</Name>
-      <Party>Liberal Democratic Party</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>CARL UNGERER</Name>
@@ -3621,54 +2364,30 @@
   </Division>
   <Division id="Melbourne">
     <Candidate Incumbent="N">
-      <Name>JUSTIN BORG</Name>
+      <Name>RAYMOND RODRIGUEZ</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>KEIR PATERSON</Name>
+      <Name>LINDSAY TANNER</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>ADAM BANDT</Name>
-      <Party>Greens</Party>
+      <Name>RICHARD DI NATALE</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="Y">
       <Name>JAMES DAMCHES</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>RICHARD PEPPARD</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SCOTT ROBSON</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
       <Name>WALTER STRAGAN</Name>
       <Party>One Nation</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>BRUCE POON</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>COLLEEN BOLGER</Name>
-      <Party>Victorian Socialists</Party>
     </Candidate>
   </Division>
   <Division id="Menzies">
     <Candidate Rank="2" Incumbent="N">
       <Name>NAOMI OAKLEY</Name>
       <Party>Labor</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SANJEEV SABHLOK</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>GREG CHEESMAN</Name>
-      <Party>Liberal Democratic Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>JOHN HAYES</Name>
@@ -3679,29 +2398,25 @@
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>BILL PHEASANT</Name>
-      <Party>Greens</Party>
+      <Name>ROBERT HUMPHREYS</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>NATHAN SCAGLIONE</Name>
+      <Name>RUDY BRYAN</Name>
       <Party>United Australia Party</Party>
     </Candidate>
   </Division>
   <Division id="Mitchell">
     <Candidate Incumbent="N">
-      <Name>CLINTON MEAD</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>LINDA DANIEL</Name>
+      <Name>EILEEN CASTRO</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>MATT COX</Name>
-      <Party>Greens</Party>
+      <Name>LAWRENCE MURPHY</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>IMMANUEL SELVARAJ</Name>
+      <Name>PRUE CAR</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
@@ -3715,92 +2430,56 @@
   </Division>
   <Division id="Monash">
     <Candidate Rank="3" Incumbent="N">
-      <Name>MAT MORGAN</Name>
-      <Party>Greens</Party>
+      <Name>WILLIAM HORNSTRA</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>RUSSELL BROADBENT</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>DEB LEONARD</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
       <Name>ALLAN HICKEN</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DAVID WELSH</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>JESSICA O'DONNELL</Name>
+      <Name>SHANE BROAD</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>MEG EDWARDS</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CHRISTINE McSHANE</Name>
+      <Name>BEVERKY FRENCH</Name>
       <Party>United Australia Party</Party>
     </Candidate>
   </Division>
   <Division id="Moncrieff">
     <Candidate Rank="1" Incumbent="Y">
-      <Name>ANGIE BELL</Name>
-      <Party>Liberal National</Party>
+      <Name>MATT GRIMES</Name>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>LEEANNE SCHULTZ</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JAMES TAYLER</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SONIA BERRY-LAW</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>APRIL BROADBENT</Name>
-      <Party>Greens</Party>
+      <Name>SALLY SPAIN</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>GLEN PALMER</Name>
+      <Name>TRACEY BELL</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>DIANE DEMETRE</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>TIMOTHY CUDMORE</Name>
-      <Party>Informed Medical Options</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DIANE HAPP</Name>
+      <Name>ERNESTINE COX</Name>
       <Party>United Australia Party</Party>
     </Candidate>
   </Division>
   <Division id="Moore">
-    <Candidate Incumbent="N">
-      <Name>SUE ANDERSSON</Name>
-      <Party>Great Australian Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>PETER GUNNESS</Name>
-      <Party>Western Australia Party</Party>
-    </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>TOM FRENCH</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>MARK COOPER</Name>
-      <Party>Greens</Party>
+      <Name>DANIEL VUJCICH</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>IAN GOODENOUGH</Name>
@@ -3811,19 +2490,11 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>HELEN WATKINSON</Name>
+      <Name>MARY STEWART</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MARTIN SUTER</Name>
-      <Party>Australian Federation Party</Party>
     </Candidate>
   </Division>
   <Division id="Moreton">
-    <Candidate Incumbent="N">
-      <Name>PETER POWER</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
     <Candidate Incumbent="N">
       <Name>NEIL SWANN</Name>
       <Party>One Nation</Party>
@@ -3833,72 +2504,52 @@
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>CLAIRE GARTON</Name>
-      <Party>Greens</Party>
+      <Name>PATSY O'BRIEN</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>STEVEN HUANG</Name>
-      <Party>Liberal National</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>CHELSEA FOLLETT</Name>
+      <Name>STANLEY FIGUEROA</Name>
       <Party>United Australia Party</Party>
     </Candidate>
   </Division>
   <Division id="New England">
     <Candidate Incumbent="N">
-      <Name>PAVLO SAMIOS</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CINDY DUNCAN</Name>
+      <Name>JOAN RICE</Name>
       <Party>United Australia Party</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>NATASHA LEDGER</Name>
-      <Party>Independent</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>BARNABY JOYCE</Name>
-      <Party>Nationals</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MATT SHARPHAM</Name>
-      <Party>Independent</Party>
+      <Name>JOHN ANDERSON</Name>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>RICHARD THOMAS</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>CAROL SPARKS</Name>
-      <Party>Greens</Party>
+      <Name>JOHN MacKENZIE</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>LAURA HUGHES</Name>
+      <Name>TONY WINDSOR</Name>
       <Party>Labor</Party>
     </Candidate>
   </Division>
   <Division id="Newcastle">
-    <Candidate Incumbent="N">
-      <Name>GARTH PYWELL</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>CHARLOTTE McCABE</Name>
-      <Party>Greens</Party>
+      <Name>TONY LONERGAN</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>AMANDA COOK</Name>
+      <Name>MYRON MILLER</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>SHARON CLAYDON</Name>
       <Party>Labor</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>WILLIAM HUSSEY</Name>
-      <Party>Informed Medical Options</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>KATRINA WARK</Name>
@@ -3908,19 +2559,11 @@
       <Name>MARK WATSON</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>EMILY BROLLO</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
   </Division>
   <Division id="Nicholls">
-    <Candidate Incumbent="N">
-      <Name>TIM LAIRD</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="N">
-      <Name>SAM BIRRELL</Name>
-      <Party>Nationals</Party>
+      <Name>SAM BIRELL</Name>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>RIKKIE-LEE TYRRELL</Name>
@@ -3931,66 +2574,30 @@
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>JEFF DAVY</Name>
-      <Party>Australian Citizens Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ROBERT PETERSON</Name>
+      <Name>BRETT ARMSTRONG</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>IAN CHRISTOE</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ANDREA OTTO</Name>
-      <Party>Fusion</Party>
+      <Name>NICKEE FREDMAN</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>STEVE BROOKS</Name>
       <Party>Liberal</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ELEONOR TABONE</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
-    <Candidate Rank="3" Incumbent="N">
-      <Name>ROB PRIESTLY</Name>
-      <Party>Independent</Party>
-    </Candidate>
   </Division>
   <Division id="North Sydney">
     <Candidate Incumbent="N">
-      <Name>WILLIAM BOURKE</Name>
-      <Party>Sustainable Australia</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ROBERT NALBANDIAN</Name>
+      <Name>DEAN MANN</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>HEATHER ARMSTRONG</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>VICTOR KLINE</Name>
-      <Party>TNL</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>LESLEY KINNEY</Name>
-      <Party>Informed Medical Options</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DAJEN TINKLER</Name>
-      <Party>Liberal Democratic Party</Party>
+      <Name>DANIEL KEOGH</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>TRENT ZIMMERMAN</Name>
-      <Party>Liberal</Party>
-    </Candidate>
-    <Candidate Rank="2" Incumbent="N">
       <Name>KYLEA TINK</Name>
-      <Party>Independent</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>MICHAEL WALLS</Name>
@@ -4011,28 +2618,12 @@
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>GIZ WATSON</Name>
-      <Party>Greens</Party>
+      <Name>NELSON GILMOUR</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>ISAAC MIDDLE</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MORRIS BESSANT</Name>
-      <Party>Western Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JUSTIN MOSELEY</Name>
-      <Party>Australian Christians</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>TRACY TIRRONEN</Name>
+      <Name>SAM STEPHENS</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>BRENDEN BARBER</Name>
-      <Party>Great Australian Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>RICK WILSON</Name>
@@ -4041,16 +2632,16 @@
   </Division>
   <Division id="Oxley">
     <Candidate Incumbent="N">
-      <Name>TIMOTHY COOMBES</Name>
+      <Name>JAROD WARNER</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>ASHA WORSTELING</Name>
-      <Party>Greens</Party>
+      <Name>STEVEN PURCELL</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>KYLE McMILLEN</Name>
-      <Party>Liberal National</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>DYLAN KOZLOWSKI</Name>
@@ -4063,89 +2654,49 @@
   </Division>
   <Division id="Page">
     <Candidate Incumbent="N">
-      <Name>THOMAS SEARLES</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
       <Name>DONNA PIKE</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>KASHMIR MILLER</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>HEATHER SMITH</Name>
-      <Party>Australian Federation Party</Party>
+      <Name>DAN REID</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>PATRICK DEEGAN</Name>
+      <Name>PATRICK CONAGHAN</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>BRETT DUROUX</Name>
-      <Party>Indigenous - Aboriginal Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>IAN WILLIAMSON</Name>
+      <Name>BONNIE PATERSON</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>KEVIN HOGAN</Name>
-      <Party>Nationals</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>HANABETH LUKE</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SERGE KILLINGBECK</Name>
-      <Party>TNL</Party>
+      <Party>Liberal</Party>
     </Candidate>
   </Division>
   <Division id="Parkes">
-    <Candidate Incumbent="N">
-      <Name>DEREK HARDMAN</Name>
-      <Party>Indigenous - Aboriginal Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>PETER ROTHWELL</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
     <Candidate Incumbent="N">
       <Name>DEBORAH SWINBOURN</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>MARK COULTON</Name>
-      <Party>Nationals</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>PETRUS VAN DER STEEN</Name>
+      <Name>WOODROW BRIDGES</Name>
       <Party>United Australia Party</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>STUART HOWE</Name>
-      <Party>Independent</Party>
-    </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>JACK AYOUB</Name>
+      <Name>HAROLD WILSON</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>TRISH FRAIL</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>BENJAMIN FOX</Name>
-      <Party>Informed Medical Options</Party>
+      <Name>DAVID PAULL</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Parramatta">
-    <Candidate Incumbent="N">
-      <Name>ROHAN LAXMANALAL</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>MARIA KOVACIC</Name>
       <Party>Liberal</Party>
@@ -4155,24 +2706,16 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>LIZA TAZEWELL</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JULIAN FAYAD</Name>
+      <Name>LEO CRAWFORD</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>PHIL BRADLEY</Name>
-      <Party>Greens</Party>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="N">
       <Name>ANDREW CHARLTON</Name>
       <Party>Labor</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>STEVE CHRISTOU</Name>
-      <Party>Independent</Party>
     </Candidate>
   </Division>
   <Division id="Paterson">
@@ -4189,46 +2732,26 @@
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>ANGELA KETAS</Name>
-      <Party>Informed Medical Options</Party>
+      <Name>JAN DAVIS</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>LOUISE IHLEIN</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SONIA BAILEY</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JASON OLBOURNE</Name>
+      <Name>KRISTIN NORRIS</Name>
       <Party>United Australia Party</Party>
     </Candidate>
   </Division>
   <Division id="Pearce">
-    <Candidate Incumbent="N">
-      <Name>ROSLYN STEWART</Name>
-      <Party>Great Australian Party</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>DONNA NELSON</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DAVID MARSHALL</Name>
-      <Party>Liberal Democratic Party</Party>
+      <Name>EUGENE MARSHALL</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>TRACEY ROBERTS</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>TREVOR DALBY</Name>
+      <Name>STEPHANIE PAYNE</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JIM PAICE</Name>
-      <Party>Western Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>AARON MALLOY</Name>
@@ -4238,73 +2761,37 @@
       <Name>LINDA AITKEN</Name>
       <Party>Liberal</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>VANESSA MONTGOMERY</Name>
-      <Party>Australian Christians</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>NIGEL MARCH</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
   </Division>
   <Division id="Perth">
     <Candidate Incumbent="N">
       <Name>CAMERON BAILEY</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DEAN POWELL</Name>
-      <Party>Australian Christians</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SEAN CONNOR</Name>
-      <Party>Great Australian Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DAVE VOS</Name>
-      <Party>Western Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SARAH SZMEKURA-MOOR</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>PATRICK GORMAN</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>EVAN NICKOLS</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SONYA EBERHART</Name>
+      <Name>DOMINICK CRAWFORD</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>CAROLINE PERKS</Name>
-      <Party>Greens</Party>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>DAVID DWYER</Name>
       <Party>Liberal</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>AIDEN GYURU</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
   </Division>
   <Division id="Petrie">
     <Candidate Incumbent="N">
-      <Name>KELLY GUENOUN</Name>
+      <Name>ALLAN HARRIS</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>WILL SIMON</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ANNEKE WILSON</Name>
-      <Party>Liberal Democratic Party</Party>
+      <Name>JASON KENNEDY</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>MARCUS MITCHELL</Name>
@@ -4316,112 +2803,72 @@
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>LUKE HOWARTH</Name>
-      <Party>Liberal National</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CHRIS CICCHITTI</Name>
-      <Party>Animal Justice</Party>
+      <Party>Liberal</Party>
     </Candidate>
   </Division>
   <Division id="Rankin">
     <Candidate Rank="2" Incumbent="N">
       <Name>PAUL DARWEN</Name>
-      <Party>Liberal National</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>NEIL COTTER</Name>
-      <Party>Greens</Party>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>JEFF CRANK</Name>
+      <Name>THERESA TODD</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>GLEN COOKSON</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SUZANNE CLARKE</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>JIM CHALMERS</Name>
+      <Name>DELIAH DE SANTIS</Name>
       <Party>Labor</Party>
     </Candidate>
   </Division>
   <Division id="Reid">
     <Candidate Rank="2" Incumbent="N">
-      <Name>SALLY SITOU</Name>
+      <Name>JACK LANG</Name>
       <Party>Labor</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SAHAR KHALILI-NAGHADEH</Name>
-      <Party>Fusion</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>EDWARD WALTERS</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>NATALIE BAINI</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ANDREW CAMERON</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>FIONA MARTIN</Name>
+      <Name>CRAIG LAUNDY</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>JAMAL DAOUD</Name>
+      <Name>CLARENCE WILLIAMS</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>CHARLES JAGO</Name>
-      <Party>Greens</Party>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Richmond">
-    <Candidate Incumbent="N">
-      <Name>TERRY SHARPLES</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>NATHAN JONES</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MONICA SHEPHERD</Name>
-      <Party>Informed Medical Options</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DAVID WARTH</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>GARY BIGGS</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>JUSTINE ELLIOT</Name>
+      <Name>JOE MCGIRR</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>KIMBERLY HONE</Name>
-      <Party>Nationals</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>TRACEY BELL-HENSELIN</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>MANDY NOLAN</Name>
-      <Party>Greens</Party>
+      <Name>MICHAEL LYON</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>ROBERT MARKS</Name>
+      <Name>FREDERICK CASTRO</Name>
       <Party>United Australia Party</Party>
     </Candidate>
   </Division>
@@ -4431,104 +2878,56 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>MARK JEFFRESON</Name>
+      <Name>AL GRASSBY</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>DANIEL MARTELOZZO</Name>
+      <Name>DORIS JORDAN</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>STEVE KARAITIANA</Name>
-      <Party>Shooters Fishers and Farmers</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>MICHAEL McCORMACK</Name>
-      <Party>Nationals</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>DARREN CIAVARELLA</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DEAN McCRAE</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MICHAEL ORGAN</Name>
-      <Party>Greens</Party>
+      <Name>MICHAEL BAYLES</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Robertson">
-    <Candidate Incumbent="N">
-      <Name>PATRICK MURPHY</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>GORDON REID</Name>
       <Party>Labor</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>PAUL BORTHWICK</Name>
-      <Party>Australian Citizens Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>LUCY WICKS</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>BARBARA-JANE MURRAY</Name>
+      <Name>LAURENCE COLLIER</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>BENTLEY LOGAN</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JEFF LAWSON</Name>
-      <Party>Indigenous - Aboriginal Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>BILLY O'GRADY</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>KATE MASON</Name>
-      <Party>Informed Medical Options</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ALEXANDRA HAFNER</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>SHELLY McGRATH</Name>
-      <Party>Greens</Party>
+      <Name>CATH CONNOR</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Ryan">
     <Candidate Incumbent="N">
-      <Name>KATHRYN POLLARD</Name>
+      <Name>ANDRE BREWER</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DAMIAN COORY</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JANINE REES</Name>
-      <Party>Australian Progressives</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>JOEL LOVE</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JINA LIPMAN</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>ELIZABETH WATSON-BROWN</Name>
-      <Party>Greens</Party>
+      <Name>JAKE SCHOERMER</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>PETER COSSAR</Name>
@@ -4536,56 +2935,32 @@
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>JULIAN SIMMONDS</Name>
-      <Party>Liberal National</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>AXEL DANCOISNE</Name>
-      <Party>Australian Federation Party</Party>
+      <Party>Liberal</Party>
     </Candidate>
   </Division>
   <Division id="Scullin">
     <Candidate Rank="3" Incumbent="N">
-      <Name>PATCHOULI PATERSON</Name>
-      <Party>Greens</Party>
+      <Name>CYNTHIA SMITH</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>URSULA VAN BREE</Name>
       <Party>One Nation</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ERIC KOELMEYER</Name>
-      <Party>Liberal Democratic Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>ANDREW GILES</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>YASSIN ALBARRI</Name>
+      <Name>JULIAN SHERMAN</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>VIROSH PERERA</Name>
       <Party>Liberal</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CAMERON ROWE</Name>
-      <Party>Victorian Socialists</Party>
-    </Candidate>
   </Division>
   <Division id="Shortland">
-    <Candidate Incumbent="N">
-      <Name>BREE ROBERTS</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>BASIL PAYNTER</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>BARRY REED</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>NELL McGILL</Name>
       <Party>Liberal</Party>
@@ -4595,12 +2970,12 @@
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>KENNETH MAXWELL</Name>
+      <Name>IRMA CUMMINGS</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>KIM GRIERSON</Name>
-      <Party>Greens</Party>
+      <Name>WYLIE CAMPBELL</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>QUINTIN KING</Name>
@@ -4608,13 +2983,9 @@
     </Candidate>
   </Division>
   <Division id="Solomon">
-    <Candidate Incumbent="N">
-      <Name>KYLIE BONANNI</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>AIYA GOODRICH CARTTLING</Name>
-      <Party>Greens</Party>
+      <Name>TIMOTHY PARISH</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>LUKE GOSLING</Name>
@@ -4622,33 +2993,29 @@
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>TINA MacFARLANE</Name>
-      <Party>Country Liberals</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>EMILY LOHSE</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>TAYLA SELFE</Name>
+      <Name>EMMETT TERRY</Name>
       <Party>United Australia Party</Party>
     </Candidate>
   </Division>
   <Division id="Spence">
     <Candidate Incumbent="N">
-      <Name>ALVIN WARREN</Name>
+      <Name>SALVATORE SCOTT</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="N">
-      <Name>MATT BURNELL</Name>
+      <Name>NICK CHAMPION</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>DAVID DEEX</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MATILDA BAWDEN</Name>
-      <Party>Australian Federation Party</Party>
+      <Name>DANIEL JURY</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>SHAWN LOCK</Name>
@@ -4661,44 +3028,20 @@
   </Division>
   <Division id="Sturt">
     <Candidate Rank="3" Incumbent="N">
-      <Name>KATIE McCUSKER</Name>
-      <Party>Greens</Party>
+      <Name>PAUL BOUNDY</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>SONJA BARAM</Name>
+      <Name>OLIVIA SAVVAS</Name>
       <Party>Labor</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CHRIS SCHMIDT</Name>
-      <Party>TNL</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>ALEXANDER ALLWOOD</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>ANGELA FULCO</Name>
-      <Party>Australian Progressives</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>STEPHEN GRANT</Name>
+      <Name>HILDA WATERS</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>KATHY SCARBOROUGH</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DAVID SHERLOCK</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>THOMAS McMAHON</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>INTY ELHAM</Name>
-      <Party>Drew Pavlou Democratic Alliance</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>JAMES STEVENS</Name>
@@ -4707,28 +3050,12 @@
   </Division>
   <Division id="Swan">
     <Candidate Incumbent="N">
-      <Name>PAUL HILTON</Name>
+      <Name>MARTIN SHARP</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MATTHEW THOMPSON</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>TIMOTHY GREEN</Name>
-      <Party>Animal Justice</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>ZANETA MASCARENHAS</Name>
       <Party>Labor</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CARL PALLIER</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ROD BRADLEY</Name>
-      <Party>Western Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>PETER HALLIFAX</Name>
@@ -4739,19 +3066,11 @@
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>CLINT UINK</Name>
-      <Party>Greens</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DENA GOWER</Name>
-      <Party>Australian Christians</Party>
+      <Name>LIBERTY CRAMER</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Sydney">
-    <Candidate Incumbent="N">
-      <Name>ANDREW CHUTER</Name>
-      <Party>Socialist Alliance</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>TANYA PLIBERSEK</Name>
       <Party>Labor</Party>
@@ -4761,15 +3080,11 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>CHETAN SAHAI</Name>
-      <Party>Greens</Party>
+      <Name>MATHEW THOMPSON</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>WEN ZHOU</Name>
-      <Party>Australian Citizens Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>RYAN McALISTER</Name>
+      <Name>CALVIN CLAYTON</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
@@ -4783,15 +3098,7 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>JAY DEAN GILLETT</Name>
-      <Party>Western Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>MARK STAER</Name>
-      <Party>Australian Christians</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>TRAVIS MARK</Name>
+      <Name>LUCIA HICKS</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
@@ -4799,29 +3106,17 @@
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>BEN MORTON</Name>
+      <Name>ROB DINES</Name>
       <Party>Liberal</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>BRENT FOWLER</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JACQUELINE HOLROYD</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>ADAM ABDUL RAZAK</Name>
-      <Party>Greens</Party>
+      <Name>MARTIN SPENCER</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Wannon">
-    <Candidate Incumbent="N">
-      <Name>GRAHAM GARNER</Name>
-      <Party>Independent</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>DAN TEHAN</Name>
+      <Name>MALCOLM FRASER</Name>
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
@@ -4829,20 +3124,12 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>HILARY McALLISTER</Name>
-      <Party>Greens</Party>
+      <Name>ZEPHYN TAYLOR</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>ALEX DYSON</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>CRAIGE KENSEN</Name>
+      <Name>JUDITH WILLIAMS</Name>
       <Party>United Australia Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>AMANDA MEAD</Name>
-      <Party>Liberal Democratic Party</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>GILBERT WILSON</Name>
@@ -4854,17 +3141,13 @@
       <Name>STEVEN TRIPP</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Rank="1" Incumbent="Y">
-      <Name>ZALI STEGGALL</Name>
-      <Party>Independent</Party>
-    </Candidate>
     <Candidate Incumbent="N">
-      <Name>ANDREW ROBERTSON</Name>
+      <Name>MARCO WATTS</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>KRISTYN GLANVILLE</Name>
-      <Party>Greens</Party>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>KATHERINE DEVES</Name>
@@ -4874,10 +3157,6 @@
       <Name>DAVID MICKLEBURGH</Name>
       <Party>Labor</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>KATE PATERSON</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
   </Division>
   <Division id="Watson">
     <Candidate Rank="2" Incumbent="N">
@@ -4885,11 +3164,11 @@
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>JOHN KOUKOULIS</Name>
+      <Name>FAITH WATERS</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>TONY BURKE</Name>
+      <Name>JIHAD DIB</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
@@ -4897,8 +3176,8 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>BRADLEY SCHOTT</Name>
-      <Party>Greens</Party>
+      <Name>EMMET DE BHALDRAITHE</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Wentworth">
@@ -4912,32 +3191,20 @@
     </Candidate>
     <Candidate Incumbent="N">
       <Name>DOMINIC WY KANAK</Name>
-      <Party>Greens</Party>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>NATALIE DUMER</Name>
+      <Name>LOUIS BARTON</Name>
       <Party>United Australia Party</Party>
     </Candidate>
-    <Candidate Rank="2" Incumbent="N">
-      <Name>ALLEGRA SPENDER</Name>
-      <Party>Independent</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DANIEL LEWKOVITZ</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>DAVE SHARMA</Name>
+      <Name>FIONA MARTIN</Name>
       <Party>Liberal</Party>
     </Candidate>
   </Division>
   <Division id="Werriwa">
     <Candidate Incumbent="N">
-      <Name>VICTOR TEY</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>TONY NIKOLIC</Name>
+      <Name>LLOYD NASH</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
@@ -4945,8 +3212,8 @@
       <Party>Labor</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
-      <Name>APURVA SHUKLA</Name>
-      <Party>Greens</Party>
+      <Name>SIGNE WESTERBERG</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>SAM KAYAL</Name>
@@ -4963,10 +3230,6 @@
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>MICHAEL WHEELER</Name>
-      <Party>Liberal Democratic Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
       <Name>COLIN HUGHES</Name>
       <Party>One Nation</Party>
     </Candidate>
@@ -4975,54 +3238,34 @@
       <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>ALLAN WODE</Name>
+      <Name>MADELINE MOSS</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>JAMIE DIXON</Name>
-      <Party>Greens</Party>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Wide Bay">
-    <Candidate Incumbent="N">
-      <Name>KELLI JACOBI</Name>
-      <Party>Independent</Party>
-    </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>NATHAN BUCKLEY</Name>
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>TRACY BENNETT</Name>
+      <Name>ELBERT THORNTON</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>CRAIG ARMSTRONG</Name>
-      <Party>Greens</Party>
+      <Name>DANIEL BRYAR</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>LLEW O'BRIEN</Name>
-      <Party>Liberal National</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>JOHN WOODWARD</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>TIM JEROME</Name>
-      <Party>Independent</Party>
+      <Name>WARREN TRUSS</Name>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>GEOFF WILLIAMS</Name>
       <Party>Labor</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>DANIEL WILLIAMS</Name>
-      <Party>Australian Values Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>ANDREA NEWLAND</Name>
-      <Party>Informed Medical Options</Party>
     </Candidate>
   </Division>
   <Division id="Wills">
@@ -5035,38 +3278,22 @@
       <Party>One Nation</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>EMMA BLACK</Name>
-      <Party>Victorian Socialists</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SAM SERGI</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SUE BOLTON</Name>
-      <Party>Socialist Alliance</Party>
-    </Candidate>
-    <Candidate Incumbent="N">
-      <Name>IRENE ZIVKOVIC</Name>
+      <Name>FRANCIS KING</Name>
       <Party>United Australia Party</Party>
     </Candidate>
     <Candidate Rank="1" Incumbent="Y">
-      <Name>PETER KHALIL</Name>
+      <Name>CINDY O'CONNOR</Name>
       <Party>Labor</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>LEAH HORSFALL</Name>
-      <Party>Animal Justice</Party>
-    </Candidate>
     <Candidate Rank="2" Incumbent="N">
-      <Name>SARAH JEFFORD</Name>
-      <Party>Greens</Party>
+      <Name>ADAM PULFORD</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Wright">
     <Candidate Rank="1" Incumbent="Y">
       <Name>SCOTT BUCHHOLZ</Name>
-      <Party>Liberal National</Party>
+      <Party>Liberal</Party>
     </Candidate>
     <Candidate Incumbent="N">
       <Name>CASSANDRA DUFFILL</Name>
@@ -5076,17 +3303,13 @@
       <Name>KEITH HICKS</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
-      <Name>SHONNA-LEE BANASIAK</Name>
-      <Party>Australian Federation Party</Party>
-    </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>PAM McCREADIE</Name>
       <Party>Labor</Party>
     </Candidate>
     <Candidate Incumbent="N">
-      <Name>NICOLE THOMPSON</Name>
-      <Party>Greens</Party>
+      <Name>SHANNON GIRARD</Name>
+      <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
 </Divisions>
