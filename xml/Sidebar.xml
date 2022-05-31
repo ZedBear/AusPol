@@ -1,5 +1,5 @@
 ﻿<Divisions>
-  <Division Name="Bean" Incumbent="Labor" Margin="7.5%" Region="Southern ACT" State="ACT" Enrolment="109557">
+  <Division Name="Bean" Incumbent="Labor" Margin="9.0%" Region="Southern ACT" State="ACT" Enrolment="109557">
     <TablePrimary>
       <Candidate Name="Therese Faulkner (Progressives)">
         <Votes>2722</Votes>
@@ -93,7 +93,7 @@
       <Age8>2.9</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Canberra" Incumbent="Labor" Margin="17.1%" Region="Central Canberra" State="ACT" Enrolment="102196">
+  <Division Name="Canberra" Incumbent="Labor" Margin="16.4%" Region="Central Canberra" State="ACT" Enrolment="102196">
     <TablePrimary>
       <Candidate Name="Tim Bohm (Independent)">
         <Votes>4062</Votes>
@@ -179,7 +179,7 @@
       <Age8>4.1</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Fenner" Incumbent="Labor" Margin="10.6%" Region="Northern Canberra" State="ACT" Enrolment="102576">
+  <Division Name="Fenner" Incumbent="Labor" Margin="13.6%" Region="Northern Canberra" State="ACT" Enrolment="102576">
     <TablePrimary>
       <Candidate Name="Glen J Hodgson (United Australia)">
         <Votes>3529</Votes>
@@ -261,7 +261,7 @@
       <Age8>1.6</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Banks" Incumbent="Liberal" Margin="6.3%" Region="Southern Sydney" State="NSW" Enrolment="107786">
+  <Division Name="Banks" Incumbent="Labor" Margin="2.8%" Region="Southern Sydney" State="NSW" Enrolment="107786">
     <TablePrimary>
       <Candidate Name="David Coleman (Liberal)">
         <Votes>46709</Votes>
@@ -436,7 +436,7 @@
       <Age8>4.4</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Bennelong" Incumbent="Liberal" Margin="6.9%" Region="Northern Sydney" State="NSW" Enrolment="115030">
+  <Division Name="Bennelong" Incumbent="Liberal" Margin="5.5%" Region="Northern Sydney" State="NSW" Enrolment="115030">
     <TablePrimary>
       <Candidate Name="Brian Owler (Labor)">
         <Votes>32769</Votes>
@@ -519,7 +519,7 @@
       <Age8>4.5</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Berowra" Incumbent="Liberal" Margin="15.6%" Region="Northern Sydney" State="NSW" Enrolment="106203">
+  <Division Name="Berowra" Incumbent="Liberal" Margin="14.4%" Region="Northern Sydney" State="NSW" Enrolment="106203">
     <TablePrimary>
       <Candidate Name="Monica Tan (Greens)">
         <Votes>11157</Votes>
@@ -621,7 +621,7 @@
       <Age8>4.4</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Blaxland" Incumbent="Labor" Margin="14.7%" Region="Western Sydney" State="NSW" Enrolment="107348">
+  <Division Name="Blaxland" Incumbent="Labor" Margin="17.7%" Region="Western Sydney" State="NSW" Enrolment="107348">
     <TablePrimary>
       <Candidate Name="Veronica Rowe (Christian Democratic)">
         <Votes>4173</Votes>
@@ -704,7 +704,7 @@
       <Age8>3.4</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Bradfield" Incumbent="Liberal" Margin="16.6%" Region="North Shore" State="NSW" Enrolment="108573">
+  <Division Name="Bradfield" Incumbent="Liberal" Margin="16.9%" Region="North Shore" State="NSW" Enrolment="108573">
     <TablePrimary>
       <Candidate Name="Tony Adams (Greens)">
         <Votes>13177</Votes>
@@ -786,7 +786,7 @@
       <Age8>5.5</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Calare" Incumbent="Nationals" Margin="13.3%" Region="Central West" State="NSW" Enrolment="121564">
+  <Division Name="Calare" Incumbent="One Nation" Margin="7.5%" Region="Central West" State="NSW" Enrolment="121564">
     <TablePrimary>
       <Candidate Name="Sam Romano (Shooters)">
         <Votes>18129</Votes>
@@ -878,7 +878,7 @@
       <Age8>4.4</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Chifley" Incumbent="Labor" Margin="12.4%" Region="Western Sydney" State="NSW" Enrolment="121385">
+  <Division Name="Chifley" Incumbent="Labor" Margin="13.8%" Region="Western Sydney" State="NSW" Enrolment="121385">
     <TablePrimary>
       <Candidate Name="Josh Green (Christian Democratic)">
         <Votes>5859</Votes>
@@ -966,7 +966,7 @@
       <Age8>2.2</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Cook" Incumbent="Liberal" Margin="19.0%" Region="Southern Sydney" State="NSW" Enrolment="110313">
+  <Division Name="Cook" Incumbent="Liberal" Margin="14.1%" Region="Southern Sydney" State="NSW" Enrolment="110313">
     <TablePrimary>
       <Candidate Name="Scott Morrison (Liberal)">
         <Votes>59895</Votes>
@@ -1057,7 +1057,7 @@
       <Age8>5.9</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Cowper" Incumbent="Nationals" Margin="11.9%" Region="Mid North Coast" State="NSW" Enrolment="129887">
+  <Division Name="Cowper" Incumbent="One Nation" Margin="10.0%" Region="Mid North Coast" State="NSW" Enrolment="129887">
     <TablePrimary>
       <Candidate Name="Ruth Meads (Christian Democratic)">
         <Votes>2383</Votes>
@@ -1153,7 +1153,7 @@
       <Age8>6.6</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Cunningham" Incumbent="Labor" Margin="13.4%" Region="Illawara" State="NSW" Enrolment="117309">
+  <Division Name="Cunningham" Incumbent="Labor" Margin="15.3%" Region="Illawara" State="NSW" Enrolment="117309">
     <TablePrimary>
       <Candidate Name="Chris Atlee (Liberal)">
         <Votes>31177</Votes>
@@ -1240,7 +1240,7 @@
       <Age8>5.0</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Dobell" Incumbent="Labor" Margin="1.5%" Region="Central Coast" State="NSW" Enrolment="118581">
+  <Division Name="Dobell" Incumbent="Labor" Margin="2.9%" Region="Central Coast" State="NSW" Enrolment="118581">
     <TablePrimary>
       <Candidate Name="Aaron Harpley-Carr (United Australia)">
         <Votes>5411</Votes>
@@ -1328,7 +1328,7 @@
       <Age8>5.6</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Eden-Monaro" Incumbent="Labor" Margin="0.8%" Region="South Coast" State="NSW" Enrolment="116468">
+  <Division Name="Eden-Monaro" Incumbent="Labor" Margin="2.6%" Region="South Coast" State="NSW" Enrolment="116468">
     <TablePrimary>
       <Candidate Name="Mike Kelly (Labor)">
         <Votes>38878</Votes>
@@ -1423,7 +1423,7 @@
       <Age8>4.1</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Farrer" Incumbent="Liberal" Margin="19.8%" Region="Interior" State="NSW" Enrolment="119364">
+  <Division Name="Farrer" Incumbent="Liberal" Margin="18.1%" Region="Interior" State="NSW" Enrolment="119364">
     <TablePrimary>
       <Candidate Name="Sussan Ley (Liberal)">
         <Votes>49316</Votes>
@@ -1521,7 +1521,7 @@
       <Age8>5.2</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Fowler" Incumbent="Labor" Margin="14.0%" Region="Western Sydney" State="NSW" Enrolment="108517">
+  <Division Name="Fowler" Incumbent="Labor" Margin="17.3%" Region="Western Sydney" State="NSW" Enrolment="108517">
     <TablePrimary>
       <Candidate Name="Francesca Mocanu (Christian Democratic)">
         <Votes>4643</Votes>
@@ -1604,7 +1604,7 @@
       <Age8>3.3</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Gilmore" Incumbent="Labor" Margin="2.6%" Region="South Coast" State="NSW" Enrolment="127789">
+  <Division Name="Gilmore" Incumbent="Labor" Margin="1.9%" Region="South Coast" State="NSW" Enrolment="127789">
     <TablePrimary>
       <Candidate Name="Carmel Mary McCallum (Greens)">
         <Votes>10740</Votes>
@@ -1695,7 +1695,7 @@
       <Age8>6.4</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Grayndler" Incumbent="Labor" Margin="16.3% versus Greens" Region="Inner Sydney" State="NSW" Enrolment="109927">
+  <Division Name="Grayndler" Incumbent="Labor" Margin="21.3% versus Democrats" Region="Inner Sydney" State="NSW" Enrolment="109927">
     <TablePrimary>
       <Candidate Name="Majella Morello (Science Party)">
         <Votes>2613</Votes>
@@ -1787,7 +1787,7 @@
       <Age8>3.0</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Greenway" Incumbent="Labor" Margin="2.8%" Region="Western Sydney" State="NSW" Enrolment="119941">
+  <Division Name="Greenway" Incumbent="Labor" Margin="6.7%" Region="Western Sydney" State="NSW" Enrolment="119941">
     <TablePrimary>
       <Candidate Name="Graham McFarland (Better Families)">
         <Votes>2072</Votes>
@@ -1874,7 +1874,7 @@
       <Age8>2.0</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Hughes" Incumbent="Liberal" Margin="9.8%" Region="Southern Sydney" State="NSW" Enrolment="107364">
+  <Division Name="Hughes" Incumbent="Liberal" Margin="7.7%" Region="Southern Sydney" State="NSW" Enrolment="107364">
     <TablePrimary>
       <Candidate Name="Craig Kelly (Liberal)">
         <Votes>50763</Votes>
@@ -1966,7 +1966,7 @@
       <Age8>3.5</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Hume" Incumbent="Liberal" Margin="13.0%" Region="South-Eastern" State="NSW" Enrolment="121842">
+  <Division Name="Hume" Incumbent="Liberal" Margin="9.7%" Region="South-Eastern" State="NSW" Enrolment="121842">
     <TablePrimary>
       <Candidate Name="Aoife Champion (Labor)">
         <Votes>27223</Votes>
@@ -2057,7 +2057,7 @@
       <Age8>3.4</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Hunter" Incumbent="Labor" Margin="3.0%" Region="Hunter Region" State="NSW" Enrolment="128438">
+  <Division Name="Hunter" Incumbent="Labor" Margin="3.3%" Region="Hunter Region" State="NSW" Enrolment="128438">
     <TablePrimary>
       <Candidate Name="Stuart Bonds (One Nation)">
         <Votes>22029</Votes>
@@ -2152,7 +2152,7 @@
       <Age8>4.7</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Kingsford Smith" Incumbent="Labor" Margin="8.8%" Region="South-Eastern Sydney" State="NSW" Enrolment="115317">
+  <Division Name="Kingsford Smith" Incumbent="Labor" Margin="14.2%" Region="South-Eastern Sydney" State="NSW" Enrolment="115317">
     <TablePrimary>
       <Candidate Name="James Cruz (Greens)">
         <Votes>11418</Votes>
@@ -2244,7 +2244,7 @@
       <Age8>3.7</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Lindsay" Incumbent="Liberal" Margin="5.0%" Region="Western Sydney" State="NSW" Enrolment="124727">
+  <Division Name="Lindsay" Incumbent="Labor" Margin="1.8%" Region="Western Sydney" State="NSW" Enrolment="124727">
     <TablePrimary>
       <Candidate Name="Brandon Lees (FACN)">
         <Votes>2374</Votes>
@@ -2343,7 +2343,7 @@
       <Age8>2.4</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Lyne" Incumbent="Nationals" Margin="15.2%" Region="Central Coast" State="NSW" Enrolment="124687">
+  <Division Name="Lyne" Incumbent="One Nation" Margin="10.9%" Region="Central Coast" State="NSW" Enrolment="124687">
     <TablePrimary>
       <Candidate Name="Phil Costa (Labor)">
         <Votes>24371</Votes>
@@ -2442,7 +2442,7 @@
       <Age8>6.6</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Macarthur" Incumbent="Labor" Margin="8.4%" Region="Western Sydney" State="NSW" Enrolment="133501">
+  <Division Name="Macarthur" Incumbent="Labor" Margin="9.3%" Region="Western Sydney" State="NSW" Enrolment="133501">
     <TablePrimary>
       <Candidate Name="James Gent (Christian Democratic)">
         <Votes>3705</Votes>
@@ -2533,7 +2533,7 @@
       <Age8>1.8</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Mackellar" Incumbent="Liberal" Margin="13.2%" Region="North Shore" State="NSW" Enrolment="111292">
+  <Division Name="Mackellar" Incumbent="Liberal" Margin="13.3%" Region="North Shore" State="NSW" Enrolment="111292">
     <TablePrimary>
       <Candidate Name="David Lyon (United Australia)">
         <Votes>2317</Votes>
@@ -2624,7 +2624,7 @@
       <Age8>5.4</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Macquarie" Incumbent="Labor" Margin="0.2%" Region="Western Sydney" State="NSW" Enrolment="108119">
+  <Division Name="Macquarie" Incumbent="Labor" Margin="5.0%" Region="Western Sydney" State="NSW" Enrolment="108119">
     <TablePrimary>
       <Candidate Name="Sarah Richards (Liberal)">
         <Votes>43487</Votes>
@@ -2707,7 +2707,7 @@
       <Age8>3.6</Age8>
     </AgeDist>
   </Division>
-  <Division Name="McMahon" Incumbent="Labor" Margin="6.6%" Region="Western Sydney" State="NSW" Enrolment="107312">
+  <Division Name="McMahon" Incumbent="Labor" Margin="10.6%" Region="Western Sydney" State="NSW" Enrolment="107312">
     <TablePrimary>
       <Candidate Name="Meg Wrightson (United Australia)">
         <Votes>3329</Votes>
@@ -2794,7 +2794,7 @@
       <Age8>3.0</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Mitchell" Incumbent="Liberal" Margin="18.6%" Region="North Shore" State="NSW" Enrolment="121433">
+  <Division Name="Mitchell" Incumbent="Liberal" Margin="5.3%" Region="North Shore" State="NSW" Enrolment="121433">
     <TablePrimary>
       <Candidate Name="Immanuel Selvaraj (Labor)">
         <Votes>23618</Votes>
@@ -2877,7 +2877,7 @@
       <Age8>2.8</Age8>
     </AgeDist>
   </Division>
-  <Division Name="New England" Incumbent="Nationals" Margin="17.6%" Region="North-Eastern" State="NSW" Enrolment="113465">
+  <Division Name="New England" Incumbent="One Nation" Margin="15.3%" Region="North-Eastern" State="NSW" Enrolment="113465">
     <TablePrimary>
       <Candidate Name="Natasha Ledger (Independent)">
         <Votes>3071</Votes>
@@ -2975,7 +2975,7 @@
       <Age8>4.8</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Newcastle" Incumbent="Labor" Margin="13.8%" Region="Central Coast" State="NSW" Enrolment="122587">
+  <Division Name="Newcastle" Incumbent="Labor" Margin="8.6%" Region="Central Coast" State="NSW" Enrolment="122587">
     <TablePrimary>
       <Candidate Name="Sharon Claydon (Labor)">
         <Votes>47137</Votes>
@@ -3066,7 +3066,7 @@
       <Age8>4.5</Age8>
     </AgeDist>
   </Division>
-  <Division Name="North Sydney" Incumbent="Liberal" Margin="9.3%" Region="Inner Sydney" State="NSW" Enrolment="111710">
+  <Division Name="North Sydney" Incumbent="Liberal" Margin="1.5%" Region="Inner Sydney" State="NSW" Enrolment="111710">
     <TablePrimary>
       <Candidate Name="David Vernon (Christian Democratic)">
         <Votes>1660</Votes>
@@ -3157,7 +3157,7 @@
       <Age8>4.0</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Page" Incumbent="Nationals" Margin="9.4%" Region="North Coast" State="NSW" Enrolment="122915">
+  <Division Name="Page" Incumbent="Nationals" Margin="3.8%" Region="North Coast" State="NSW" Enrolment="122915">
     <TablePrimary>
       <Candidate Name="Fiona Leviny (Independent)">
         <Votes>5240</Votes>
@@ -3249,7 +3249,7 @@
       <Age8>5.4</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Parkes" Incumbent="Nationals" Margin="16.9%" Region="Interior" State="NSW" Enrolment="109133">
+  <Division Name="Parkes" Incumbent="One Nation" Margin="14.7%" Region="Interior" State="NSW" Enrolment="109133">
     <TablePrimary>
       <Candidate Name="Daniel J Jones (Liberal Democrats)">
         <Votes>7568</Votes>
@@ -3335,7 +3335,7 @@
       <Age8>4.6</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Parramatta" Incumbent="Labor" Margin="3.5%" Region="Western Sydney" State="NSW" Enrolment="105513">
+  <Division Name="Parramatta" Incumbent="Labor" Margin="2.7%" Region="Western Sydney" State="NSW" Enrolment="105513">
     <TablePrimary>
       <Candidate Name="Charles Camenzuli (Liberal)">
         <Votes>34954</Votes>
@@ -3422,7 +3422,7 @@
       <Age8>2.8</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Paterson" Incumbent="Labor" Margin="5.0%" Region="Hunter Region" State="NSW" Enrolment="132123">
+  <Division Name="Paterson" Incumbent="Labor" Margin="8.0%" Region="Hunter Region" State="NSW" Enrolment="132123">
     <TablePrimary>
       <Candidate Name="Sachin Joshi (Liberal)">
         <Votes>35059</Votes>
@@ -3510,7 +3510,7 @@
       <Age8>4.1</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Reid" Incumbent="Liberal" Margin="3.2%" Region="Western Sydney" State="NSW" Enrolment="115625">
+  <Division Name="Reid" Incumbent="Labor" Margin="5.0%" Region="Western Sydney" State="NSW" Enrolment="115625">
     <TablePrimary>
       <Candidate Name="Keith Piper (Christian Democratic)">
         <Votes>2335</Votes>
@@ -3597,7 +3597,7 @@
       <Age8>3.6</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Richmond" Incumbent="Labor" Margin="4.1%" Region="North Coast" State="NSW" Enrolment="118652">
+  <Division Name="Richmond" Incumbent="Labor" Margin="11.1%" Region="North Coast" State="NSW" Enrolment="118652">
     <TablePrimary>
       <Candidate Name="Ronald McDonald (Sustainable Australia)">
         <Votes>3154</Votes>
@@ -3692,7 +3692,7 @@
       <Age8>6.6</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Riverina" Incumbent="Nationals" Margin="19.5%" Region="Rural Southern" State="NSW" Enrolment="116172">
+  <Division Name="Riverina" Incumbent="One Nation" Margin="15.7%" Region="Rural Southern" State="NSW" Enrolment="116172">
     <TablePrimary>
       <Candidate Name="Michael McCormack (Nationals)">
         <Votes>60493</Votes>
@@ -3769,7 +3769,7 @@
       <Age8>5.1</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Robertson" Incumbent="Liberal" Margin="4.2%" Region="Central Coast" State="NSW" Enrolment="112688">
+  <Division Name="Robertson" Incumbent="Labor" Margin="1.3%" Region="Central Coast" State="NSW" Enrolment="112688">
     <TablePrimary>
       <Candidate Name="Judy Singer (Sustainable Australia)">
         <Votes>1719</Votes>
@@ -3864,7 +3864,7 @@
       <Age8>6.2</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Shortland" Incumbent="Labor" Margin="4.4%" Region="Hunter Region" State="NSW" Enrolment="116418">
+  <Division Name="Shortland" Incumbent="Labor" Margin="9.9%" Region="Hunter Region" State="NSW" Enrolment="116418">
     <TablePrimary>
       <Candidate Name="Susan Newbury (Sustainable Australia)">
         <Votes>3097</Votes>
@@ -3955,7 +3955,7 @@
       <Age8>5.3</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Sydney" Incumbent="Labor" Margin="18.7%" Region="Inner Sydney" State="NSW" Enrolment="125421">
+  <Division Name="Sydney" Incumbent="Labor" Margin="26.5%" Region="Inner Sydney" State="NSW" Enrolment="125421">
     <TablePrimary>
       <Candidate Name="Jacqui Munro (Liberal)">
         <Votes>25230</Votes>
@@ -4043,7 +4043,7 @@
       <Age8>1.5</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Warringah" Incumbent="Independent" Margin="7.2% versus Liberal" Region="Sydney North Shore" State="NSW" Enrolment="105355">
+  <Division Name="Warringah" Incumbent="Liberal" Margin="11.3%" Region="Sydney North Shore" State="NSW" Enrolment="105355">
     <TablePrimary>
       <Candidate Name="Heather Barnes (Animal Justice)">
         <Votes>1291</Votes>
@@ -4148,7 +4148,7 @@
       <Age8>4.1</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Watson" Incumbent="Labor" Margin="13.5%" Region="Southern Sydney" State="NSW" Enrolment="108806">
+  <Division Name="Watson" Incumbent="Labor" Margin="15.9%" Region="Southern Sydney" State="NSW" Enrolment="108806">
     <TablePrimary>
       <Candidate Name="Dean Wrightson (United Australia)">
         <Votes>3549</Votes>
@@ -4236,7 +4236,7 @@
       <Age8>3.7</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Wentworth" Incumbent="Liberal" Margin="9.8%" Region="Eastern Sydney" State="NSW" Enrolment="103709">
+  <Division Name="Wentworth" Incumbent="Liberal" Margin="5.8%" Region="Eastern Sydney" State="NSW" Enrolment="103709">
     <TablePrimary>
       <Candidate Name="Matthew Drake-Brockman (Independent)">
         <Votes>516</Votes>
@@ -4329,7 +4329,7 @@
       <Age8>4.5</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Werriwa" Incumbent="Labor" Margin="5.5%" Region="Southern Sydney" State="NSW" Enrolment="126141">
+  <Division Name="Werriwa" Incumbent="Labor" Margin="9.3%" Region="Southern Sydney" State="NSW" Enrolment="126141">
     <TablePrimary>
       <Candidate Name="Narelle Storey (Christian Democratic)">
         <Votes>4841</Votes>
@@ -4416,7 +4416,7 @@
       <Age8>2.1</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Whitlam" Incumbent="Labor" Margin="10.9%" Region="Illawara" State="NSW" Enrolment="125535">
+  <Division Name="Whitlam" Incumbent="Labor" Margin="13.1%" Region="Illawara" State="NSW" Enrolment="125535">
     <TablePrimary>
       <Candidate Name="Angelo Cuda (United Australia)">
         <Votes>9071</Votes>
@@ -4501,7 +4501,7 @@
       <Age8>4.9</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Lingiari" Incumbent="Labor" Margin="5.5%" Region="Alice Springs/Outback" State="NT" Enrolment="74050">
+  <Division Name="Lingiari" Incumbent="Labor" Margin="7.8%" Region="Alice Springs/Outback" State="NT" Enrolment="74050">
     <TablePrimary>
       <Candidate Name="Warren Snowdon (Labor)">
         <Votes>21698</Votes>
@@ -4588,7 +4588,7 @@
       <Age8>0.6</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Solomon" Incumbent="Labor" Margin="3.1%" Region="Darwin/Palmerston" State="NT" Enrolment="71888">
+  <Division Name="Solomon" Incumbent="Labor" Margin="6.1%" Region="Darwin/Palmerston" State="NT" Enrolment="71888">
     <TablePrimary>
       <Candidate Name="Luke Gosling (Labor)">
         <Votes>22057</Votes>
@@ -4675,7 +4675,7 @@
       <Age8>1.0</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Blair" Incumbent="Labor" Margin="1.2%" Region="Outer Brisbane" State="QLD" Enrolment="126470">
+  <Division Name="Blair" Incumbent="Labor" Margin="2.4%" Region="Outer Brisbane" State="QLD" Enrolment="126470">
     <TablePrimary>
       <Candidate Name="Simone Karandrews (Independent)">
         <Votes>3849</Votes>
@@ -4695,7 +4695,7 @@
         <VotesPC>16.8</VotesPC>
         <Swing>1.9</Swing>
       </Candidate>
-      <Candidate Name="Robert Shearman (Liberal National)">
+      <Candidate Name="Robert Shearman (Liberal)">
         <Votes>27844</Votes>
         <VotesPC>29.0</VotesPC>
         <Swing>-0.6</Swing>
@@ -4733,7 +4733,7 @@
         <VotesPC>51.2</VotesPC>
         <Swing>-6.9</Swing>
       </Candidate>
-      <Candidate Name="Robert Shearman (Liberal National)">
+      <Candidate Name="Robert Shearman (Liberal)">
         <Votes>46802</Votes>
         <VotesPC>48.8</VotesPC>
         <Swing>6.9</Swing>
@@ -4776,7 +4776,7 @@
       <Age8>2.7</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Bonner" Incumbent="Liberal National" Margin="7.4%" Region="Inner Brisbane" State="QLD" Enrolment="109169">
+  <Division Name="Bonner" Incumbent="UAPP" Margin="4.1%" Region="Inner Brisbane" State="QLD" Enrolment="109169">
     <TablePrimary>
       <Candidate Name="Simon E F Flitcroft (United Australia)">
         <Votes>2394</Votes>
@@ -4791,7 +4791,7 @@
         <Votes>3771</Votes>
         <VotesPC>4.0</VotesPC>
       </Candidate>
-      <Candidate Name="Ross Vasta (Liberal National)">
+      <Candidate Name="Ross Vasta (Liberal)">
         <Votes>46616</Votes>
         <VotesPC>49.5</VotesPC>
         <Swing>3.0</Swing>
@@ -4814,7 +4814,7 @@
       </Candidate>
     </TablePrimary>
     <TableTCP>
-      <Candidate Name="Ross Vasta (Liberal National)">
+      <Candidate Name="Ross Vasta (Liberal)">
         <Votes>54072</Votes>
         <VotesPC>57.4</VotesPC>
         <Swing>4.0</Swing>
@@ -4862,14 +4862,14 @@
       <Age8>3.9</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Bowman" Incumbent="Liberal National" Margin="10.2%" Region="Southern Brisbane" State="QLD" Enrolment="115764">
+  <Division Name="Bowman" Incumbent="Liberal" Margin="6.1%" Region="Southern Brisbane" State="QLD" Enrolment="115764">
     <TablePrimary>
       <Candidate Name="Emerald Moon (Greens)">
         <Votes>11795</Votes>
         <VotesPC>12.0</VotesPC>
         <Swing>2.2</Swing>
       </Candidate>
-      <Candidate Name="Andrew Laming (Liberal National)">
+      <Candidate Name="Andrew Laming (Liberal)">
         <Votes>47866</Votes>
         <VotesPC>48.7</VotesPC>
         <Swing>-1.1</Swing>
@@ -4900,7 +4900,7 @@
       </Candidate>
     </TablePrimary>
     <TableTCP>
-      <Candidate Name="Andrew Laming (Liberal National)">
+      <Candidate Name="Andrew Laming (Liberal)">
         <Votes>59237</Votes>
         <VotesPC>60.2</VotesPC>
         <Swing>3.2</Swing>
@@ -4948,13 +4948,13 @@
       <Age8>4.1</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Brisbane" Incumbent="Liberal National" Margin="4.9%" Region="Inner Brisbane" State="QLD" Enrolment="125241">
+  <Division Name="Brisbane" Incumbent="Liberal" Margin="2.5%" Region="Inner Brisbane" State="QLD" Enrolment="125241">
     <TablePrimary>
       <Candidate Name="Anne Perry (One Nation)">
         <Votes>2537</Votes>
         <VotesPC>2.5</VotesPC>
       </Candidate>
-      <Candidate Name="Trevor Evans (Liberal National)">
+      <Candidate Name="Trevor Evans (Liberal)">
         <Votes>48777</Votes>
         <VotesPC>47.8</VotesPC>
         <Swing>-2.1</Swing>
@@ -4990,7 +4990,7 @@
       </Candidate>
     </TablePrimary>
     <TableTCP>
-      <Candidate Name="Trevor Evans (Liberal National)">
+      <Candidate Name="Trevor Evans (Liberal)">
         <Votes>55995</Votes>
         <VotesPC>54.9</VotesPC>
         <Swing>-1.1</Swing>
@@ -5038,7 +5038,7 @@
       <Age8>2.3</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Capricornia" Incumbent="Liberal National" Margin="12.4%" Region="Central Coastal" State="QLD" Enrolment="108688">
+  <Division Name="Capricornia" Incumbent="Liberal" Margin="2.1%" Region="Central Coastal" State="QLD" Enrolment="108688">
     <TablePrimary>
       <Candidate Name="Paul Bambrick (Greens)">
         <Votes>4307</Votes>
@@ -5059,7 +5059,7 @@
         <VotesPC>2.5</VotesPC>
         <Swing>-2.4</Swing>
       </Candidate>
-      <Candidate Name="Michelle Landry (Liberal National)">
+      <Candidate Name="Michelle Landry (Liberal)">
         <Votes>36163</Votes>
         <VotesPC>40.6</VotesPC>
         <Swing>0.6</Swing>
@@ -5090,7 +5090,7 @@
       </Candidate>
     </TablePrimary>
     <TableTCP>
-      <Candidate Name="Michelle Landry (Liberal National)">
+      <Candidate Name="Michelle Landry (Liberal)">
         <Votes>55475</Votes>
         <VotesPC>62.4</VotesPC>
         <Swing>11.7</Swing>
@@ -5138,7 +5138,7 @@
       <Age8>3.3</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Dawson" Incumbent="Liberal National" Margin="14.6%" Region="Northern Coastal" State="QLD" Enrolment="110356">
+  <Division Name="Dawson" Incumbent="One Nation" Margin="0.3% versus Liberal" Region="Northern Coastal" State="QLD" Enrolment="110356">
     <TablePrimary>
       <Candidate Name="Ann-Maree Ware (Labour DLP)">
         <Votes>2835</Votes>
@@ -5152,7 +5152,7 @@
         <Votes>11628</Votes>
         <VotesPC>13.1</VotesPC>
       </Candidate>
-      <Candidate Name="George Christensen (Liberal National)">
+      <Candidate Name="George Christensen (Liberal)">
         <Votes>38164</Votes>
         <VotesPC>43.0</VotesPC>
         <Swing>0.3</Swing>
@@ -5189,7 +5189,7 @@
       </Candidate>
     </TablePrimary>
     <TableTCP>
-      <Candidate Name="George Christensen (Liberal National)">
+      <Candidate Name="George Christensen (Liberal)">
         <Votes>57405</Votes>
         <VotesPC>64.6</VotesPC>
         <Swing>11.2</Swing>
@@ -5237,14 +5237,14 @@
       <Age8>3.2</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Dickson" Incumbent="Liberal National" Margin="4.6%" Region="Northern Brisbane" State="QLD" Enrolment="112857">
+  <Division Name="Dickson" Incumbent="Liberal" Margin="0.5%" Region="Northern Brisbane" State="QLD" Enrolment="112857">
     <TablePrimary>
       <Candidate Name="Benedict Coyne (Greens)">
         <Votes>9675</Votes>
         <VotesPC>10.0</VotesPC>
         <Swing>0.1</Swing>
       </Candidate>
-      <Candidate Name="Peter Dutton (Liberal National)">
+      <Candidate Name="Peter Dutton (Liberal)">
         <Votes>44528</Votes>
         <VotesPC>45.9</VotesPC>
         <Swing>1.2</Swing>
@@ -5284,7 +5284,7 @@
       </Candidate>
     </TablePrimary>
     <TableTCP>
-      <Candidate Name="Peter Dutton (Liberal National)">
+      <Candidate Name="Peter Dutton (Liberal)">
         <Votes>52968</Votes>
         <VotesPC>54.6</VotesPC>
         <Swing>2.9</Swing>
@@ -5332,7 +5332,7 @@
       <Age8>2.1</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Fadden" Incumbent="Liberal National" Margin="14.2%" Region="Gold Coast" State="QLD" Enrolment="127812">
+  <Division Name="Fadden" Incumbent="Liberal" Margin="10.6%" Region="Gold Coast" State="QLD" Enrolment="127812">
     <TablePrimary>
       <Candidate Name="Jake Welch (Liberal Democrats)">
         <Votes>4391</Votes>
@@ -5357,7 +5357,7 @@
         <VotesPC>9.0</VotesPC>
         <Swing>1.4</Swing>
       </Candidate>
-      <Candidate Name="Stuart Robert (Liberal National)">
+      <Candidate Name="Stuart Robert (Liberal)">
         <Votes>47359</Votes>
         <VotesPC>48.7</VotesPC>
         <Swing>-0.7</Swing>
@@ -5380,7 +5380,7 @@
         <VotesPC>35.8</VotesPC>
         <Swing>-2.9</Swing>
       </Candidate>
-      <Candidate Name="Stuart Robert (Liberal National)">
+      <Candidate Name="Stuart Robert (Liberal)">
         <Votes>62387</Votes>
         <VotesPC>64.2</VotesPC>
         <Swing>2.9</Swing>
@@ -5423,7 +5423,7 @@
       <Age8>3.5</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Fairfax" Incumbent="Liberal National" Margin="13.4%" Region="Sunshine Coast" State="QLD" Enrolment="123413">
+  <Division Name="Fairfax" Incumbent="Liberal" Margin="9.1%" Region="Sunshine Coast" State="QLD" Enrolment="123413">
     <TablePrimary>
       <Candidate Name="Kylie Cowling (United Australia)">
         <Votes>2987</Votes>
@@ -5438,7 +5438,7 @@
         <VotesPC>12.6</VotesPC>
         <Swing>-0.1</Swing>
       </Candidate>
-      <Candidate Name="Ted O'Brien (Liberal National)">
+      <Candidate Name="Ted O'Brien (Liberal)">
         <Votes>48451</Votes>
         <VotesPC>49.6</VotesPC>
         <Swing>1.1</Swing>
@@ -5474,7 +5474,7 @@
       </Candidate>
     </TablePrimary>
     <TableTCP>
-      <Candidate Name="Ted O'Brien (Liberal National)">
+      <Candidate Name="Ted O'Brien (Liberal)">
         <Votes>61944</Votes>
         <VotesPC>63.4</VotesPC>
         <Swing>2.6</Swing>
@@ -5522,7 +5522,7 @@
       <Age8>4.6</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Fisher" Incumbent="Liberal National" Margin="12.7%" Region="Sunshine Coast" State="QLD" Enrolment="125902">
+  <Division Name="Fisher" Incumbent="Liberal" Margin="7.9%" Region="Sunshine Coast" State="QLD" Enrolment="125902">
     <TablePrimary>
       <Candidate Name="Trevor David Gray (United Australia)">
         <Votes>3429</Votes>
@@ -5543,7 +5543,7 @@
         <VotesPC>8.7</VotesPC>
         <Swing>8.2</Swing>
       </Candidate>
-      <Candidate Name="Andrew Wallace (Liberal National)">
+      <Candidate Name="Andrew Wallace (Liberal)">
         <Votes>49567</Votes>
         <VotesPC>50.0</VotesPC>
         <Swing>1.8</Swing>
@@ -5570,7 +5570,7 @@
         <VotesPC>37.3</VotesPC>
         <Swing>-3.5</Swing>
       </Candidate>
-      <Candidate Name="Andrew Wallace (Liberal National)">
+      <Candidate Name="Andrew Wallace (Liberal)">
         <Votes>62100</Votes>
         <VotesPC>62.7</VotesPC>
         <Swing>3.5</Swing>
@@ -5613,7 +5613,7 @@
       <Age8>5.4</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Flynn" Incumbent="Liberal National" Margin="8.7%" Region="Central Coastal" State="QLD" Enrolment="109075">
+  <Division Name="Flynn" Incumbent="One Nation" Margin="0.5%" Region="Central Coastal" State="QLD" Enrolment="109075">
     <TablePrimary>
       <Candidate Name="Zac Beers (Labor)">
         <Votes>25628</Votes>
@@ -5647,7 +5647,7 @@
         <Votes>2484</Votes>
         <VotesPC>2.8</VotesPC>
       </Candidate>
-      <Candidate Name="Ken O'Dowd (Liberal National)">
+      <Candidate Name="Ken O'Dowd (Liberal)">
         <Votes>33894</Votes>
         <VotesPC>37.9</VotesPC>
         <Swing>0.8</Swing>
@@ -5666,7 +5666,7 @@
         <VotesPC>41.3</VotesPC>
         <Swing>-7.6</Swing>
       </Candidate>
-      <Candidate Name="Ken O'Dowd (Liberal National)">
+      <Candidate Name="Ken O'Dowd (Liberal)">
         <Votes>52472</Votes>
         <VotesPC>58.7</VotesPC>
         <Swing>7.6</Swing>
@@ -5709,7 +5709,7 @@
       <Age8>2.1</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Forde" Incumbent="Liberal National" Margin="8.6%" Region="Outer Southern Brisbane" State="QLD" Enrolment="119198">
+  <Division Name="Forde" Incumbent="Liberal" Margin="1.0%" Region="Outer Southern Brisbane" State="QLD" Enrolment="119198">
     <TablePrimary>
       <Candidate Name="Ian Bowron (One Nation)">
         <Votes>10807</Votes>
@@ -5724,7 +5724,7 @@
         <Votes>3696</Votes>
         <VotesPC>4.0</VotesPC>
       </Candidate>
-      <Candidate Name="Bert van Manen (Liberal National)">
+      <Candidate Name="Bert van Manen (Liberal)">
         <Votes>39819</Votes>
         <VotesPC>43.5</VotesPC>
         <Swing>2.9</Swing>
@@ -5747,7 +5747,7 @@
       </Candidate>
     </TablePrimary>
     <TableTCP>
-      <Candidate Name="Bert van Manen (Liberal National)">
+      <Candidate Name="Bert van Manen (Liberal)">
         <Votes>53635</Votes>
         <VotesPC>58.6</VotesPC>
         <Swing>8.0</Swing>
@@ -5795,9 +5795,9 @@
       <Age8>2.4</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Griffith" Incumbent="Labor" Margin="2.9%" Region="Inner Southern Brisbane" State="QLD" Enrolment="121277">
+  <Division Name="Griffith" Incumbent="Labor" Margin="8.0%" Region="Inner Southern Brisbane" State="QLD" Enrolment="121277">
     <TablePrimary>
-      <Candidate Name="Olivia Roberts (Liberal National)">
+      <Candidate Name="Olivia Roberts (Liberal)">
         <Votes>40816</Votes>
         <VotesPC>41.0</VotesPC>
         <Swing>-0.2</Swing>
@@ -5833,7 +5833,7 @@
       </Candidate>
     </TablePrimary>
     <TableTCP>
-      <Candidate Name="Olivia Roberts (Liberal National)">
+      <Candidate Name="Olivia Roberts (Liberal)">
         <Votes>46958</Votes>
         <VotesPC>47.1</VotesPC>
         <Swing>-1.4</Swing>
@@ -5881,7 +5881,7 @@
       <Age8>2.8</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Groom" Incumbent="Liberal National" Margin="20.5%" Region="Darling Downs" State="QLD" Enrolment="110932">
+  <Division Name="Groom" Incumbent="One Nation" Margin="14.8%" Region="Darling Downs" State="QLD" Enrolment="110932">
     <TablePrimary>
       <Candidate Name="Alyce Nelligan (Greens)">
         <Votes>7598</Votes>
@@ -5896,7 +5896,7 @@
         <Votes>2854</Votes>
         <VotesPC>3.0</VotesPC>
       </Candidate>
-      <Candidate Name="John McVeigh (Liberal National)">
+      <Candidate Name="John McVeigh (Liberal)">
         <Votes>50908</Votes>
         <VotesPC>53.3</VotesPC>
         <Swing>-0.7</Swing>
@@ -5919,7 +5919,7 @@
       </Candidate>
     </TablePrimary>
     <TableTCP>
-      <Candidate Name="John McVeigh (Liberal National)">
+      <Candidate Name="John McVeigh (Liberal)">
         <Votes>67274</Votes>
         <VotesPC>70.5</VotesPC>
         <Swing>5.2</Swing>
@@ -5967,7 +5967,7 @@
       <Age8>4.5</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Herbert" Incumbent="Liberal National" Margin="8.4%" Region="Townsville" State="QLD" Enrolment="114257">
+  <Division Name="Herbert" Incumbent="Labor" Margin="8.0%" Region="Townsville" State="QLD" Enrolment="114257">
     <TablePrimary>
       <Candidate Name="Amy Lohse (One Nation)">
         <Votes>10189</Votes>
@@ -5988,7 +5988,7 @@
         <VotesPC>7.3</VotesPC>
         <Swing>1.1</Swing>
       </Candidate>
-      <Candidate Name="Phillip Thompson (Liberal National)">
+      <Candidate Name="Phillip Thompson (Liberal)">
         <Votes>34112</Votes>
         <VotesPC>37.1</VotesPC>
         <Swing>1.6</Swing>
@@ -6015,7 +6015,7 @@
       </Candidate>
     </TablePrimary>
     <TableTCP>
-      <Candidate Name="Phillip Thompson (Liberal National)">
+      <Candidate Name="Phillip Thompson (Liberal)">
         <Votes>53641</Votes>
         <VotesPC>58.4</VotesPC>
         <Swing>8.4</Swing>
@@ -6063,14 +6063,14 @@
       <Age8>2.4</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Hinkler" Incumbent="Liberal National" Margin="14.5%" Region="Bundaberg" State="QLD" Enrolment="117306">
+  <Division Name="Hinkler" Incumbent="One Nation" Margin="8.1%" Region="Bundaberg" State="QLD" Enrolment="117306">
     <TablePrimary>
       <Candidate Name="Damian Huxham (One Nation)">
         <Votes>13625</Votes>
         <VotesPC>14.8</VotesPC>
         <Swing>-4.4</Swing>
       </Candidate>
-      <Candidate Name="Keith Pitt (Liberal National)">
+      <Candidate Name="Keith Pitt (Liberal)">
         <Votes>42374</Votes>
         <VotesPC>46.0</VotesPC>
         <Swing>2.2</Swing>
@@ -6118,7 +6118,7 @@
       </Candidate>
     </TablePrimary>
     <TableTCP>
-      <Candidate Name="Keith Pitt (Liberal National)">
+      <Candidate Name="Keith Pitt (Liberal)">
         <Votes>59384</Votes>
         <VotesPC>64.5</VotesPC>
         <Swing>6.1</Swing>
@@ -6166,7 +6166,7 @@
       <Age8>5.7</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Kennedy" Incumbent="Katter's Australian Party" Margin="13.3% versus LNP" Region="Far North/Interior" State="QLD" Enrolment="114486">
+  <Division Name="Kennedy" Incumbent="One Nation" Margin="10.2% versus LNP" Region="Far North/Interior" State="QLD" Enrolment="114486">
     <TablePrimary>
       <Candidate Name="Sue Bertuch (United Australia)">
         <Votes>6124</Votes>
@@ -6186,7 +6186,7 @@
         <Votes>2532</Votes>
         <VotesPC>2.8</VotesPC>
       </Candidate>
-      <Candidate Name="Frank Beveridge (Liberal National)">
+      <Candidate Name="Frank Beveridge (Liberal)">
         <Votes>25264</Votes>
         <VotesPC>27.5</VotesPC>
         <Swing>-5.1</Swing>
@@ -6210,7 +6210,7 @@
         <VotesPC>63.3</VotesPC>
         <Swing>2.3</Swing>
       </Candidate>
-      <Candidate Name="Frank Beveridge (Liberal National)">
+      <Candidate Name="Frank Beveridge (Liberal)">
         <Votes>33717</Votes>
         <VotesPC>36.7</VotesPC>
         <Swing>-2.3</Swing>
@@ -6257,7 +6257,7 @@
       <Age8>3.4</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Leichhardt" Incumbent="Liberal National" Margin="4.2%" Region="Far North" State="QLD" Enrolment="117262">
+  <Division Name="Leichhardt" Incumbent="Liberal" Margin="0.5%" Region="Far North" State="QLD" Enrolment="117262">
     <TablePrimary>
       <Candidate Name="Jo Ashby (FACN)">
         <Votes>1976</Votes>
@@ -6286,7 +6286,7 @@
         <Votes>3562</Votes>
         <VotesPC>4.0</VotesPC>
       </Candidate>
-      <Candidate Name="Warren Entsch (Liberal National)">
+      <Candidate Name="Warren Entsch (Liberal)">
         <Votes>33753</Votes>
         <VotesPC>37.6</VotesPC>
         <Swing>-1.9</Swing>
@@ -6310,7 +6310,7 @@
         <VotesPC>45.8</VotesPC>
         <Swing>-0.2</Swing>
       </Candidate>
-      <Candidate Name="Warren Entsch (Liberal National)">
+      <Candidate Name="Warren Entsch (Liberal)">
         <Votes>48638</Votes>
         <VotesPC>54.2</VotesPC>
         <Swing>0.2</Swing>
@@ -6353,7 +6353,7 @@
       <Age8>2.2</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Lilley" Incumbent="Labor" Margin="0.6%" Region="Inner Northern Brisbane" State="QLD" Enrolment="112391">
+  <Division Name="Lilley" Incumbent="Labor" Margin="7.4%" Region="Inner Northern Brisbane" State="QLD" Enrolment="112391">
     <TablePrimary>
       <Candidate Name="Tracey Bell-Henselin (One Nation)">
         <Votes>5165</Votes>
@@ -6367,7 +6367,7 @@
         <Votes>743</Votes>
         <VotesPC>0.8</VotesPC>
       </Candidate>
-      <Candidate Name="Brad Carswell (Liberal National)">
+      <Candidate Name="Brad Carswell (Liberal)">
         <Votes>39392</Votes>
         <VotesPC>40.8</VotesPC>
         <Swing>2.1</Swing>
@@ -6395,7 +6395,7 @@
       </Candidate>
     </TablePrimary>
     <TableTCP>
-      <Candidate Name="Brad Carswell (Liberal National)">
+      <Candidate Name="Brad Carswell (Liberal)">
         <Votes>47688</Votes>
         <VotesPC>49.4</VotesPC>
         <Swing>5.0</Swing>
@@ -6443,9 +6443,9 @@
       <Age8>4.7</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Longman" Incumbent="Liberal National" Margin="3.3%" Region="Northern Brisbane" State="QLD" Enrolment="129110">
+  <Division Name="Longman" Incumbent="Liberal" Margin="0.2%" Region="Northern Brisbane" State="QLD" Enrolment="129110">
     <TablePrimary>
-      <Candidate Name="Terry Young (Liberal National)">
+      <Candidate Name="Terry Young (Liberal)">
         <Votes>38411</Votes>
         <VotesPC>38.6</VotesPC>
         <Swing>-0.4</Swing>
@@ -6490,7 +6490,7 @@
       </Candidate>
     </TablePrimary>
     <TableTCP>
-      <Candidate Name="Terry Young (Liberal National)">
+      <Candidate Name="Terry Young (Liberal)">
         <Votes>53037</Votes>
         <VotesPC>53.3</VotesPC>
         <Swing>4.1</Swing>
@@ -6538,14 +6538,14 @@
       <Age8>3.3</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Maranoa" Incumbent="Liberal National" Margin="22.5% versus One Nation" Region="Southern Interior" State="QLD" Enrolment="109140">
+  <Division Name="Maranoa" Incumbent="One Nation" Margin="0.5% versus Liberal" Region="Southern Interior" State="QLD" Enrolment="109140">
     <TablePrimary>
       <Candidate Name="Linda Little (Labor)">
         <Votes>14427</Votes>
         <VotesPC>15.6</VotesPC>
         <Swing>-2.7</Swing>
       </Candidate>
-      <Candidate Name="David Littleproud (Liberal National)">
+      <Candidate Name="David Littleproud (Liberal)">
         <Votes>51950</Votes>
         <VotesPC>56.0</VotesPC>
         <Swing>6.8</Swing>
@@ -6582,7 +6582,7 @@
       </Candidate>
     </TablePrimary>
     <TableTCP>
-      <Candidate Name="David Littleproud (Liberal National)">
+      <Candidate Name="David Littleproud (Liberal)">
         <Votes>67239</Votes>
         <VotesPC>72.5</VotesPC>
         <Swing>6.6</Swing>
@@ -6634,7 +6634,7 @@
       <Age8>4.2</Age8>
     </AgeDist>
   </Division>
-  <Division Name="McPherson" Incumbent="Liberal National" Margin="12.2%" Region="Gold Coast" State="QLD" Enrolment="117284">
+  <Division Name="McPherson" Incumbent="Liberal" Margin="9.7%" Region="Gold Coast" State="QLD" Enrolment="117284">
     <TablePrimary>
       <Candidate Name="Aaron Santelises (Labor)">
         <Votes>21138</Votes>
@@ -6654,7 +6654,7 @@
         <VotesPC>11.0</VotesPC>
         <Swing>0.7</Swing>
       </Candidate>
-      <Candidate Name="Karen Andrews (Liberal National)">
+      <Candidate Name="Karen Andrews (Liberal)">
         <Votes>44634</Votes>
         <VotesPC>48.2</VotesPC>
         <Swing>-5.1</Swing>
@@ -6689,7 +6689,7 @@
         <VotesPC>37.8</VotesPC>
         <Swing>-0.6</Swing>
       </Candidate>
-      <Candidate Name="Karen Andrews (Liberal National)">
+      <Candidate Name="Karen Andrews (Liberal)">
         <Votes>57545</Votes>
         <VotesPC>62.2</VotesPC>
         <Swing>0.6</Swing>
@@ -6732,13 +6732,13 @@
       <Age8>4.8</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Moncrieff" Incumbent="Liberal National" Margin="15.4%" Region="Gold Coast" State="QLD" Enrolment="122636">
+  <Division Name="Moncrieff" Incumbent="Liberal" Margin="13.5%" Region="Gold Coast" State="QLD" Enrolment="122636">
     <TablePrimary>
       <Candidate Name="Karla Freeman (Animal Justice)">
         <Votes>3551</Votes>
         <VotesPC>3.9</VotesPC>
       </Candidate>
-      <Candidate Name="Angie Bell (Liberal National)">
+      <Candidate Name="Angie Bell (Liberal)">
         <Votes>47356</Votes>
         <VotesPC>51.5</VotesPC>
         <Swing>-6.8</Swing>
@@ -6779,7 +6779,7 @@
       </Candidate>
     </TablePrimary>
     <TableTCP>
-      <Candidate Name="Angie Bell (Liberal National)">
+      <Candidate Name="Angie Bell (Liberal)">
         <Votes>60079</Votes>
         <VotesPC>65.4</VotesPC>
         <Swing>0.8</Swing>
@@ -6827,7 +6827,7 @@
       <Age8>4.5</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Moreton" Incumbent="Labor" Margin="1.9%" Region="Southern Brisbane" State="QLD" Enrolment="107128">
+  <Division Name="Moreton" Incumbent="Liberal" Margin="0.5%" Region="Southern Brisbane" State="QLD" Enrolment="107128">
     <TablePrimary>
       <Candidate Name="Aaron Nieass (FACN)">
         <Votes>1561</Votes>
@@ -6847,7 +6847,7 @@
         <Votes>3002</Votes>
         <VotesPC>3.3</VotesPC>
       </Candidate>
-      <Candidate Name="Angela Owen (Liberal National)">
+      <Candidate Name="Angela Owen (Liberal)">
         <Votes>37011</Votes>
         <VotesPC>40.8</VotesPC>
         <Swing>3.0</Swing>
@@ -6870,7 +6870,7 @@
         <VotesPC>51.9</VotesPC>
         <Swing>-2.1</Swing>
       </Candidate>
-      <Candidate Name="Angela Owen (Liberal National)">
+      <Candidate Name="Angela Owen (Liberal)">
         <Votes>43597</Votes>
         <VotesPC>48.1</VotesPC>
         <Swing>2.1</Swing>
@@ -6913,9 +6913,9 @@
       <Age8>3.3</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Oxley" Incumbent="Labor" Margin="6.4%" Region="Western Brisbane" State="QLD" Enrolment="112740">
+  <Division Name="Oxley" Incumbent="Labor" Margin="9.7%" Region="Western Brisbane" State="QLD" Enrolment="112740">
     <TablePrimary>
-      <Candidate Name="Russell Bauer (Liberal National)">
+      <Candidate Name="Russell Bauer (Liberal)">
         <Votes>31290</Votes>
         <VotesPC>34.6</VotesPC>
         <Swing>2.4</Swing>
@@ -6956,7 +6956,7 @@
       </Candidate>
     </TablePrimary>
     <TableTCP>
-      <Candidate Name="Russell Bauer (Liberal National)">
+      <Candidate Name="Russell Bauer (Liberal)">
         <Votes>39473</Votes>
         <VotesPC>43.6</VotesPC>
         <Swing>2.6</Swing>
@@ -7004,13 +7004,13 @@
       <Age8>2.0</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Petrie" Incumbent="Liberal National" Margin="8.4%" Region="Northern Brisbane" State="QLD" Enrolment="124966">
+  <Division Name="Petrie" Incumbent="Liberal" Margin="0.8%" Region="Northern Brisbane" State="QLD" Enrolment="124966">
     <TablePrimary>
       <Candidate Name="Troy Hopkins (United Australia)">
         <Votes>3361</Votes>
         <VotesPC>3.3</VotesPC>
       </Candidate>
-      <Candidate Name="Luke Howarth (Liberal National)">
+      <Candidate Name="Luke Howarth (Liberal)">
         <Votes>48879</Votes>
         <VotesPC>48.1</VotesPC>
         <Swing>3.4</Swing>
@@ -7042,7 +7042,7 @@
       </Candidate>
     </TablePrimary>
     <TableTCP>
-      <Candidate Name="Luke Howarth (Liberal National)">
+      <Candidate Name="Luke Howarth (Liberal)">
         <Votes>59331</Votes>
         <VotesPC>58.4</VotesPC>
         <Swing>6.8</Swing>
@@ -7090,7 +7090,7 @@
       <Age8>4.5</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Rankin" Incumbent="Labor" Margin="6.4%" Region="Southern Brisbane" State="QLD" Enrolment="108082">
+  <Division Name="Rankin" Incumbent="Labor" Margin="10.8%" Region="Southern Brisbane" State="QLD" Enrolment="108082">
     <TablePrimary>
       <Candidate Name="Jim Chalmers (Labor)">
         <Votes>35156</Votes>
@@ -7119,7 +7119,7 @@
         <VotesPC>2.8</VotesPC>
         <Swing>-1.3</Swing>
       </Candidate>
-      <Candidate Name="Clinton Pattison (Liberal National)">
+      <Candidate Name="Clinton Pattison (Liberal)">
         <Votes>26608</Votes>
         <VotesPC>31.4</VotesPC>
         <Swing>2.7</Swing>
@@ -7144,7 +7144,7 @@
         <VotesPC>56.4</VotesPC>
         <Swing>-4.9</Swing>
       </Candidate>
-      <Candidate Name="Clinton Pattison (Liberal National)">
+      <Candidate Name="Clinton Pattison (Liberal)">
         <Votes>36971</Votes>
         <VotesPC>43.6</VotesPC>
         <Swing>4.9</Swing>
@@ -7187,7 +7187,7 @@
       <Age8>1.8</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Ryan" Incumbent="Liberal National" Margin="6.0%" Region="Western Brisbane" State="QLD" Enrolment="111363">
+  <Division Name="Ryan" Incumbent="Liberal" Margin="2.7%" Region="Western Brisbane" State="QLD" Enrolment="111363">
     <TablePrimary>
       <Candidate Name="Peter Cossar (Labor)">
         <Votes>23560</Votes>
@@ -7206,7 +7206,7 @@
         <Votes>2080</Votes>
         <VotesPC>2.2</VotesPC>
       </Candidate>
-      <Candidate Name="Julian Simmonds (Liberal National)">
+      <Candidate Name="Julian Simmonds (Liberal)">
         <Votes>46869</Votes>
         <VotesPC>48.6</VotesPC>
         <Swing>-3.5</Swing>
@@ -7234,7 +7234,7 @@
         <VotesPC>44.0</VotesPC>
         <Swing>2.9</Swing>
       </Candidate>
-      <Candidate Name="Julian Simmonds (Liberal National)">
+      <Candidate Name="Julian Simmonds (Liberal)">
         <Votes>54023</Votes>
         <VotesPC>56.0</VotesPC>
         <Swing>-2.9</Swing>
@@ -7277,7 +7277,7 @@
       <Age8>3.2</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Wide Bay" Incumbent="Liberal National" Margin="13.1%" Region="Central Coast" State="QLD" Enrolment="115420">
+  <Division Name="Wide Bay" Incumbent="One Nation" Margin="8.9%" Region="Central Coast" State="QLD" Enrolment="115420">
     <TablePrimary>
       <Candidate Name="Daniel Bryar (Greens)">
         <Votes>9330</Votes>
@@ -7293,7 +7293,7 @@
         <Votes>3385</Votes>
         <VotesPC>3.6</VotesPC>
       </Candidate>
-      <Candidate Name="Llew O'Brien (Liberal National)">
+      <Candidate Name="Llew O'Brien (Liberal)">
         <Votes>44204</Votes>
         <VotesPC>47.1</VotesPC>
         <Swing>3.2</Swing>
@@ -7325,7 +7325,7 @@
         <VotesPC>36.9</VotesPC>
         <Swing>-5.0</Swing>
       </Candidate>
-      <Candidate Name="Llew O'Brien (Liberal National)">
+      <Candidate Name="Llew O'Brien (Liberal)">
         <Votes>59279</Votes>
         <VotesPC>63.1</VotesPC>
         <Swing>5.0</Swing>
@@ -7368,7 +7368,7 @@
       <Age8>4.8</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Wright" Incumbent="Liberal National" Margin="14.6%" Region="South-Eastern" State="QLD" Enrolment="123884">
+  <Division Name="Wright" Incumbent="Liberal" Margin="0.3% versus One Nation" Region="South-Eastern" State="QLD" Enrolment="123884">
     <TablePrimary>
       <Candidate Name="David Wright (United Australia)">
         <Votes>4747</Votes>
@@ -7401,7 +7401,7 @@
         <VotesPC>14.0</VotesPC>
         <Swing>-6.9</Swing>
       </Candidate>
-      <Candidate Name="Scott Buchholz (Liberal National)">
+      <Candidate Name="Scott Buchholz (Liberal)">
         <Votes>43522</Votes>
         <VotesPC>44.9</VotesPC>
         <Swing>3.1</Swing>
@@ -7421,7 +7421,7 @@
         <VotesPC>35.4</VotesPC>
         <Swing>-5.0</Swing>
       </Candidate>
-      <Candidate Name="Scott Buchholz (Liberal National)">
+      <Candidate Name="Scott Buchholz (Liberal)">
         <Votes>62571</Votes>
         <VotesPC>64.6</VotesPC>
         <Swing>5.0</Swing>
@@ -7464,7 +7464,7 @@
       <Age8>2.5</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Adelaide" Incumbent="Democrats" Margin="8.2%" Region="Central Adelaide" State="SA" Enrolment="130151">
+  <Division Name="Adelaide" Incumbent="Democrats" Margin="3.4% versus Labor" Region="Central Adelaide" State="SA" Enrolment="130151">
     <TablePrimary>
       <Candidate Name="Chris James (Australian Democrats)">
         <Votes>2039</Votes>
@@ -7551,7 +7551,7 @@
       <Age8>4.7</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Barker" Incumbent="Liberal" Margin="18.9%" Region="Eastern Rural" State="SA" Enrolment="123518">
+  <Division Name="Barker" Incumbent="Liberal" Margin="14.3%" Region="Eastern Rural" State="SA" Enrolment="123518">
     <TablePrimary>
       <Candidate Name="Rosa Hillam (Greens)">
         <Votes>7229</Votes>
@@ -7642,7 +7642,7 @@
       <Age8>4.9</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Boothby" Incumbent="Liberal" Margin="1.4%" Region="Southern Adelaide" State="SA" Enrolment="128766">
+  <Division Name="Boothby" Incumbent="Liberal" Margin="0.9%" Region="Southern Adelaide" State="SA" Enrolment="128766">
     <TablePrimary>
       <Candidate Name="Geoff Russell (Animal Justice)">
         <Votes>2675</Votes>
@@ -7737,7 +7737,7 @@
       <Age8>6.6</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Grey" Incumbent="Liberal" Margin="13.3%" Region="Outback" State="SA" Enrolment="123812">
+  <Division Name="Grey" Incumbent="One Nation" Margin="3.7%" Region="Outback" State="SA" Enrolment="123812">
     <TablePrimary>
       <Candidate Name="Jacqui Edgecombe (Animal Justice)">
         <Votes>2681</Votes>
@@ -7832,7 +7832,7 @@
       <Age8>4.6</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Hindmarsh" Incumbent="Labor" Margin="6.5%" Region="Western Adelaide" State="SA" Enrolment="128814">
+  <Division Name="Hindmarsh" Incumbent="Labor" Margin="9.6%" Region="Western Adelaide" State="SA" Enrolment="128814">
     <TablePrimary>
       <Candidate Name="Rajan Vaid (FACN)">
         <Votes>2052</Votes>
@@ -7919,7 +7919,7 @@
       <Age8>6.0</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Kingston" Incumbent="Labor" Margin="11.9%" Region="Southern Adelaide" State="SA" Enrolment="124582">
+  <Division Name="Kingston" Incumbent="Labor" Margin="15.6%" Region="Southern Adelaide" State="SA" Enrolment="124582">
     <TablePrimary>
       <Candidate Name="Amanda Rishworth (Labor)">
         <Votes>53655</Votes>
@@ -8002,7 +8002,7 @@
       <Age8>3.8</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Makin" Incumbent="Labor" Margin="9.7%" Region="Eastern Adelaide" State="SA" Enrolment="123243">
+  <Division Name="Makin" Incumbent="Labor" Margin="15.0%" Region="Eastern Adelaide" State="SA" Enrolment="123243">
     <TablePrimary>
       <Candidate Name="Tony Zappia (Labor)">
         <Votes>51666</Votes>
@@ -8085,7 +8085,7 @@
       <Age8>3.8</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Mayo" Incumbent="Centre Alliance" Margin="2.5% versus Liberal" Region="Adelaide Hinterland" State="SA" Enrolment="130767">
+  <Division Name="Mayo" Incumbent="Labor" Margin="5.0%" Region="Adelaide Hinterland" State="SA" Enrolment="130767">
     <TablePrimary>
       <Candidate Name="Georgina Downer (Liberal)">
         <Votes>42426</Votes>
@@ -8177,7 +8177,7 @@
       <Age8>4.5</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Spence" Incumbent="Labor" Margin="14.1%" Region="Northern Adelaide" State="SA" Enrolment="129243">
+  <Division Name="Spence" Incumbent="Labor" Margin="16.2%" Region="Northern Adelaide" State="SA" Enrolment="129243">
     <TablePrimary>
       <Candidate Name="Nick Champion (Labor)">
         <Votes>51791</Votes>
@@ -8264,7 +8264,7 @@
       <Age8>3.3</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Sturt" Incumbent="Liberal" Margin="6.9%" Region="Eastern Adelaide" State="SA" Enrolment="129151">
+  <Division Name="Sturt" Incumbent="Liberal" Margin="5.5%" Region="Eastern Adelaide" State="SA" Enrolment="129151">
     <TablePrimary>
       <Candidate Name="Paul Boundy (Greens)">
         <Votes>12263</Votes>
@@ -8359,7 +8359,7 @@
       <Age8>6.3</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Bass" Incumbent="Liberal" Margin="0.4%" Region="Launceston/North-Eastern" State="TAS" Enrolment="79433">
+  <Division Name="Bass" Incumbent="Liberal" Margin="0.6%" Region="Launceston/North-Eastern" State="TAS" Enrolment="79433">
     <TablePrimary>
       <Candidate Name="Tom Hall (Greens)">
         <Votes>7202</Votes>
@@ -8449,7 +8449,7 @@
       <Age8>4.6</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Braddon" Incumbent="Liberal" Margin="3.1%" Region="North-Western" State="TAS" Enrolment="82527">
+  <Division Name="Braddon" Incumbent="Liberal" Margin="1.8%" Region="North-Western" State="TAS" Enrolment="82527">
     <TablePrimary>
       <Candidate Name="Karen Spaulding (United Australia)">
         <Votes>2575</Votes>
@@ -8547,7 +8547,7 @@
       <Age8>4.8</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Clark" Incumbent="Independent" Margin="22.1% versus Labor" Region="Inner Hobart" State="TAS" Enrolment="74797">
+  <Division Name="Clark" Incumbent="Labor" Margin="14.1% versus Democrats" Region="Inner Hobart" State="TAS" Enrolment="74797">
     <TablePrimary>
       <Candidate Name="Andrew Wilkie (Independent)">
         <Votes>33761</Votes>
@@ -8634,7 +8634,7 @@
       <Age8>4.8</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Franklin" Incumbent="Labor" Margin="12.2%" Region="Outer Hobart" State="TAS" Enrolment="80331">
+  <Division Name="Franklin" Incumbent="Labor" Margin="8.8%" Region="Outer Hobart" State="TAS" Enrolment="80331">
     <TablePrimary>
       <Candidate Name="Kit Darko (Greens)">
         <Votes>11420</Votes>
@@ -8716,7 +8716,7 @@
       <Age8>4.6</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Lyons" Incumbent="Labor" Margin="5.2%" Region="Central Tasmania" State="TAS" Enrolment="85243">
+  <Division Name="Lyons" Incumbent="Labor" Margin="4.7%" Region="Central Tasmania" State="TAS" Enrolment="85243">
     <TablePrimary>
       <Candidate Name="Deanna Hutchinson (Nationals)">
         <Votes>11222</Votes>
@@ -8802,7 +8802,7 @@
       <Age8>3.7</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Aston" Incumbent="Liberal" Margin="10.1%" Region="Eastern Melbourne" State="VIC" Enrolment="109826">
+  <Division Name="Aston" Incumbent="Liberal" Margin="5.6%" Region="Eastern Melbourne" State="VIC" Enrolment="109826">
     <TablePrimary>
       <Candidate Name="Alan Tudge (Liberal)">
         <Votes>54744</Votes>
@@ -8883,7 +8883,7 @@
       <Age8>3.7</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Ballarat" Incumbent="Labor" Margin="10.2%" Region="Central Victoria" State="VIC" Enrolment="110704">
+  <Division Name="Ballarat" Incumbent="Labor" Margin="9.6%" Region="Central Victoria" State="VIC" Enrolment="110704">
     <TablePrimary>
       <Candidate Name="Bryn Hills (Animal Justice)">
         <Votes>4393</Votes>
@@ -8972,7 +8972,7 @@
       <Age8>4.2</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Bendigo" Incumbent="Labor" Margin="8.9%" Region="Central Victoria" State="VIC" Enrolment="112498">
+  <Division Name="Bendigo" Incumbent="Labor" Margin="8.6%" Region="Central Victoria" State="VIC" Enrolment="112498">
     <TablePrimary>
       <Candidate Name="Sharon Budde (Rise Up Australia)">
         <Votes>1464</Votes>
@@ -9062,7 +9062,7 @@
       <Age8>4.8</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Bruce" Incumbent="Labor" Margin="7.3%" Region="South-Eastern Melbourne" State="VIC" Enrolment="112896">
+  <Division Name="Bruce" Incumbent="Labor" Margin="9.3%" Region="South-Eastern Melbourne" State="VIC" Enrolment="112896">
     <TablePrimary>
       <Candidate Name="Tim Boyanton (FACN)">
         <Votes>3377</Votes>
@@ -9143,7 +9143,7 @@
       <Age8>3.0</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Calwell" Incumbent="Labor" Margin="19.6%" Region="Northern Melbourne" State="VIC" Enrolment="106782">
+  <Division Name="Calwell" Incumbent="Labor" Margin="21.4%" Region="Northern Melbourne" State="VIC" Enrolment="106782">
     <TablePrimary>
       <Candidate Name="Keith Kerr (Citizens Electoral Council)">
         <Votes>2851</Votes>
@@ -9236,7 +9236,7 @@
       <Age8>1.5</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Casey" Incumbent="Liberal" Margin="4.6%" Region="Outer Eastern Melbourne" State="VIC" Enrolment="114385">
+  <Division Name="Casey" Incumbent="Liberal" Margin="0.8%" Region="Outer Eastern Melbourne" State="VIC" Enrolment="114385">
     <TablePrimary>
       <Candidate Name="Peter Charleton (Independent)">
         <Votes>2302</Votes>
@@ -9341,7 +9341,7 @@
       <Age8>3.2</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Chisholm" Incumbent="Liberal" Margin="0.5%" Region="Eastern Melbourne" State="VIC" Enrolment="109973">
+  <Division Name="Chisholm" Incumbent="Labor" Margin="2.9%" Region="Eastern Melbourne" State="VIC" Enrolment="109973">
     <TablePrimary>
       <Candidate Name="Ian Dobby (Independent)">
         <Votes>2319</Votes>
@@ -9440,7 +9440,7 @@
       <Age8>5.9</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Cooper" Incumbent="Labor" Margin="14.6% versus Greens" Region="Inner Northern Melbourne" State="VIC" Enrolment="108730">
+  <Division Name="Cooper" Incumbent="Labor" Margin="21.5% versus Democrats" Region="Inner Northern Melbourne" State="VIC" Enrolment="108730">
     <TablePrimary>
       <Candidate Name="Teresa van Lieshout (Independent)">
         <Votes>1660</Votes>
@@ -9538,7 +9538,7 @@
       <Age8>4.8</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Corangamite" Incumbent="Labor" Margin="1.1%" Region="Western Coastal" State="VIC" Enrolment="112756">
+  <Division Name="Corangamite" Incumbent="Labor" Margin="4.2%" Region="Western Coastal" State="VIC" Enrolment="112756">
     <TablePrimary>
       <Candidate Name="Ian Erskine (Rise Up Australia)">
         <Votes>1117</Votes>
@@ -9634,7 +9634,7 @@
       <Age8>4.8</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Corio" Incumbent="Labor" Margin="10.3%" Region="Geelong" State="VIC" Enrolment="112651">
+  <Division Name="Corio" Incumbent="Labor" Margin="8.2% versus Liberal" Region="Geelong" State="VIC" Enrolment="112651">
     <TablePrimary>
       <Candidate Name="Richard Marles (Labor)">
         <Votes>47010</Votes>
@@ -9711,7 +9711,7 @@
       <Age8>4.9</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Deakin" Incumbent="Liberal" Margin="4.7%" Region="Eastern Melbourne" State="VIC" Enrolment="112589">
+  <Division Name="Deakin" Incumbent="Liberal" Margin="0.8%" Region="Eastern Melbourne" State="VIC" Enrolment="112589">
     <TablePrimary>
       <Candidate Name="Ellie Sullivan (Derryn Hinch's Justice)">
         <Votes>3386</Votes>
@@ -9805,7 +9805,7 @@
       <Age8>4.9</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Dunkley" Incumbent="Labor" Margin="2.7%" Region="South-Eastern Melbourne" State="VIC" Enrolment="111693">
+  <Division Name="Dunkley" Incumbent="Labor" Margin="8.1%" Region="South-Eastern Melbourne" State="VIC" Enrolment="111693">
     <TablePrimary>
       <Candidate Name="Lachlan O'Connell (Derryn Hinch's Justice)">
         <Votes>5027</Votes>
@@ -9901,7 +9901,7 @@
       <Age8>3.8</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Flinders" Incumbent="Liberal" Margin="5.6%" Region="Southern Melbourne Fringe" State="VIC" Enrolment="114542">
+  <Division Name="Flinders" Incumbent="Liberal" Margin="5.3%" Region="Southern Melbourne Fringe" State="VIC" Enrolment="114542">
     <TablePrimary>
       <Candidate Name="Harry Dreger (Independent)">
         <Votes>940</Votes>
@@ -9999,7 +9999,7 @@
       <Age8>6.5</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Fraser" Incumbent="Labor" Margin="18.1%" Region="Western Melbourne" State="VIC" Enrolment="111060">
+  <Division Name="Fraser" Incumbent="Labor" Margin="23.2%" Region="Western Melbourne" State="VIC" Enrolment="111060">
     <TablePrimary>
       <Candidate Name="Vinh Van Chau (United Australia)">
         <Votes>7314</Votes>
@@ -10085,7 +10085,7 @@
       <Age8>3.3</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Gellibrand" Incumbent="Labor" Margin="13.0%" Region="Western Melbourne" State="VIC" Enrolment="108169">
+  <Division Name="Gellibrand" Incumbent="Labor" Margin="15.3%" Region="Western Melbourne" State="VIC" Enrolment="108169">
     <TablePrimary>
       <Candidate Name="Tim Watts (Labor)">
         <Votes>47942</Votes>
@@ -10162,7 +10162,7 @@
       <Age8>2.8</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Gippsland" Incumbent="Nationals" Margin="16.7%" Region="East Gippsland" State="VIC" Enrolment="114568">
+  <Division Name="Gippsland" Incumbent="One Nation" Margin="14.3%" Region="East Gippsland" State="VIC" Enrolment="114568">
     <TablePrimary>
       <Candidate Name="David Snelling (Shooters)">
         <Votes>6872</Votes>
@@ -10251,7 +10251,7 @@
       <Age8>4.9</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Goldstein" Incumbent="Liberal" Margin="7.8%" Region="Southern Melbourne" State="VIC" Enrolment="109773">
+  <Division Name="Goldstein" Incumbent="Liberal" Margin="7.2%" Region="Southern Melbourne" State="VIC" Enrolment="109773">
     <TablePrimary>
       <Candidate Name="Wayne Connolly (United Australia)">
         <Votes>1945</Votes>
@@ -10336,7 +10336,7 @@
       <Age8>5.6</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Gorton" Incumbent="Labor" Margin="14.2%" Region="Northern Melbourne" State="VIC" Enrolment="110928">
+  <Division Name="Gorton" Incumbent="Labor" Margin="18.7%" Region="Northern Melbourne" State="VIC" Enrolment="110928">
     <TablePrimary>
       <Candidate Name="Richard Turton (United Australia)">
         <Votes>7473</Votes>
@@ -10417,7 +10417,7 @@
       <Age8>1.8</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Hawke" Incumbent="Labor" Margin="10.2%" Region="Western Melbourne Fringe" State="VIC" Enrolment="106554">
+  <Division Name="Hawke" Incumbent="Labor" Margin="12.8%" Region="Western Melbourne Fringe" State="VIC" Enrolment="106554">
     <TablePrimary />
     <TableTCP />
     <BarPrimary>
@@ -10456,7 +10456,7 @@
       <Age8>2.2</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Higgins" Incumbent="Liberal" Margin="2.6%" Region="South-Eastern Melbourne" State="VIC" Enrolment="107782">
+  <Division Name="Higgins" Incumbent="Labor" Margin="3.4%" Region="South-Eastern Melbourne" State="VIC" Enrolment="107782">
     <TablePrimary>
       <Candidate Name="Jason Ball (Greens)">
         <Votes>22573</Votes>
@@ -10542,7 +10542,7 @@
       <Age8>4.1</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Holt" Incumbent="Labor" Margin="8.6%" Region="South-Eastern Melbourne" State="VIC" Enrolment="107465">
+  <Division Name="Holt" Incumbent="Labor" Margin="10.3%" Region="South-Eastern Melbourne" State="VIC" Enrolment="107465">
     <TablePrimary>
       <Candidate Name="Anthony Byrne (Labor)">
         <Votes>48031</Votes>
@@ -10619,7 +10619,7 @@
       <Age8>1.7</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Hotham" Incumbent="Labor" Margin="11.2%" Region="South-Eastern Melbourne" State="VIC" Enrolment="116085">
+  <Division Name="Hotham" Incumbent="Labor" Margin="16.5%" Region="South-Eastern Melbourne" State="VIC" Enrolment="116085">
     <TablePrimary>
       <Candidate Name="Jin Luan (United Australia)">
         <Votes>3483</Votes>
@@ -10705,7 +10705,7 @@
       <Age8>4.4</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Indi" Incumbent="Independent" Margin="1.4% versus Liberal" Region="Northern Victoria" State="VIC" Enrolment="117571">
+  <Division Name="Indi" Incumbent="One Nation" Margin="6.6%" Region="Northern Victoria" State="VIC" Enrolment="117571">
     <TablePrimary>
       <Candidate Name="Helen Robinson (Greens)">
         <Votes>4255</Votes>
@@ -10801,7 +10801,7 @@
       <Age8>5.1</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Isaacs" Incumbent="Labor" Margin="6.5%" Region="South-Eastern Melbourne" State="VIC" Enrolment="110797">
+  <Division Name="Isaacs" Incumbent="Labor" Margin="11.4%" Region="South-Eastern Melbourne" State="VIC" Enrolment="110797">
     <TablePrimary>
       <Candidate Name="Kim Samiotis (Greens)">
         <Votes>10822</Votes>
@@ -10888,7 +10888,7 @@
       <Age8>4.8</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Jagajaga" Incumbent="Labor" Margin="5.9%" Region="Northern Melbourne" State="VIC" Enrolment="113239">
+  <Division Name="Jagajaga" Incumbent="Labor" Margin="7.3%" Region="Northern Melbourne" State="VIC" Enrolment="113239">
     <TablePrimary>
       <Candidate Name="Maria Marcia Rigoni (United Australia)">
         <Votes>3652</Votes>
@@ -10969,7 +10969,7 @@
       <Age8>4.2</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Kooyong" Incumbent="Liberal" Margin="5.4% versus Greens" Region="Inner Eastern Melbourne" State="VIC" Enrolment="113054">
+  <Division Name="Kooyong" Incumbent="Liberal" Margin="5.6% versus Democrats" Region="Inner Eastern Melbourne" State="VIC" Enrolment="113054">
     <TablePrimary>
       <Candidate Name="Steven D'Elia (United Australia)">
         <Votes>1185</Votes>
@@ -11066,7 +11066,7 @@
       <Age8>5.0</Age8>
     </AgeDist>
   </Division>
-  <Division Name="La Trobe" Incumbent="Liberal" Margin="5.1%" Region="Outer Eastern Melbourne" State="VIC" Enrolment="105857">
+  <Division Name="La Trobe" Incumbent="Liberal" Margin="1.0%" Region="Outer Eastern Melbourne" State="VIC" Enrolment="105857">
     <TablePrimary>
       <Candidate Name="Amy Gregorovich (Greens)">
         <Votes>7752</Votes>
@@ -11157,7 +11157,7 @@
       <Age8>2.6</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Lalor" Incumbent="Labor" Margin="12.5%" Region="Western Melbourne" State="VIC" Enrolment="107013">
+  <Division Name="Lalor" Incumbent="Labor" Margin="13.9%" Region="Western Melbourne" State="VIC" Enrolment="107013">
     <TablePrimary>
       <Candidate Name="Susan Jakobi (Australia First)">
         <Votes>4094</Votes>
@@ -11244,7 +11244,7 @@
       <Age8>1.7</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Macnamara" Incumbent="Labor" Margin="4.9%" Region="Inner Southern Melbourne" State="VIC" Enrolment="110676">
+  <Division Name="Macnamara" Incumbent="Labor" Margin="6.4%" Region="Inner Southern Melbourne" State="VIC" Enrolment="110676">
     <TablePrimary>
       <Candidate Name="Ruby O'Rourke (Independent)">
         <Votes>1108</Votes>
@@ -11342,7 +11342,7 @@
       <Age8>3.0</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Mallee" Incumbent="Nationals" Margin="15.7%" Region="North-Western Victoria" State="VIC" Enrolment="120339">
+  <Division Name="Mallee" Incumbent="One Nation" Margin="16.3%" Region="North-Western Victoria" State="VIC" Enrolment="120339">
     <TablePrimary>
       <Candidate Name="Serge Petrovich (Liberal)">
         <Votes>17665</Votes>
@@ -11459,7 +11459,7 @@
       <Age8>6.0</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Maribyrnong" Incumbent="Labor" Margin="10.3%" Region="Western Melbourne" State="VIC" Enrolment="109030">
+  <Division Name="Maribyrnong" Incumbent="Labor" Margin="12.1%" Region="Western Melbourne" State="VIC" Enrolment="109030">
     <TablePrimary>
       <Candidate Name="MD Sarwar Hasan (United Australia)">
         <Votes>3617</Votes>
@@ -11536,7 +11536,7 @@
       <Age8>4.4</Age8>
     </AgeDist>
   </Division>
-  <Division Name="McEwen" Incumbent="Labor" Margin="5.3%" Region="Northern Melbourne Fringe" State="VIC" Enrolment="108089">
+  <Division Name="McEwen" Incumbent="Labor" Margin="6.3%" Region="Northern Melbourne Fringe" State="VIC" Enrolment="108089">
     <TablePrimary>
       <Candidate Name="Neil Barker (Greens)">
         <Votes>8026</Votes>
@@ -11630,7 +11630,7 @@
       <Age8>2.0</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Melbourne" Incumbent="Greens" Margin="22.6% versus Liberal" Region="Inner Melbourne" State="VIC" Enrolment="114447">
+  <Division Name="Melbourne" Incumbent="Democrats" Margin="5.3% versus Labor" Region="Inner Melbourne" State="VIC" Enrolment="114447">
     <TablePrimary>
       <Candidate Name="Judy Ryan (Reason Australia)">
         <Votes>4756</Votes>
@@ -11724,7 +11724,7 @@
       <Age8>1.9</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Menzies" Incumbent="Liberal" Margin="7.0%" Region="Eastern Melbourne" State="VIC" Enrolment="112876">
+  <Division Name="Menzies" Incumbent="Liberal" Margin="5.9%" Region="Eastern Melbourne" State="VIC" Enrolment="112876">
     <TablePrimary>
       <Candidate Name="Teresa Mary Kelleher (Labour DLP)">
         <Votes>3026</Votes>
@@ -11809,7 +11809,7 @@
       <Age8>5.7</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Monash" Incumbent="Liberal" Margin="6.9%" Region="West Gippsland" State="VIC" Enrolment="111241">
+  <Division Name="Monash" Incumbent="Liberal" Margin="6.3%" Region="West Gippsland" State="VIC" Enrolment="111241">
     <TablePrimary>
       <Candidate Name="John Verhoeven (Independent)">
         <Votes>2723</Votes>
@@ -11898,7 +11898,7 @@
       <Age8>5.4</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Nicholls" Incumbent="Nationals" Margin="20.0%" Region="Rural Northern" State="VIC" Enrolment="114542">
+  <Division Name="Nicholls" Incumbent="One Nation" Margin="17.8%" Region="Rural Northern" State="VIC" Enrolment="114542">
     <TablePrimary>
       <Candidate Name="Damian Drum (Nationals)">
         <Votes>48855</Votes>
@@ -11993,7 +11993,7 @@
       <Age8>5.2</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Scullin" Incumbent="Labor" Margin="21.7%" Region="Northern Melbourne" State="VIC" Enrolment="108670">
+  <Division Name="Scullin" Incumbent="Labor" Margin="22.1%" Region="Northern Melbourne" State="VIC" Enrolment="108670">
     <TablePrimary>
       <Candidate Name="Andrew Giles (Labor)">
         <Votes>55467</Votes>
@@ -12079,7 +12079,7 @@
       <Age8>2.9</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Wannon" Incumbent="Liberal" Margin="10.2%" Region="Western Victoria" State="VIC" Enrolment="115858">
+  <Division Name="Wannon" Incumbent="Liberal" Margin="7.1%" Region="Western Victoria" State="VIC" Enrolment="115858">
     <TablePrimary>
       <Candidate Name="Zephlyn Taylor (Greens)">
         <Votes>6590</Votes>
@@ -12160,7 +12160,7 @@
       <Age8>5.5</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Wills" Incumbent="Labor" Margin="8.5% versus Greens" Region="Inner Northern Melbourne" State="VIC" Enrolment="108500">
+  <Division Name="Wills" Incumbent="Labor" Margin="15.2% versus Democrats" Region="Inner Northern Melbourne" State="VIC" Enrolment="108500">
     <TablePrimary>
       <Candidate Name="Chris Miles (Animal Justice)">
         <Votes>3596</Votes>
@@ -12250,7 +12250,7 @@
       <Age8>5.1</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Brand" Incumbent="Labor" Margin="6.7%" Region="Southern Perth" State="WA" Enrolment="118225">
+  <Division Name="Brand" Incumbent="Labor" Margin="5.9%" Region="Southern Perth" State="WA" Enrolment="118225">
     <TablePrimary>
       <Candidate Name="Janine Vander Ven (Australian Christians)">
         <Votes>2726</Votes>
@@ -12345,7 +12345,7 @@
       <Age8>2.6</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Burt" Incumbent="Labor" Margin="5.5%" Region="Southern Perth" State="WA" Enrolment="113024">
+  <Division Name="Burt" Incumbent="Labor" Margin="9.4%" Region="Southern Perth" State="WA" Enrolment="113024">
     <TablePrimary>
       <Candidate Name="Simone Collins (Greens)">
         <Votes>8285</Votes>
@@ -12445,7 +12445,7 @@
       <Age8>2.5</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Canning" Incumbent="Liberal" Margin="11.6%" Region="Southern Perth" State="WA" Enrolment="115310">
+  <Division Name="Canning" Incumbent="Liberal" Margin="7.5%" Region="Southern Perth" State="WA" Enrolment="115310">
     <TablePrimary>
       <Candidate Name="Malcolm Phillip Heffernan (FACN)">
         <Votes>1600</Votes>
@@ -12540,7 +12540,7 @@
       <Age8>4.2</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Cowan" Incumbent="Labor" Margin="0.9%" Region="Northern Perth" State="WA" Enrolment="122741">
+  <Division Name="Cowan" Incumbent="Labor" Margin="4.2%" Region="Northern Perth" State="WA" Enrolment="122741">
     <TablePrimary>
       <Candidate Name="Mark Cooper (Greens)">
         <Votes>8551</Votes>
@@ -12632,7 +12632,7 @@
       <Age8>3.2</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Curtin" Incumbent="Liberal" Margin="13.9%" Region="Western Perth" State="WA" Enrolment="119397">
+  <Division Name="Curtin" Incumbent="Liberal" Margin="6.0%" Region="Western Perth" State="WA" Enrolment="119397">
     <TablePrimary>
       <Candidate Name="Joan Anne Lever (United Australia)">
         <Votes>1114</Votes>
@@ -12726,7 +12726,7 @@
       <Age8>4.8</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Durack" Incumbent="Liberal" Margin="13.5%" Region="Northern Regional" State="WA" Enrolment="118558">
+  <Division Name="Durack" Incumbent="Liberal" Margin="9.8%" Region="Northern Regional" State="WA" Enrolment="118558">
     <TablePrimary>
       <Candidate Name="Melissa Price (Liberal)">
         <Votes>34429</Votes>
@@ -12817,7 +12817,7 @@
       <Age8>1.8</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Forrest" Incumbent="Liberal" Margin="14.6%" Region="South West" State="WA" Enrolment="113148">
+  <Division Name="Forrest" Incumbent="Liberal" Margin="11.0%" Region="South West" State="WA" Enrolment="113148">
     <TablePrimary>
       <Candidate Name="Nerilee Boshammer (Greens)">
         <Votes>11645</Votes>
@@ -12911,7 +12911,7 @@
       <Age8>3.7</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Fremantle" Incumbent="Labor" Margin="6.9%" Region="Southern Perth" State="WA" Enrolment="116905">
+  <Division Name="Fremantle" Incumbent="Labor" Margin="9.2%" Region="Southern Perth" State="WA" Enrolment="116905">
     <TablePrimary>
       <Candidate Name="Janetia Knapp (Western Australia)">
         <Votes>2333</Votes>
@@ -13006,7 +13006,7 @@
       <Age8>3.4</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Hasluck" Incumbent="Liberal" Margin="5.9%" Region="Eastern Perth" State="WA" Enrolment="117642">
+  <Division Name="Hasluck" Incumbent="Labor" Margin="0.3%" Region="Eastern Perth" State="WA" Enrolment="117642">
     <TablePrimary>
       <Candidate Name="Fiona White-Hartig (Shooters)">
         <Votes>2436</Votes>
@@ -13101,7 +13101,7 @@
       <Age8>2.7</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Moore" Incumbent="Liberal" Margin="11.6%" Region="Northern Perth" State="WA" Enrolment="119412">
+  <Division Name="Moore" Incumbent="Liberal" Margin="9.0%" Region="Northern Perth" State="WA" Enrolment="119412">
     <TablePrimary>
       <Candidate Name="Tyler Walsh (One Nation)">
         <Votes>4113</Votes>
@@ -13196,7 +13196,7 @@
       <Age8>3.0</Age8>
     </AgeDist>
   </Division>
-  <Division Name="O'Connor" Incumbent="Liberal" Margin="15.4%" Region="Southern Regional" State="WA" Enrolment="117954">
+  <Division Name="O'Connor" Incumbent="Liberal" Margin="13.2%" Region="Southern Regional" State="WA" Enrolment="117954">
     <TablePrimary>
       <Candidate Name="John Hassell (Nationals)">
         <Votes>10795</Votes>
@@ -13296,7 +13296,7 @@
       <Age8>3.7</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Pearce" Incumbent="Liberal" Margin="5.2%" Region="Perth Fringe" State="WA" Enrolment="115296">
+  <Division Name="Pearce" Incumbent="Labor" Margin="0.1%" Region="Perth Fringe" State="WA" Enrolment="115296">
     <TablePrimary>
       <Candidate Name="Sandy Old (One Nation)">
         <Votes>8199</Votes>
@@ -13399,7 +13399,7 @@
       <Age8>2.0</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Perth" Incumbent="Labor" Margin="3.2%" Region="Inner Perth" State="WA" Enrolment="122719">
+  <Division Name="Perth" Incumbent="Labor" Margin="8.1%" Region="Inner Perth" State="WA" Enrolment="122719">
     <TablePrimary>
       <Candidate Name="Jane Boxall (Western Australia)">
         <Votes>2222</Votes>
@@ -13493,7 +13493,7 @@
       <Age8>4.2</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Swan" Incumbent="Liberal" Margin="3.2%" Region="Inner Perth" State="WA" Enrolment="121335">
+  <Division Name="Swan" Incumbent="Labor" Margin="5.4%" Region="Inner Perth" State="WA" Enrolment="121335">
     <TablePrimary>
       <Candidate Name="Steve Irons (Liberal)">
         <Votes>37591</Votes>
@@ -13596,7 +13596,7 @@
       <Age8>3.7</Age8>
     </AgeDist>
   </Division>
-  <Division Name="Tangney" Incumbent="Liberal" Margin="9.5%" Region="Southern Perth" State="WA" Enrolment="122303">
+  <Division Name="Tangney" Incumbent="Liberal" Margin="7.3%" Region="Southern Perth" State="WA" Enrolment="122303">
     <TablePrimary>
       <Candidate Name="Marion Boswell (Labor)">
         <Votes>21644</Votes>

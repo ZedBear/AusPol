@@ -26,6 +26,10 @@
       <Name>ASHER COOKSON</Name>
       <Party>Australian Democrats</Party>
     </Candidate>
+    <Candidate>
+        <Name>EVAN CHARLESTON</Name>
+        <Party>TNL</Party>
+      </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>MARY DOYLE</Name>
       <Party>Labor</Party>
@@ -120,6 +124,10 @@
       <Name>TOM HALL</Name>
       <Party>Australian Democrats</Party>
     </Candidate>
+    <Candidate>
+        <Name>TAYT NICHOLS</Name>
+        <Party>TNL</Party>
+      </Candidate>
     <Candidate Rank="1" Incumbent="Y">
       <Name>BRIDGET ARCHER</Name>
       <Party>Liberal</Party>
@@ -146,6 +154,10 @@
       <Name>MARION MARTIN</Name>
       <Party>United Australia Party</Party>
     </Candidate>
+    <Candidate>
+        <Name>L. I. LOVE</Name>
+        <Party>TNL</Party>
+      </Candidate>
     <Candidate Incumbent="N">
       <Name>BENJAMIN AMBARD</Name>
       <Party>One Nation</Party>
@@ -238,6 +250,10 @@
       <Name>MARILYN MASON</Name>
       <Party>United Australia Party</Party>
     </Candidate>
+    <Candidate>
+        <Name>BARRET MASON</Name>
+        <Party>TNL</Party>
+      </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>LIZ SUDUK</Name>
       <Party>One Nation</Party>
@@ -300,6 +316,10 @@
       <Name>STEF ROZITIS</Name>
       <Party>Australian Democrats</Party>
     </Candidate>
+    <Candidate>
+        <Name>JOEL COLEN</Name>
+        <Party>TNL</Party>
+      </Candidate>
     <Candidate Incumbent="N">
       <Name>WHITNEY SCOTT</Name>
       <Party>United Australia Party</Party>
@@ -410,6 +430,10 @@
       <Name>WAYNE CRUZ</Name>
       <Party>United Australia Party</Party>
     </Candidate>
+    <Candidate>
+      <Name>HAROLD MACDEVIS</Name>
+      <Party>TNL</Party>
+    </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>DENNY HAMLIN</Name>
       <Party>Australian Democrats</Party>
@@ -484,6 +508,10 @@
       <Name>STEPHANIE LUKE</Name>
       <Party>Australian Democrats</Party>
     </Candidate>
+    <Candidate>
+        <Name>BARRY PENAN</Name>
+        <Party>TNL</Party>
+      </Candidate>
     <Candidate Rank="2" Incumbent="N">
       <Name>WALTER WHITE</Name>
       <Party>Labor</Party>
@@ -590,6 +618,10 @@
       <Name>JENNY GAME-LOPOTA</Name>
       <Party>Australian Democrats</Party>
     </Candidate>
+    <Candidate>
+        <Name>JED SHAW</Name>
+        <Party>TNL</Party>
+      </Candidate>
     <Candidate Rank="1" Incumbent="N">
       <Name>TONY SMITH</Name>
       <Party>Liberal</Party>
@@ -876,6 +908,10 @@
       <Name>MATT GREGG</Name>
       <Party>Labor</Party>
     </Candidate>
+    <Candidate>
+        <Name>RUBY ARNELL</Name>
+        <Party>TNL</Party>
+      </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>SOPHIA SUN</Name>
       <Party>Australian Democrats</Party>
@@ -972,7 +1008,7 @@
       <Name>BRENTON JOHANNSEN</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
+    <Candidate Rank="3" Incumbent="N">
       <Name>JOHANI MAMID</Name>
       <Party>Australian Democrats</Party>
     </Candidate>
@@ -1030,6 +1066,10 @@
       <Name>TED O'BRIEN</Name>
       <Party>Liberal</Party>
     </Candidate>
+    <Candidate>
+        <Name>DEB FRECKLINGTON</Name>
+        <Party>TNL</Party>
+      </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>SUE ETHERIDGE</Name>
       <Party>Australian Democrats</Party>
@@ -1078,6 +1118,10 @@
       <Name>GEORGE GREGAN</Name>
       <Party>Liberal</Party>
     </Candidate>
+    <Candidate>
+        <Name>LARRY HARRISON</Name>
+        <Party>TNL</Party>
+      </Candidate>
     <Candidate Incumbent="N">
       <Name>TYRONE LAWRENCE</Name>
       <Party>United Australia Party</Party>
@@ -1218,7 +1262,7 @@
       <Name>TONY MARGOS</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
+    <Candidate Rank="2" Incumbent="N">
       <Name>SEAMUS LEE</Name>
       <Party>Australian Democrats</Party>
     </Candidate>
@@ -1356,7 +1400,7 @@
     </Candidate>
   </Division>
   <Division id="Goldstein">
-    <Candidate Incumbent="N">
+    <Candidate Rank="2" Incumbent="N">
       <Name>SUE PENNICUIK</Name>
       <Party>Australian Democrats</Party>
     </Candidate>
@@ -1456,11 +1500,11 @@
       <Name>JULIE WATSON</Name>
       <Party>Labor</Party>
     </Candidate>
-    <Candidate Incumbent="N">
+    <Candidate Rank="1" Incumbent="Y">
       <Name>KERRY WHITE</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Rank="1" Incumbent="Y">
+    <Candidate Rank="2" Incumbent="N">
       <Name>DAN VAN HOLST PELLEKAAN</Name>
       <Party>Liberal</Party>
     </Candidate>
@@ -1470,6 +1514,10 @@
       <Name>SHARI WARE</Name>
       <Party>One Nation</Party>
     </Candidate>
+    <Candidate>
+        <Name>POPPY McKINLAY</Name>
+        <Party>TNL</Party>
+      </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>MAX CHANDLER-MATHER</Name>
       <Party>Australian Democrats</Party>
@@ -1602,6 +1650,10 @@
       <Name>CHRISTINE GALLUS</Name>
       <Party>Liberal</Party>
     </Candidate>
+    <Candidate>
+        <Name>EDWARD ASHTON</Name>
+        <Party>TNL</Party>
+      </Candidate>
     <Candidate Incumbent="N">
       <Name>WALTER JOHNSON</Name>
       <Party>One Nation</Party>
@@ -1616,7 +1668,7 @@
     </Candidate>
   </Division>
   <Division id="Hinkler">
-    <Candidate Rank="1" Incumbent="Y">
+    <Candidate Rank="2" Incumbent="N">
       <Name>KEITH PITT</Name>
       <Party>Liberal</Party>
     </Candidate>
@@ -1624,11 +1676,11 @@
       <Name>FELIPE SHERMAN</Name>
       <Party>United Australia Party</Party>
     </Candidate>
-    <Candidate Incumbent="N">
+    <Candidate Rank="1" Incumbent="Y">
       <Name>ZAK MENHENNETT</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Rank="2" Incumbent="N">
+    <Candidate Rank="3" Incumbent="N">
       <Name>JASON SCANES</Name>
       <Party>Labor</Party>
     </Candidate>
@@ -1752,6 +1804,10 @@
       <Name>DANIEL CHAVEZ</Name>
       <Party>United Australia Party</Party>
     </Candidate>
+    <Candidate>
+        <Name>SULLIVAN MATHEWS</Name>
+        <Party>TNL</Party>
+      </Candidate>
     <Candidate Incumbent="N">
       <Name>BETH STEVENS</Name>
       <Party>One Nation</Party>
@@ -1782,6 +1838,10 @@
       <Name>CINDY McLEISH</Name>
       <Party>Liberal</Party>
     </Candidate>
+    <Candidate>
+        <Name>HARRISON KODANT</Name>
+        <Party>TNL</Party>
+      </Candidate>
     <Candidate Rank="3" Incumbent="N">
       <Name>KIM SAMIOTIS</Name>
       <Party>Australian Democrats</Party>
@@ -1880,6 +1940,10 @@
       <Name>LAURENCE CURRY</Name>
       <Party>United Australia Party</Party>
     </Candidate>
+    <Candidate>
+        <Name>MADDISON MILLS</Name>
+        <Party>TNL</Party>
+      </Candidate>
     <Candidate Incumbent="N">
       <Name>JOSH COYNE</Name>
       <Party>One Nation</Party>
@@ -1902,6 +1966,10 @@
       <Name>BRIDGET VALENCE</Name>
       <Party>Liberal</Party>
     </Candidate>
+    <Candidate>
+        <Name>PHIL JOHNSON</Name>
+        <Party>TNL</Party>
+      </Candidate>
     <Candidate Incumbent="N">
       <Name>HADDEN ERVIN</Name>
       <Party>One Nation</Party>
@@ -1927,6 +1995,10 @@
       <Candidate Rank="1" Incumbent="Y">
         <Name>JOANNE RYAN</Name>
         <Party>Labor</Party>
+      </Candidate>
+      <Candidate>
+        <Name>LEROY RICKETON</Name>
+        <Party>TNL</Party>
       </Candidate>
       <Candidate Incumbent="N">
         <Name>PETER MALLIAROS</Name>
@@ -2280,6 +2352,14 @@
         <Name>MARISA BELL</Name>
         <Party>Labor</Party>
       </Candidate>
+      <Candidate>
+        <Name>JOE ADALEN</Name>
+        <Party>TNL</Party>
+      </Candidate>
+      <Candidate>
+        <Name>GLADYS BEREJIKLIAN</Name>
+        <Party>TNL</Party>
+      </Candidate>
       <Candidate Incumbent="N">
         <Name>ANNE BOURNE</Name>
         <Party>Australian Democrats</Party>
@@ -2309,6 +2389,10 @@
       <Candidate Incumbent="N">
         <Name>CHRIS BRADBURY</Name>
         <Party>One Nation</Party>
+      </Candidate>
+      <Candidate>
+        <Name>DONALD BRICK</Name>
+        <Party>TNL</Party>
       </Candidate>
       <Candidate Rank="2" Incumbent="N">
         <Name>SHARMAN STONE</Name>
@@ -2455,6 +2539,10 @@
       <Candidate Rank="1" Incumbent="Y">
         <Name>MATT GRIMES</Name>
         <Party>Liberal</Party>
+      </Candidate>
+      <Candidate>
+        <Name>VICTOR KLINE</Name>
+        <Party>TNL</Party>
       </Candidate>
       <Candidate Incumbent="N">
         <Name>LEEANNE SCHULTZ</Name>
@@ -2644,6 +2732,10 @@
         <Name>KYLE McMILLEN</Name>
         <Party>Liberal</Party>
       </Candidate>
+      <Candidate>
+        <Name>ADAM BAKER</Name>
+        <Party>TNL</Party>
+      </Candidate>
       <Candidate Incumbent="N">
         <Name>DYLAN KOZLOWSKI</Name>
         <Party>One Nation</Party>
@@ -2790,6 +2882,10 @@
         <Name>ALLAN HARRIS</Name>
         <Party>United Australia Party</Party>
       </Candidate>
+      <Candidate>
+        <Name>RYAN EDGAR</Name>
+        <Party>TNL</Party>
+      </Candidate>
       <Candidate Rank="3" Incumbent="N">
         <Name>JASON KENNEDY</Name>
         <Party>Australian Democrats</Party>
@@ -2859,6 +2955,10 @@
       <Candidate Rank="2" Incumbent="N">
         <Name>KIMBERLY HONE</Name>
         <Party>Liberal</Party>
+      </Candidate>
+      <Candidate>
+        <Name>SHIRLEY McFUR</Name>
+        <Party>TNL</Party>
       </Candidate>
       <Candidate Incumbent="N">
         <Name>TRACEY BELL-HENSELIN</Name>
@@ -2988,6 +3088,10 @@
         <Name>TIMOTHY PARISH</Name>
         <Party>Australian Democrats</Party>
       </Candidate>
+      <Candidate>
+        <Name>EDDIE BANTAN</Name>
+        <Party>TNL</Party>
+      </Candidate>
       <Candidate Rank="1" Incumbent="Y">
         <Name>LUKE GOSLING</Name>
         <Party>Labor</Party>
@@ -3031,6 +3135,10 @@
       <Candidate Rank="3" Incumbent="N">
         <Name>PAUL BOUNDY</Name>
         <Party>Australian Democrats</Party>
+      </Candidate>
+      <Candidate>
+        <Name>CONNER LADAK</Name>
+        <Party>TNL</Party>
       </Candidate>
       <Candidate Rank="2" Incumbent="N">
         <Name>OLIVIA SAVVAS</Name>
@@ -3098,6 +3206,10 @@
         <Name>TSHUNG-HUI CHANG</Name>
         <Party>One Nation</Party>
       </Candidate>
+      <Candidate>
+        <Name>MARY MEDICE</Name>
+        <Party>TNL</Party>
+      </Candidate>
       <Candidate Incumbent="N">
         <Name>LUCIA HICKS</Name>
         <Party>United Australia Party</Party>
@@ -3127,6 +3239,10 @@
       <Candidate Rank="3" Incumbent="N">
         <Name>ZEPHYN TAYLOR</Name>
         <Party>Australian Democrats</Party>
+      </Candidate>
+      <Candidate>
+        <Name>SHIRLEY DUMBUL</Name>
+        <Party>TNL</Party>
       </Candidate>
       <Candidate Incumbent="N">
         <Name>JUDITH WILLIAMS</Name>
@@ -3163,6 +3279,10 @@
       <Candidate Rank="2" Incumbent="N">
         <Name>SAZEDA AKTER</Name>
         <Party>Liberal</Party>
+      </Candidate>
+      <Candidate>
+        <Name>STUART CRENT</Name>
+        <Party>TNL</Party>
       </Candidate>
       <Candidate Incumbent="N">
         <Name>FAITH WATERS</Name>
@@ -3274,6 +3394,10 @@
         <Name>TOM WRIGHT</Name>
         <Party>Liberal</Party>
       </Candidate>
+      <Candidate>
+        <Name>JOSEPHINE ADANT</Name>
+        <Party>TNL</Party>
+      </Candidate>
       <Candidate Incumbent="N">
         <Name>JILL TINDAL</Name>
         <Party>One Nation</Party>
@@ -3295,6 +3419,10 @@
       <Candidate Rank="1" Incumbent="Y">
         <Name>SCOTT BUCHHOLZ</Name>
         <Party>Liberal</Party>
+      </Candidate>
+      <Candidate>
+        <Name>LOLA HARRISON</Name>
+        <Party>TNL</Party>
       </Candidate>
       <Candidate Incumbent="N">
         <Name>CASSANDRA DUFFILL</Name>

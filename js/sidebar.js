@@ -60,26 +60,26 @@ function sidebarParser(xmlDoc) {
 		var detailsInsert = "<p class='seatinfo'><strong>Margin: <font color='" + partycolor + "'>" + incumbent + " " + margin + "</font></strong><br /><strong>Region:</strong> " + region + "<br /><strong>State:</strong> " + parseState(state) + "<br /><strong>Enrolment:</strong> " + enrolment + "</p>"
 	}
 
-	if (divisionId == "Cunningham") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Sharon Bird (Labor)</strong></p>" }
-	if (divisionId == "Holt") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Anthony Byrne (Labor)</strong></p>" }
-	if (divisionId == "Spence") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Nick Champion (Labor)</strong></p>" }
-	if (divisionId == "Hunter") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Joel Fitzgibbon (Labor)</strong></p>" }
-	if (divisionId == "Fowler") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Chris Hayes (Labor)</strong></p>" }
-	if (divisionId == "Parramatta") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Julie Owens (Labor)</strong></p>" }
-	if (divisionId == "Lingiari") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Warren Snowdon (Labor)</strong></p>" }
+	// if (divisionId == "Cunningham") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Sharon Bird (Labor)</strong></p>" }
+	//if (divisionId == "Holt") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Anthony Byrne (Labor)</strong></p>" }
+	//if (divisionId == "Spence") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Nick Champion (Labor)</strong></p>" }
+	//if (divisionId == "Hunter") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Joel Fitzgibbon (Labor)</strong></p>" }
+	//if (divisionId == "Fowler") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Chris Hayes (Labor)</strong></p>" }
+	//if (divisionId == "Parramatta") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Julie Owens (Labor)</strong></p>" }
+	//if (divisionId == "Lingiari") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Warren Snowdon (Labor)</strong></p>" }
 
-	if (divisionId == "Bennelong") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> John Alexander (Liberal)</strong></p>" }
-	if (divisionId == "Menzies") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Kevin Andrews (Liberal)</strong></p>" }
-	if (divisionId == "Boothby") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Nicolle Flint (Liberal)</strong></p>" }
-	if (divisionId == "Flinders") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Greg Hunt (Liberal)</strong></p>" }
-	if (divisionId == "Swan") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Steve Irons (Liberal)</strong></p>" }
-	if (divisionId == "Bowman") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Andrew Laming (Liberal National)</strong></p>" }
-	if (divisionId == "Pearce") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Christian Porter (Liberal)</strong></p>" }
-	if (divisionId == "Casey") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Tony Smith (Liberal)</strong></p>" }
+	//if (divisionId == "Bennelong") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> John Alexander (Liberal)</strong></p>" }
+	//if (divisionId == "Menzies") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Kevin Andrews (Liberal)</strong></p>" }
+	//if (divisionId == "Boothby") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Nicolle Flint (Liberal)</strong></p>" }
+	//if (divisionId == "Flinders") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Greg Hunt (Liberal)</strong></p>" }
+	//if (divisionId == "Swan") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Steve Irons (Liberal)</strong></p>" }
+	//if (divisionId == "Bowman") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Andrew Laming (Liberal National)</strong></p>" }
+	//if (divisionId == "Pearce") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Christian Porter (Liberal)</strong></p>" }
+	//if (divisionId == "Casey") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Tony Smith (Liberal)</strong></p>" }
 
-	if (divisionId == "Dawson") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> George Christensen (Liberal National)</strong></p>" }
-	if (divisionId == "Nicholls") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Damian Drum (Nationals)</strong></p>" }
-	if (divisionId == "Flynn") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Ken O'Dowd (Liberal National)</strong></p>" }
+	//if (divisionId == "Dawson") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> George Christensen (Liberal National)</strong></p>" }
+	//if (divisionId == "Nicholls") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Damian Drum (Nationals)</strong></p>" }
+	//if (divisionId == "Flynn") { detailsInsert += "<p class='seatinfo'><strong>Outgoing member:</strong> Ken O'Dowd (Liberal National)</strong></p>" }
 	
 	var d1 = document.getElementById("details")
 	d1.insertAdjacentHTML("afterend", detailsInsert)
@@ -1539,7 +1539,7 @@ function parseColor(input) {
 	if (input == "CDP") {
 		output = "#800080"
 	}
-	if (input == "UAPP") {
+	if (input == "UAP") {
 		output = "#CCBD00"
 	}
 	if (input == "SPP") {
