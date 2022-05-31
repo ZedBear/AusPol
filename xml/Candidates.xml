@@ -296,7 +296,7 @@
     </Candidate>
   </Division>
   <Division id="Boothby">
-    <Candidate Incumbent="N">
+    <Candidate Rank="3" Incumbent="N">
       <Name>STEF ROZITIS</Name>
       <Party>Australian Democrats</Party>
     </Candidate>
@@ -344,7 +344,7 @@
       <Name>JACOB SCHNEIDER</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Incumbent="N">
+    <Candidate Rank="3" Incumbent="N">
       <Name>PHIL PARSONS</Name>
       <Party>Australian Democrats</Party>
     </Candidate>
