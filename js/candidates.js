@@ -57,6 +57,9 @@ function candParser(xmlDoc) {
 	document.getElementById("pic1").src = pic1
 	document.getElementById("pic2").src = pic2
 	document.getElementById("pic3").src = pic3
+
+	document.getElementById("button1") = "Next Electorate: " + divisionId;
+	document.getElementById("button2") = "Previous Electorate: " + divisionId;
 	
 	if (candidates.length < 4) {
 		document.getElementById("candidatesBox").classList.add("candidatesBoxFamily")

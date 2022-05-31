@@ -656,7 +656,7 @@
       <Name>MICHELLE CAMERON</Name>
       <Party>One Nation</Party>
     </Candidate>
-    <Candidate Rank="2" Incumbent="N">
+    <Candidate Rank="1" Incumbent="N">
       <Name>LARA GIDDINGS</Name>
       <Party>Labor</Party>
     </Candidate>
@@ -664,7 +664,7 @@
       <Name>WILL COATS</Name>
       <Party>Liberal</Party>
     </Candidate>
-    <Candidate Incumbent="N">
+    <Candidate Rank="2" Incumbent="N">
       <Name>JUNIPER SHAW</Name>
       <Party>Australian Democrats</Party>
     </Candidate>
@@ -844,13 +844,13 @@
       <Name>YANNICK SPENCER</Name>
       <Party>Labor</Party>
     </Candidate>
-    <Candidate Incumbent="N">
+    <Candidate Rank="2" Incumbent="N">
       <Name>CAMERON PIDGEON</Name>
       <Party>Australian Democrats</Party>
     </Candidate>
   </Division>
   <Division id="Dawson">
-    <Candidate Rank="1" Incumbent="N">
+    <Candidate Rank="1" Incumbent="Y">
       <Name>ANDREW WILLCOX</Name>
       <Party>Liberal</Party>
     </Candidate>
