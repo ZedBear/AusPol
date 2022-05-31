@@ -7,7 +7,8 @@
 <meta charset="utf-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Australian Political Simulator - Candidate List</title>
+<title>divisionname</title>
+<link rel="icon" type="image/x-icon" href="images/favicon.ico">
 <meta name="description" content="Candidate List for the APS Server">
 
 <link rel="stylesheet" type="text/css" href="Elections.css">
@@ -29,6 +30,13 @@
 	if (divisionName == "WideBay") {divisionName = "Wide Bay"}
 	if (divisionName == "OConnor") {divisionName = "O'Connor"}
 	if (divisionName == "LaTrobe") {divisionName = "La Trobe"}
+
+	document.title = divisionName + " - Australian Political Simulation";
+
+	let electorates = ['Adelaide', 'Aston', 'Ballarat', 'Banks', 'Barker', 'Barton', 'Bass', 'Bean', 'Bendigo', 'Bennelong', 'Berowra', 'Blair', 'Blaxland', 'Bonner', 'Boothby', 'Bowman', 'Braddon', 'Bradfield', 'Brand', 'Brisbane', 'Bruce', 'Burt', 'Calare', 'Calwell', 'Canberra', 'Canning', 'Capricornia', 'Casey', 'Chifley', 'Chisholm', 'Clark', 'Cook', 'Cooper', 'Corangamite', 'Corio', 'Cowan', 'Cowper', 'Cunningham', 'Curtin', 'Dawson', 'Deakin', 'Dickson', 'Dobell', 'Dunkley', 'Durack', 'Eden-Monaro', 'Fadden', 'Fairfax', 'Farrer', 'Fenner', 'Fisher', 'Flinders', 'Flynn', 'Forde', 'Forrest', 'Fowler', 'Franklin', 'Fraser', 'Fremantle', 'Gellibrand', 'Gilmore', 'Gippsland', 'Goldstein', 'Gorton', 'Grayndler', 'Greenway', 'Grey', 'Griffith', 'Groom', 'Hasluck', 'Hawke', 'Herbert', 'Higgins', 'Hindmarsh', 'Hinkler', 'Holt', 'Hotham', 'Hughes', 'Hume', 'Hunter', 'Indi', 'Isaacs', 'Jagajaga', 'Kennedy', 'KingsfordSmith', 'Kingston', 'Kooyong', 'LaTrobe', 'Lalor', 'Leichhardt', 'Lilley', 'Lindsay', 'Lingiari', 'Longman', 'Lyne', 'Lyons', 'Macarthur', 'Mackellar', 'Macnamara', 'Macquarie', 'Makin', 'Mallee', 'Maranoa', 'Maribyrnong', 'Mayo', 'McEwen', 'McPherson', 'McMahon', 'Melbourne', 'Menzies', 'Mitchell', 'Monash', 'Moncrieff', 'Moore', 'Moreton', 'New', 'England', 'Newcastle', 'Nicholls', 'North', 'Sydney', 'OConnor', 'Oxley', 'Page', 'Parkes', 'Parramatta', 'Paterson', 'Pearce', 'Perth', 'Petrie', 'Rankin', 'Reid', 'Richmond', 'Riverina', 'Robertson', 'Ryan', 'Scullin', 'Shortland', 'Solomon', 'Spence', 'Sturt', 'Swan', 'Sydney', 'Tangney', 'Warringah', 'Wannon', 'Watson', 'Wentworth', 'Werriwa', 'Whitlam', 'Wide', 'Bay', 'Wills', 'Wright']
+
+	let currentPosition = electorates.indexOf(divisionName);
+	console.log(currentPosition)
 </script>
 
 </head>
@@ -59,7 +67,7 @@
 
 		<div style="font-family: Calibri, sans-serif; font-size: 18px; font-weight: bold; text-align: center">Manually Select an Electorate</div>
 
-		<div style="padding-top: 5px; text-align: center">
+		<div style="padding-top: 5px; text-align: center; padding-bottom: 30px;">
 		
 			<select id="myList" onchange="location = this.value">
 			
@@ -219,6 +227,10 @@
 			</select>
 			
 		</div>
+
+		<!-- Button goes here -->
+		<button class="button" onclick="location ='candidates.html?s=' + electorates[currentPosition - 1]"><span>Previous Electorate</span></button>
+		<button class="button" onclick="location ='candidates.html?s=' + electorates[currentPosition + 1]"><span>Next Electorate</span></button>
 		
 	</div>
 
@@ -248,7 +260,8 @@
 		</table>
 
 		<h3>Background</h3>
-		<div id="background"></div>
+		<!--<div id="background"></div>-->
+		<h5>COMING SOON</h5>
 
 		<!-- <h3>Profile</h3>
 		<div id="profile"></div>
